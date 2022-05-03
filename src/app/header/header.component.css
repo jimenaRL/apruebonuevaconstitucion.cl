@@ -1,0 +1,13 @@
+.header-background{
+    background-color: #2f7ef2;
+}
+img.img_head {
+    max-width: 260px !important;
+    padding: aut;
+    margin: auto;
+}
+
+
+.align-items-start {
+    align-items: center !important;
+}

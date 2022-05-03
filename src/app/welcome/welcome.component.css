@@ -1,0 +1,31 @@
+.welcome-background{
+    background-image: url("../../assets/img/welcome-background.jpeg");
+    height: 500px;
+}
+.frase_hero {
+    display: inline;
+    background: #2f7EF2;
+    font-size: 29px;
+    border: none;
+    border-radius: 0px;
+    margin: auto;
+}
+.welcome-background[_ngcontent-djt-c17] {
+    height: 500px;
+    display: flex;
+    align-items: center;
+    margin: auto;
+}
+
+.container_frase.col.align-items-center {
+    height: 100vh !important;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    flex-basis: º;
+    flex-direction: column;
+}
+.caja_frase {
+    margin: 20% 0 0 0;
+   text-align: center;
+}
