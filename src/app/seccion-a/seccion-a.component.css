@@ -1,21 +1,36 @@
 .seccion-a{
     background-color: #33c47c;
 }
-
 .txt_conocelanuevaconstitucion{
-    background-color: red;
+	margin:15%;
+    background-color: #ff5949;
+	font-size:3em;
+	line-height:1em; 
+	color: #fff;
+	font-family:"Roboto", Gadget, sans-serif;
+	font-style:italic;
+	font-weight:400;
+	text-align:center;
 }
-
+.align-items-center{
+	margin: auto;
+  	width: 80%;
+	padding:5%;
+	}
 .circulo{
     height:100px;
     width:100px;
-    background: rgb(225,72,67);
+    background: #ff5949;
     -moz-border-radius:50px;
     -webkit-border-radius:50px;
     border-radius:50px;
+	text-align:center;
+	padding-top:15px;
+	margin:30px;
  }
-
- .circle-center{
+.circle-center{
      align-items: center;
- }
- 
+}
+.icono{
+	 width:70%;
+	 }
