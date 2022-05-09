@@ -1,3 +1,12 @@
 .footer{
-    background-color: rgba(252, 50, 104);
+    background-color:#ff4e7b;
+}
+.footer-imagen{
+	width:100%;
+	padding:0vw 3vw 3vw 3vw;
+}
+.socials{
+	width:4vw;
+	text-align:center;
+	padding-top:6vw;
 }

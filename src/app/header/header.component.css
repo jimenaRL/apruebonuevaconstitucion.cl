@@ -1,13 +1,18 @@
 .header-background{
     background-color: #2f7ef2;
 }
-img.img_head {
-    max-width: 260px !important;
-    padding: aut;
-    margin: auto;
+.img_head_centro {
+   width:100%;
 }
-
-
+.img_head {
+   width:2.5vw;
+}
 .align-items-start {
-    align-items: center !important;
+    align-items: center!important;
 }
+.titulo-chat{
+	font-family:"Roboto", Gadget, sans-serif;
+	color:#fff;
+	font-size:1em;
+	text-align:right;
+	}
