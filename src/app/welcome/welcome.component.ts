@@ -12,4 +12,7 @@ export class WelcomeComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  goLinkLeeNuevaConstitucion(){
+    window.location.href="https://leelanuevaconstitucion.cl/";
+  }
 }

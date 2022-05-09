@@ -9,6 +9,7 @@ import { SeccionAComponent } from './seccion-a/seccion-a.component';
 import { SeccionBComponent } from './seccion-b/seccion-b.component';
 import { SeccionCComponent } from './seccion-c/seccion-c.component';
 import { FooterComponent } from './footer/footer.component';
+import {MatIconModule} from '@angular/material/icon';
 
 @NgModule({
   declarations: [
@@ -18,11 +19,12 @@ import { FooterComponent } from './footer/footer.component';
     SeccionAComponent,
     SeccionBComponent,
     SeccionCComponent,
-    FooterComponent
+    FooterComponent,
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    MatIconModule
   ],
   providers: [],
   bootstrap: [AppComponent]

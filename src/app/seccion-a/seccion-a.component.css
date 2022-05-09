@@ -5,3 +5,17 @@
 .txt_conocelanuevaconstitucion{
     background-color: red;
 }
+
+.circulo{
+    height:100px;
+    width:100px;
+    background: rgb(225,72,67);
+    -moz-border-radius:50px;
+    -webkit-border-radius:50px;
+    border-radius:50px;
+ }
+
+ .circle-center{
+     align-items: center;
+ }
+ 
