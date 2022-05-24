@@ -24,7 +24,7 @@ export class ArticlesService {
         selectedArticles = this.articles.filter((article)=>article.TAGS.includes(aTag)).map(article => article);
       });
     }
-
+    console.log(selectedArticles);
     return selectedArticles;
   }
 }

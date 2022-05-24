@@ -17,9 +17,7 @@ export class ArticleListComponent implements OnInit {
   ngOnInit(): void {
     this.route.queryParams.subscribe(params => {
       let tagsArray=params["tags"];
-      if(tagsArray!=null && tagsArray.lenght>0){
-        this.articles = this.articlesService.getArticlesByTags(tagsArray);
-      }
+      this.articles = this.articlesService.getArticlesByTags(tagsArray);
     });
   }
 
