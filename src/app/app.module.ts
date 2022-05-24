@@ -10,6 +10,9 @@ import { SeccionBComponent } from './seccion-b/seccion-b.component';
 import { SeccionCComponent } from './seccion-c/seccion-c.component';
 import { FooterComponent } from './footer/footer.component';
 import {MatIconModule} from '@angular/material/icon';
+import { HomeComponent } from './home/home.component';
+import { ArticleComponent } from './article/article.component';
+import { ArticleListComponent } from './article-list/article-list.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +22,10 @@ import {MatIconModule} from '@angular/material/icon';
     SeccionAComponent,
     SeccionBComponent,
     SeccionCComponent,
-    FooterComponent,
+    FooterComponent, 
+    HomeComponent,
+    ArticleComponent,
+    ArticleListComponent
   ],
   imports: [
     BrowserModule,
