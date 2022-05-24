@@ -1,3 +1,8 @@
-<div *ngFor="let article of articles">
-    <app-article [article]="article"></app-article>
+<div class="parallax article-list">
+    <div style="height: 500px; text-align: center;"> 
+        <div *ngFor="let article of articles">
+            <app-article [article]="article"></app-article>
+        </div>
+        <a [routerLink]="'/'" class="previous round">Volver</a>
+    </div>        
 </div>

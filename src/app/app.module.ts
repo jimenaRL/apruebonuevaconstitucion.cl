@@ -13,6 +13,7 @@ import {MatIconModule} from '@angular/material/icon';
 import { HomeComponent } from './home/home.component';
 import { ArticleComponent } from './article/article.component';
 import { ArticleListComponent } from './article-list/article-list.component';
+import { ArticlesService } from './articles.service';
 
 @NgModule({
   declarations: [
@@ -32,7 +33,7 @@ import { ArticleListComponent } from './article-list/article-list.component';
     AppRoutingModule,
     MatIconModule
   ],
-  providers: [],
+  providers: [ArticlesService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

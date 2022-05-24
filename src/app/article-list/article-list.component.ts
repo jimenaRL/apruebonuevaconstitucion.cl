@@ -1,5 +1,6 @@
 import { Component, Input, OnInit } from '@angular/core';
-import dataSource from '../../assets/datasource.json';
+import { ActivatedRoute } from '@angular/router';
+import { ArticlesService } from '../articles.service';
 
 @Component({
   selector: 'app-article-list',
@@ -7,14 +8,19 @@ import dataSource from '../../assets/datasource.json';
   styleUrls: ['./article-list.component.css']
 })
 export class ArticleListComponent implements OnInit {
-  articles = dataSource;
+  articles:any = [];
   @Input() tags:string[] | undefined;
   
-  constructor() { 
-    
+  constructor(private articlesService: ArticlesService,private route: ActivatedRoute) { 
   }
 
   ngOnInit(): void {
+    this.route.queryParams.subscribe(params => {
+      let tagsArray=params["tags"];
+      if(tagsArray!=null && tagsArray.lenght>0){
+        this.articles = this.articlesService.getArticlesByTags(tagsArray);
+      }
+    });
   }
 
 }

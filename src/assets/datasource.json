@@ -2,7 +2,9 @@
     {
         "id": 1,
         "C80": "Declara el agua como un bien que se puede vender, privilegiando \"derechos particulares\" por sobre comunidades completas",
+        "C80_img": "",
         "NC": "El agua es un bien inapropiable y la constitución lo garantiza como un derecho humano",
+        "NC_img": "",
         "TAGS": [
             "agua",
             "derecho al agua"
@@ -14,10 +16,12 @@
    {
     "id": 2,
     "C80": "Ejemplo 2 C80",
+    "C80_img": "",
     "NC": "Ejemplo 2 NC",
+    "NC_img": "",
     "TAGS": [
-        "agua",
-        "derecho al agua"
+        "propiedad",
+        "propiedad privada"
     ],
     "titulo": "Derecho al agua",
     "relacionadas": [1],
