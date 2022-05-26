@@ -1,59 +1,96 @@
+
+.content {
+    display: flex;
+    margin: auto;
+    padding: 0px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.col-flex{
+    align-items: center;
+    display: flex;
+    flex-flow: column;
+}
+
+.col-flex-row{
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.simple-highlight{
+  background-color:#2f72f2;
+  margin-top: 5vw;
+  margin-bottom: 3vw;
+  font-size: 2.5vw;
+  color: #fff;
+  font-style:italic;
+  font-weight:400;
+}
+
+.btn-anc{
+  background: #fff;
+  color: #e5da43;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+  font-size: 1.5vw;
+  font-weight: 600;
+  padding: 1vw 2vw;
+}
+
+/* seccion b */
+.content-stretch {
+    display: flex;
+    margin: auto;
+    padding: 0px;
+    flex-direction: column;
+    align-items: stretch;
+}
+
 .seccion-b-1{
     background-color: #e84dc7;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
 }
 
 .seccion-b-2{
     background-color: #ff5549;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
 }
-.kit{
-	text-align:center;}
-.btn-kit{
-	margin-top:10%;
-	background:#e5da53;
-    color:#e84dc7;
-	font-size:2em;
-	font-style:bold;
-	font-weight:800;
-	line-height:3em;
-	text-align:center;
-	border:none;
-	padding:2%;
 
+.title_b{
+  font-size:3em;
+  line-height:1em;
+  color: #fff;
+  font-style:bold;
+  font-weight:400;
+  text-align:center;
+  margin-top: 4vw;
+  margin-bottom: 2vw;
 }
-.btn-aporte{
-	margin-top:10%;
-	background:#e5da53;
-    color:#ff5949;
-	font-size:2em;
-	font-style:bold;
-	font-weight:800;
-	line-height:3em;
-	text-align:center;
-	border:none;
-	padding:2%;
+
+.btn-wrapper-b{
+  text-align: center;
+  margin-top: 3vw;
+  margin-bottom: 2vw;
 }
-.titulo-campana{
-	margin-top:10%;
-   /* background-color: #ff5949;*/
-	font-size:3em;
-	line-height:1em; 
-	color: #fff;
-	font-family:"Roboto", Gadget, sans-serif;
-	font-style:bold;
-	font-weight:400;
-	text-align:center;
-}
-.texto-campana{
-	margin-top:10%;
-   /* background-color: #ff5949;*/
-	font-size:1em;
-	line-height:1em; 
-	color: #fff;
-	font-family:"Roboto", Gadget, sans-serif;
-	font-style:bold;
-	font-weight:400;
-	text-align:center;
-	text-align:justify;
-	width:70%;
-	margin-bottom:10%;
+
+.txt-b{
+  font-size:1em;
+  line-height:1em;
+  color: #fff;
+  font-style:bold;
+  font-weight:400;
+  text-align:center;
+  width:70%;
+  margin-top: 2vw;
+  margin-bottom: 4vw;
 }
