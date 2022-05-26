@@ -42,6 +42,11 @@
 }
 
 /* seccion b */
+
+.row {
+    --bs-gutter-x:  0;
+}
+
 .content-stretch {
     display: flex;
     margin: auto;
