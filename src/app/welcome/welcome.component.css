@@ -1,6 +1,11 @@
 /* welcome */
+
 .welcome-content {
+    display: flex;
+    margin: auto;
     margin: 5em 0em 0em 0em; /* to match header height*/
+    flex-direction: column;
+    align-items: center;
 }
 
 .welcome-image {
