@@ -4,7 +4,7 @@
         "C80": "No asegura el derecho al agua de las personas.",
         "C80_img": "",
         "NC": "Todas las personas tienen derecho al agua en cantidad suficiente, que sea saludable y de precio abordable.",
-        "NC_img": "",
+        "NC_img": "../../assets/img/mook-imagen-agua-1.png",
         "TAGS": [
             "agua",
             "medioambiente",
@@ -19,7 +19,7 @@
     "C80": "El agua esta privatizada, los particulares tienen propriedad sobre ella.",
     "C80_img": "",
     "NC": "El agua es indispensable para la vida, por esto no es propiedad de nadie en particular, pero todos podremos usarlos de manera democrática, participativa y equitativa.",
-    "NC_img": "",
+    "NC_img": "../../assets/img/mook-imagen-agua-2.png",
     "TAGS": [
         "agua",
         "medioambiente",
@@ -34,7 +34,7 @@
         "C80": "No asegura el derecho al agua de las personas.",
         "C80_img": "",
         "NC": "Todas las personas tienen derecho al agua en cantidad suficiente, que sea saludable y de precio abordable.",
-        "NC_img": "",
+        "NC_img": "../../assets/img/mook-imagen-agua-3.png",
         "TAGS": [
             "agua",
             "medioambiente",
