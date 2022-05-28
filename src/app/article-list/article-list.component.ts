@@ -10,8 +10,8 @@ import { ArticlesService } from '../articles.service';
 export class ArticleListComponent implements OnInit {
   articles:any = [];
   @Input() tags:string[] | undefined;
-  
-  constructor(private articlesService: ArticlesService,private route: ActivatedRoute) { 
+
+  constructor(private articlesService: ArticlesService,private route: ActivatedRoute) {
   }
 
   ngOnInit(): void {
