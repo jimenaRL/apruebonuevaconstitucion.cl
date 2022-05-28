@@ -65,10 +65,17 @@
   	padding-top:15px;
   	margin:30px;
  }
+ 
 .circle-center{
      align-items: center;
 }
 
 .icono{
 	 width:70%;
+}
+
+@media screen and (max-width: 576px) {
+    .txt-b{
+      font-size: 0.75em;
+    }
 }
