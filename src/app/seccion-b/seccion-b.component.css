@@ -4,13 +4,7 @@
     --bs-gutter-x:  0;
 }
 
-.content-stretch {
-    display: flex;
-    margin: auto;
-    padding: 0px;
-    flex-direction: column;
-    align-items: stretch;
-}
+
 
 .seccion-b-1{
     background-color: #e84dc7;
@@ -55,4 +49,10 @@
   width:70%;
   margin-top: 2vw;
   margin-bottom: 4vw;
+}
+
+@media screen and (max-width: 576px) {
+    .txt-b{
+      font-size: 0.75em;
+    }
 }
