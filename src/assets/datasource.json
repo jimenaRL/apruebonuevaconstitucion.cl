@@ -88,5 +88,20 @@
     "titulo": "Privatizacion del agua",
     "relacionadas": [1],
     "numero": ""
+    },
+    {
+        "id": 7,
+        "C80": "No hace mención a la protección de quienes denuncian actos de corrupción.",
+        "C80_img": "",
+        "NC": "Da garantías de protección, secreto y exención de daños, a quienes denuncian actos de corrupción o de falta a la probidad.",
+        "NC_img": "",
+        "TAGS": [
+            "corrupción",
+            "denunciar corrupción",
+            "actos de corrupción"
+        ],
+        "titulo": "Denunciar la corrupción",
+        "relacionadas": [1],
+        "numero": ""
     }
 ]
