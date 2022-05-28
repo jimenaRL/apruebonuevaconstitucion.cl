@@ -6,17 +6,9 @@
     align-items: stretch;
 }
 
-.col-flex{
-    align-items: center;
-    display: flex;
-    flex-flow: column;
-}
-
-.col-flex-row{
-    display: flex;
-    flex-flow: row;
-    align-items: center;
-    justify-content: center;
+.seccion-a{
+    background-color: #33c47c;
+/*    text-align:center;*/
 }
 
 .simple-highlight-a{
@@ -42,13 +34,8 @@
 
 .btn-wrapper-a{
   text-align: center;
-  margin-top: 1vw;
+  margin-top: 3vw;
   margin-bottom: 4vw;
-}
-
-.seccion-a{
-    background-color: #33c47c;
-    text-align:center;
 }
 
 .txt_conocelanuevaconstitucion{
@@ -64,6 +51,7 @@
   	width: 80%;
 	padding:5%;
 	}
+
 .circulo{
     height:100px;
     width:100px;
@@ -78,6 +66,7 @@
 .circle-center{
      align-items: center;
 }
+
 .icono{
 	 width:70%;
-	 }
+}
