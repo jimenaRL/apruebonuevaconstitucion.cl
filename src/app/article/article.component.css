@@ -1,4 +1,25 @@
 .card-centered{
     text-align: center;
     width: 18rem;
+    padding: 20px;
+}
+
+.card-rounded{
+    border-radius:2vh;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
+
+.card-title{
+    font-weight: bold;
+    text-decoration:solid;
+    text-align: center;
+    background-color: rgb(251, 195, 81);
+}
+
+.inner-card{
+    text-align: left;
+    background-color: lightgray;
+    border-radius:2vh;
+    margin-right: 2vh;
 }

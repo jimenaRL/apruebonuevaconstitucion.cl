@@ -1,13 +1,20 @@
-<div class="card card-centered">
+<div class="card card-centered card-rounded">
     <div class="card-body">
-      <h5 class="card-title">{{ article.titulo }}</h5>
-      <h6 class="card-subtitle mb-2 text-muted">{{ article.tags }}</h6>
+      <div class="row">
+        <div class="col-3">
+        </div>
+        <div class="col">
+          <div class="card-title">{{ article.titulo }}</div>
+        </div>
+        <div class="col-3">
+        </div>
+      </div>
       <div class="container seccion-c">
         <div class="row">
-            <div class="col">
+            <div class="col inner-card">
                 {{ article.C80 }}
             </div>
-            <div class="col">
+            <div class="col inner-card">
                 {{ article.NC }}
             </div>
         </div>
