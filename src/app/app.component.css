@@ -64,9 +64,19 @@
   border: none;
   cursor: pointer;
   border-radius: 4px;
+  text-decoration: none;
   font-size: 1.5vw;
-  font-weight: 600;
+  font-weight: 400;
   padding: 1vw 2vw;
 }
 
-
+@media screen and (max-width: 576px) {
+    .btn-anc{
+      font-size: 2.75vw;
+      padding: 2vw 2vw;
+    }
+    .simple-highlight{
+      padding:  1.5vw;
+      font-size: 4vw;
+    }
+}

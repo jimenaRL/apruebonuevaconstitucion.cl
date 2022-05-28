@@ -1,8 +1,13 @@
-<div class="parallax article-list">
-    <div style="height: 500px; text-align: center;"> 
+<div class="article-list">
+    <div class="content">
+        <button type="button" class="btn-close" aria-label="Close">
+            <a [routerLink]="'/'"></a>
+        </button>   
         <div *ngFor="let article of articles">
             <app-article [article]="article"></app-article>
         </div>
-        <a [routerLink]="'/'" class="previous round">Volver</a>
-    </div>        
+        <button type="button" class="btn-close" aria-label="Close">
+            <a [routerLink]="'/'"></a>
+        </button>
+    </div>
 </div>

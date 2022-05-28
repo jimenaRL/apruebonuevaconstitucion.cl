@@ -11,7 +11,7 @@
 /*    text-align:center;*/
 }
 
-.simple-highlight-a{
+/*.simple-highlight-a{
   background-color: #ff5549;
   margin-top: 5vw;
   margin-bottom: 3vw;
@@ -20,19 +20,20 @@
   padding: 1vw;
   font-style:italic;
   font-weight:400;
-}
+}*/
 
-.btn-anc-a{
+/*.btn-anc-a{
   background: #fff;
   color: #e5da43;
   border: none;
   cursor: pointer;
   border-radius: 4px;
   font-size: 1.5vw;
-  font-weight: 600;
+  font-weight: 400;
   padding: 1vw 2vw;
+  text-decoration: none;
 }
-
+*/
 .btn-wrapper-a{
   text-align: center;
   margin-top: 3vw;
@@ -64,10 +65,17 @@
   	padding-top:15px;
   	margin:30px;
  }
+ 
 .circle-center{
      align-items: center;
 }
 
 .icono{
 	 width:70%;
+}
+
+@media screen and (max-width: 576px) {
+    .txt-b{
+      font-size: 0.75em;
+    }
 }
