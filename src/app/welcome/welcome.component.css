@@ -1,35 +1,14 @@
-.welcome-background{
-    background-image: url("../../assets/img/welcome-background.jpeg");
-    height: 500px;
-	background-size:cover;
-}
+/* welcome */
 
-.txt_laconstitucionquetemereces{
- 	background-color:#2f72f2;
- 	padding:0.2em 0.2em;
- 	font-size:3em;
-	line-height:1.3em;
-	color: #fff;
-	font-style:italic;
-	font-weight:400;
-}
-
-.welcome-background[_ngcontent-djt-c17] {
-    height: 500px;
+.welcome-content {
     display: flex;
-    align-items: center;
     margin: auto;
+    margin: 5em 0em 0em 0em; /* to match header height*/
+    flex-direction: column;
+    align-items: center;
 }
 
-.container_frase.col.align-items-center {
-    height: 100vh !important;
-    display: flex;
-    align-content: center;
-    align-items: center;
-    flex-basis: º;
-    flex-direction: column;
-}
-.caja_frase {
-    margin: 10% 0 0 0;
-   text-align: center;
+.welcome-image {
+  max-width: 100%;
+  height: auto;
 }

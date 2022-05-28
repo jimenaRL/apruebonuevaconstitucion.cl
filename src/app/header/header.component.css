@@ -1,18 +1,68 @@
-.header-background{
-    background-color: #2f7ef2;
+/* header */
+
+.toolbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 5em;
+  display: flex;
+  align-items: center;
+  background-color: #1976d2;
+  color: white;
+  font-weight: 400;
 }
-.img_head_centro {
-   width:100%;
-   padding:2vw;
+
+.toolbar span{
+  text-align: right;
 }
-.img_head {
-   width:2.5vw;
+
+.toolbar #apruebo-logo {
+  width: 180px;
+  margin: 0 24px;
+  content: url("../../assets/img/apruebo-header.svg");
 }
-.align-items-start {
-    align-items: center!important;
+
+
+.toolbar #ilustracion-banner {
+  height: 60px;
+  margin: 0px;
+  content: url("../../assets/img/ilustracion-banner.svg");
 }
-.titulo-chat{
-	color:#fff;
-	font-size:1em;
-	text-align:right;
+
+.toolbar #whatsapp-logo {
+  height: 30px;
+  margin: 0 32px;
+}
+
+.toolbar #whatsapp-logo:hover  {
+  opacity: 0.8;
+}
+
+@media screen and (max-width: 660px) {
+  .toolbar #apruebo-logo {
+    width: 140px;
+  }
+  .toolbar  #ilustracion-banner {
+    display: none;
+    visibility: hidden;
+  }
+  .toolbar #whatsapp-logo {
+    height: 40px;
+    margin: 0 16px;
+  }
+}
+
+@media screen and (max-width: 360px) {
+  .toolbar #cta-banner, #whatsapp-logo {
+    display: none;
+    visibility: hidden;
+  }
+}
+
+@media screen and (max-width: 200px) {
+  .toolbar #apruebo-logo {
+    display: none;
+    visibility: hidden;
+  }
 }

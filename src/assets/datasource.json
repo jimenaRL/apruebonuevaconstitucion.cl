@@ -1,29 +1,91 @@
 [
     {
         "id": 1,
-        "C80": "Declara el agua como un bien que se puede vender, privilegiando \"derechos particulares\" por sobre comunidades completas",
+        "C80": "No asegura el derecho al agua de las personas.",
         "C80_img": "",
-        "NC": "El agua es un bien inapropiable y la constitución lo garantiza como un derecho humano",
+        "NC": "Todas las personas tienen derecho al agua en cantidad suficiente, que sea saludable y de precio abordable.",
         "NC_img": "",
         "TAGS": [
             "agua",
-            "derecho al agua"
+            "medioambiente",
+            "derechos fundamentales"
         ],
-        "titulo": "Derecho al agua",
-        "relacionadas": [],
+        "titulo": "Derecho humano al agua",
+        "relacionadas": [2],
         "numero": ""
    },
    {
     "id": 2,
-    "C80": "Ejemplo 2 C80",
+    "C80": "El agua esta privatizada, los particulares tienen propriedad sobre ella.",
     "C80_img": "",
-    "NC": "Ejemplo 2 NC",
+    "NC": "El agua es indispensable para la vida, por esto no es propiedad de nadie en particular, pero todos podremos usarlos de manera democrática, participativa y equitativa.",
     "NC_img": "",
     "TAGS": [
-        "propiedad",
-        "propiedad privada"
+        "agua",
+        "medioambiente",
+        "bienes naturales comunes"
     ],
-    "titulo": "Derecho al agua",
+    "titulo": "Privatizacion del agua",
+    "relacionadas": [1],
+    "numero": ""
+    },
+    {
+        "id": 3,
+        "C80": "No asegura el derecho al agua de las personas.",
+        "C80_img": "",
+        "NC": "Todas las personas tienen derecho al agua en cantidad suficiente, que sea saludable y de precio abordable.",
+        "NC_img": "",
+        "TAGS": [
+            "agua",
+            "medioambiente",
+            "derechos fundamentales"
+        ],
+        "titulo": "Derecho humano al agua",
+        "relacionadas": [2],
+        "numero": ""
+   },
+   {
+    "id": 4,
+    "C80": "El agua esta privatizada, los particulares tienen propriedad sobre ella.",
+    "C80_img": "",
+    "NC": "El agua es indispensable para la vida, por esto no es propiedad de nadie en particular, pero todos podremos usarlos de manera democrática, participativa y equitativa.",
+    "NC_img": "",
+    "TAGS": [
+        "agua",
+        "medioambiente",
+        "bienes naturales comunes"
+    ],
+    "titulo": "Privatizacion del agua",
+    "relacionadas": [1],
+    "numero": ""
+    },
+    {
+        "id": 5,
+        "C80": "No asegura el derecho al agua de las personas.",
+        "C80_img": "",
+        "NC": "Todas las personas tienen derecho al agua en cantidad suficiente, que sea saludable y de precio abordable.",
+        "NC_img": "",
+        "TAGS": [
+            "agua",
+            "medioambiente",
+            "derechos fundamentales"
+        ],
+        "titulo": "Derecho humano al agua",
+        "relacionadas": [2],
+        "numero": ""
+   },
+   {
+    "id": 6,
+    "C80": "El agua esta privatizada, los particulares tienen propriedad sobre ella.",
+    "C80_img": "",
+    "NC": "El agua es indispensable para la vida, por esto no es propiedad de nadie en particular, pero todos podremos usarlos de manera democrática, participativa y equitativa.",
+    "NC_img": "",
+    "TAGS": [
+        "agua",
+        "medioambiente",
+        "bienes naturales comunes"
+    ],
+    "titulo": "Privatizacion del agua",
     "relacionadas": [1],
     "numero": ""
     }

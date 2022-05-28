@@ -1,59 +1,58 @@
+/* seccion b */
+
+.row {
+    --bs-gutter-x:  0;
+}
+
+.content-stretch {
+    display: flex;
+    margin: auto;
+    padding: 0px;
+    flex-direction: column;
+    align-items: stretch;
+}
+
 .seccion-b-1{
     background-color: #e84dc7;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
 }
 
 .seccion-b-2{
     background-color: #ff5549;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
 }
-.kit{
-	text-align:center;}
-.btn-kit{
-	margin-top:10%;
-	background:#e5da53;
-    color:#e84dc7;
-	font-size:2em;
-	font-style:bold;
-	font-weight:800;
-	line-height:3em;
-	text-align:center;
-	border:none;
-	padding:2%;
 
+.title_b{
+  font-size:3em;
+  line-height:1em;
+  color: #fff;
+  font-style:bold;
+  font-weight:400;
+  text-align:center;
+  margin-top: 4vw;
+  margin-bottom: 2vw;
 }
-.btn-aporte{
-	margin-top:10%;
-	background:#e5da53;
-    color:#ff5949;
-	font-size:2em;
-	font-style:bold;
-	font-weight:800;
-	line-height:3em;
-	text-align:center;
-	border:none;
-	padding:2%;
+
+.btn-wrapper-b{
+  text-align: center;
+  margin-top: 3vw;
+  margin-bottom: 2vw;
 }
-.titulo-campana{
-	margin-top:10%;
-   /* background-color: #ff5949;*/
-	font-size:3em;
-	line-height:1em; 
-	color: #fff;
-	font-family:"Roboto", Gadget, sans-serif;
-	font-style:bold;
-	font-weight:400;
-	text-align:center;
-}
-.texto-campana{
-	margin-top:10%;
-   /* background-color: #ff5949;*/
-	font-size:1em;
-	line-height:1em; 
-	color: #fff;
-	font-family:"Roboto", Gadget, sans-serif;
-	font-style:bold;
-	font-weight:400;
-	text-align:center;
-	text-align:justify;
-	width:70%;
-	margin-bottom:10%;
+
+.txt-b{
+  font-size:1em;
+  line-height:1em;
+  color: #fff;
+  font-style:bold;
+  font-weight:400;
+  text-align:center;
+  width:70%;
+  margin-top: 2vw;
+  margin-bottom: 4vw;
 }

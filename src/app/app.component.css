@@ -1,20 +1,72 @@
-body, html {
-    height: 100%;
-    background-color: #2f7ef2;
-  }
-  
-  .parallax {
-    /* The image used */
-    /*background-image: url("/assets/img/IMG_6328.jpeg");*/
-  
-    /* Full height */
-    height: 100%;
-  
-    /* Create the parallax scrolling effect */
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
+:host {
+  font-family: "Alegreya Sans", "Roboto Slab", "Roboto", sans-serif;
+  font-size: 14px;
+  color: #333;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
 
-  
+
+/* multiple sections */
+
+.span {
+    margin: 0;
+}
+
+.spacer {
+  flex: 1;
+}
+
+.content {
+    display: flex;
+    margin: auto;
+    padding: 0px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.content-stretch {
+    display: flex;
+    margin: auto;
+    padding: 0px;
+    flex-direction: column;
+    align-items: stretch;
+}
+
+.col-flex{
+    align-items: center;
+    display: flex;
+    flex-flow: column;
+}
+
+.col-flex-row{
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.simple-highlight{
+  background-color:#2f72f2;
+  margin-top: 5vw;
+  margin-bottom: 3vw;
+  padding:  1vw;
+  font-size: 2.5vw;
+  color: #fff;
+  font-style:italic;
+  font-weight:400;
+}
+
+.btn-anc{
+  background: #fff;
+  color: #e5da43;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+  font-size: 1.5vw;
+  font-weight: 600;
+  padding: 1vw 2vw;
+}
+
+

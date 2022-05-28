@@ -1,24 +1,58 @@
+.content-stretch {
+    display: flex;
+    margin: auto;
+    padding: 0px;
+    flex-direction: column;
+    align-items: stretch;
+}
+
 .seccion-a{
     background-color: #33c47c;
-	text-align:center;
+/*    text-align:center;*/
 }
+
+.simple-highlight-a{
+  background-color: #ff5549;
+  margin-top: 5vw;
+  margin-bottom: 3vw;
+  font-size: 2.5vw;
+  color: #fff;
+  padding: 1vw;
+  font-style:italic;
+  font-weight:400;
+}
+
+.btn-anc-a{
+  background: #fff;
+  color: #e5da43;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+  font-size: 1.5vw;
+  font-weight: 600;
+  padding: 1vw 2vw;
+}
+
+.btn-wrapper-a{
+  text-align: center;
+  margin-top: 3vw;
+  margin-bottom: 4vw;
+}
+
 .txt_conocelanuevaconstitucion{
-	margin-top:3em;
-	}
-.simple-highlight{
- 	background-color:#ff5949;
- 	padding:0.2em 0.2em;
- 	font-size:3em;
-	line-height:1.3em; 
-	color: #fff;
-	font-style:italic;
-	font-weight:400;
+  text-align: center;
+  margin-top: 5vw;
+  margin-bottom: 2vw;
 }
+
+
+
 .align-items-center{
 	margin: auto;
   	width: 80%;
 	padding:5%;
 	}
+
 .circulo{
     height:100px;
     width:100px;
@@ -26,22 +60,14 @@
     -moz-border-radius:50px;
     -webkit-border-radius:50px;
     border-radius:50px;
-	text-align:center;
-	padding-top:15px;
-	margin:30px;
+  	text-align:center;
+  	padding-top:15px;
+  	margin:30px;
  }
 .circle-center{
      align-items: center;
 }
+
 .icono{
 	 width:70%;
-	 }
-
-.btn_leenuevaconstitucion {
-    background: #ff5949;
-    color: #fff;
-    font-size:1.5em;
-    border: none;
-    margin-top:5%;
-	padding:2%;
 }
