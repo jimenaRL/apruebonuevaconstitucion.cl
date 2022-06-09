@@ -23,7 +23,7 @@ import { ArticlesService } from './services/articles.service';
     SeccionAComponent,
     SeccionBComponent,
     SeccionCComponent,
-    FooterComponent, 
+    FooterComponent,
     HomeComponent,
     ArticleComponent,
     ArticleListComponent

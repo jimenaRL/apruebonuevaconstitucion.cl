@@ -1,6 +1,13 @@
 .article-list{
-    background-color: #33c47c;
+    background-color: #ffffff;
     text-align:center;
+}
+
+
+.content{
+    background-color: #ffffff;
+    text-align:center;
+    width: 80vw;
 }
 
 .previous {
@@ -16,4 +23,4 @@ a {
     text-decoration: none;
     display: inline-block;
     padding: 8px 16px;
-  }
+}

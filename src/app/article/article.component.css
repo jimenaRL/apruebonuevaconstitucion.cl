@@ -1,25 +1,86 @@
-.card-centered{
-    text-align: center;
-    width: 18rem;
+.card-main {
+    /*border:  none;*/
     padding: 20px;
+    width: 80vw;
 }
 
-.card-rounded{
-    border-radius:2vh;
-    margin-top: 2vh;
-    margin-bottom: 2vh;
+.card-header {
+    padding: 0;
 }
 
-.card-title{
-    font-weight: bold;
-    text-decoration:solid;
-    text-align: center;
-    background-color: rgb(251, 195, 81);
+.card-body{
+    padding: 0;
 }
 
-.inner-card{
+.card-header-comparativo {
+    background-color: #2F7EF2;
+    /* font-size: 47pt;*/
+    /*letter-spacing:  20pt;*/
+    min-height: 80px;
+    width:  100%;
+    color: #EDEBDF;
+    font-size: 4rem;
+    font-weight: 800;
+}
+
+.espace {
+    min-height: 10px;
+    background-color: #ffffff;
+    border-bottom:  none;
+}
+
+.card-c80 {
+    background-color: #E8E8E8;
+    height: 100%;
+}
+
+.card-header-both {
+    font-weight: 800;
+/*    font-size: 23pt;*/
+    font-size: 18pt;
+    height: 35px;
+}
+
+.card-header-c80 {
+    background-color: #202735;
+    color: #EDEBDF;
+
+}
+
+.card-header-nc {
+    background-color:  #EDEBDF;
+    color: #2F7EF2;
+}
+
+
+.border {
+    border-width: 3px !important;
+}
+
+.card-nc {
+    background-color: #FFFFFF;
+}
+
+
+.card-text{
+    /*font-size: 32pt;*/
+    font-size: 2em;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    font-weight: 400;
+    white-space: pre-wrap;
     text-align: left;
-    background-color: lightgray;
-    border-radius:2vh;
-    margin-right: 2vh;
+    line-height: 1.1em;
+}
+
+.card-text-nc{
+    color: #2F7EF2;
+}
+
+
+.tema{
+    color: #2F7EF2;
+    font-weight: 800;
+    font-size: 18pt;
 }

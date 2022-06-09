@@ -1,107 +1,254 @@
 [
-    {
-        "id": 1,
-        "C80": "No asegura el derecho al agua de las personas.",
-        "C80_img": "",
-        "NC": "Todas las personas tienen derecho al agua en cantidad suficiente, que sea saludable y de precio abordable.",
-        "NC_img": "../../assets/img/mook-imagen-agua-1.png",
-        "TAGS": [
-            "agua",
-            "medioambiente",
-            "derechos fundamentales"
-        ],
-        "titulo": "Derecho humano al agua",
-        "relacionadas": [2],
-        "numero": ""
-   },
-   {
-    "id": 2,
-    "C80": "El agua esta privatizada, los particulares tienen propriedad sobre ella.",
-    "C80_img": "",
-    "NC": "El agua es indispensable para la vida, por esto no es propiedad de nadie en particular, pero todos podremos usarlos de manera democrática, participativa y equitativa.",
-    "NC_img": "../../assets/img/mook-imagen-agua-2.png",
-    "TAGS": [
-        "agua",
-        "medioambiente",
-        "bienes naturales comunes"
-    ],
-    "titulo": "Privatizacion del agua",
-    "relacionadas": [1],
-    "numero": ""
-    },
-    {
-        "id": 3,
-        "C80": "No asegura el derecho al agua de las personas.",
-        "C80_img": "",
-        "NC": "Todas las personas tienen derecho al agua en cantidad suficiente, que sea saludable y de precio abordable.",
-        "NC_img": "../../assets/img/mook-imagen-agua-3.png",
-        "TAGS": [
-            "agua",
-            "medioambiente",
-            "derechos fundamentales"
-        ],
-        "titulo": "Derecho humano al agua",
-        "relacionadas": [2],
-        "numero": ""
-   },
-   {
-    "id": 4,
-    "C80": "El agua esta privatizada, los particulares tienen propriedad sobre ella.",
-    "C80_img": "",
-    "NC": "El agua es indispensable para la vida, por esto no es propiedad de nadie en particular, pero todos podremos usarlos de manera democrática, participativa y equitativa.",
-    "NC_img": "",
-    "TAGS": [
-        "agua",
-        "medioambiente",
-        "bienes naturales comunes"
-    ],
-    "titulo": "Privatizacion del agua",
-    "relacionadas": [1],
-    "numero": ""
-    },
-    {
-        "id": 5,
-        "C80": "No asegura el derecho al agua de las personas.",
-        "C80_img": "",
-        "NC": "Todas las personas tienen derecho al agua en cantidad suficiente, que sea saludable y de precio abordable.",
-        "NC_img": "",
-        "TAGS": [
-            "agua",
-            "medioambiente",
-            "derechos fundamentales"
-        ],
-        "titulo": "Derecho humano al agua",
-        "relacionadas": [2],
-        "numero": ""
-   },
-   {
-    "id": 6,
-    "C80": "El agua esta privatizada, los particulares tienen propriedad sobre ella.",
-    "C80_img": "",
-    "NC": "El agua es indispensable para la vida, por esto no es propiedad de nadie en particular, pero todos podremos usarlos de manera democrática, participativa y equitativa.",
-    "NC_img": "",
-    "TAGS": [
-        "agua",
-        "medioambiente",
-        "bienes naturales comunes"
-    ],
-    "titulo": "Privatizacion del agua",
-    "relacionadas": [1],
-    "numero": ""
-    },
-    {
-        "id": 7,
-        "C80": "No hace mención a la protección de quienes denuncian actos de corrupción.",
-        "C80_img": "",
-        "NC": "Da garantías de protección, secreto y exención de daños, a quienes denuncian actos de corrupción o de falta a la probidad.",
-        "NC_img": "",
-        "TAGS": [
-            "corrupción",
-            "denunciar corrupción",
-            "actos de corrupción"
-        ],
-        "titulo": "Denunciar la corrupción",
-        "relacionadas": [1],
-        "numero": ""
-    }
+ {
+   "id": 1,
+   "img": "",
+   "relacionadas": [],
+   "TAGS": ["ANTI CORRUPCION"],
+   "ESTADO": "Revisado por Irune y Karina",
+   "COMISION": "Sistema Político",
+   "numero": "13 informe 2",
+   "titulo": "Inhabilidades para ejercer cargos públicos",
+   "C80": "Nada dice. No establece inhabilidades ante este tipo de delitos.\n\n\n",
+   "NC": "No podrán optar a cargos públicos ni de elección popular las personas condenadas por crímenes de lesa humanidad, delitos sexuales y de violencia intrafamiliar.\n\nTampoco quienes tengan condenas por corrupción, fraude al fisco, lavado de activos, soborno, cohecho y malversación de caudales públicos."
+ },
+ {
+   "id": 2,
+   "img": "",
+   "relacionadas": [],
+   "TAGS": ["ANTI CORRUPCION"],
+   "ESTADO": "Revisado por Irune y Karina",
+   "COMISION": "Sistema Político",
+   "numero": "7 informe 2",
+   "titulo": "Anticorrupción",
+   "C80": "Nada dice. \n",
+   "NC": "Establece que la corrupción es contraria al bien común y atenta contra el sistema democrático.\n\nEl Estado tomará las medidas necesarias para su prevención, persecución y sanción.\nQuienes denuncien hechos de corrupción tendrán la debida protección."
+ },
+ {
+   "id": 3,
+   "img": "",
+   "relacionadas": [],
+   "TAGS": ["ANTI CORRUPCION"],
+   "ESTADO": "Revisado por Irune y Karina",
+   "COMISION": "Sistema Político",
+   "numero": "21",
+   "titulo": "Probidad",
+   "C80": "Nada dice.",
+   "NC": "El servicio público se regirá por los principios de probidad, eficiencia, eficacia, responsabilidad, transparencia, publicidad, rendición de cuentas, buena fe, interculturalidad, enfoque de género, inclusión, no discriminación y sustentabilidad."
+ },
+ {
+   "id": 4,
+   "img": "",
+   "relacionadas": [],
+   "TAGS": ["agua"],
+   "ESTADO": "Revisada x Modatima",
+   "COMISION": "DDFF",
+   "numero": "ART 26",
+   "titulo": "Derecho humano al agua",
+   "C80": "No asegura el derecho al agua de las personas.",
+   "NC": "Todas las personas tienen derecho al agua en cantidad suficiente, que sea saludable y de precio abordable."
+ },
+ {
+   "id": 5,
+   "img": "",
+   "relacionadas": [],
+   "TAGS": ["agua"],
+   "ESTADO": "Revisada x Modatima",
+   "COMISION": "MEDIOAMBIENTE",
+   "numero": "ART 12 (Bienes Naturales Comunes)",
+   "titulo": "Desprivatizacion del agua",
+   "C80": "El agua está privatizada, los particulares tienen propiedad sobre ella.",
+   "NC": "El agua es indispensable para la vida, por esto no es propiedad de nadie en particular, pero todos podremos usarla de manera democrática, participativa y equitativa."
+ },
+ {
+   "id": 6,
+   "img": "",
+   "relacionadas": [],
+   "TAGS": ["agua"],
+   "ESTADO": "nicolevenegasre@gmail.com La Manu está revisando la redacción del texto NC",
+   "COMISION": "Sistemas de Justicia",
+   "numero": "35 y 35 bis (tercer informe) ",
+   "titulo": "Agencia Nacional del Agua",
+   "C80": "No menciona algún organismo a cargo de asegurar el uso sostenible del agua. Al contrario, establece la privatización del agua. ",
+   "NC": "La Agencia Nacional del Agua reemplazará a la Dirección General de Aguas y determinará cuánta agua existe en Chile y cómo está distribuida. \n\nAsegurará el uso sostenible del agua, el acceso al derecho humano al agua y al saneamiento y la conservación y preservación de sus ecosistemas asociados. "
+ },
+ {
+   "id": 7,
+   "img": "",
+   "relacionadas": [],
+   "TAGS": ["DEMOCRACIA Y PARTICIPACIÓN"],
+   "ESTADO": "Revisado por Irune y Kari",
+   "COMISION": "Sistema Político",
+   "numero": "9 y 11",
+   "titulo": "Cámara de las regiones",
+   "C80": "No existe un órgano de representación territorial efectiva. ",
+   "NC": "Establece la Cámara de las Regiones, nuevo órgano deliberativo, con igual participación de hombres y mujeres y con representación territorial efectiva, encargado de hacerse parte en la formación de leyes de interés regional."
+ },
+ {
+   "id": 8,
+   "img": "",
+   "relacionadas": [],
+   "TAGS": ["DEMOCRACIA Y PARTICIPACIÓN"],
+   "ESTADO": "Revisa Andrea ",
+   "COMISION": "Principios Constitucionales",
+   "numero": "Art 1, 8 , 9 , nuevo.",
+   "titulo": "Participación ciudadana vinculante",
+   "C80": "No menciona la participación ciudadana vinculante o incidente en materias de interés público. ",
+   "NC": "Con la nueva Constitución podremos derogar total o parcialmente una o más leyes."
+ },
+ {
+   "id": 9,
+   "img": "",
+   "relacionadas": [],
+   "TAGS": ["DEMOCRACIA Y PARTICIPACIÓN"],
+   "ESTADO": "revisado por Irune y Karina",
+   "COMISION": "Sistema Político",
+   "numero": "29",
+   "titulo": "Iniciativa Popular de Ley",
+   "C80": "No existe.\n\n\nLas personas no podemos presentar proyectos de ley.",
+   "NC": "Las personas podremos presentar iniciativas populares de ley. \n\nTras reunir los patrocinios exigidos, el Congreso deberá iniciar su tramitación legislativa."
+ },
+ {
+   "id": 10,
+   "img": "",
+   "relacionadas": [],
+   "TAGS": ["DEMOCRACIA Y PARTICIPACIÓN"],
+   "ESTADO": "revisado por Irune y Karina",
+   "COMISION": "Sistema Político",
+   "numero": "34",
+   "titulo": "Urgencia Popular de Ley",
+   "C80": "No existe\n\nLas personas no podemos darle prioridad a un proyecto de ley.",
+   "NC": "Las personas, así como el congreso y la presidencia, podremos darle \"urgencia\" a un proyecto de ley para agilizar su tramitación."
+ },
+ {
+   "id": 11,
+   "img": "",
+   "relacionadas": [],
+   "TAGS": ["DEMOCRACIA Y PARTICIPACIÓN"],
+   "ESTADO": "Revisa Andrea",
+   "COMISION": "",
+   "numero": "10,14",
+   "titulo": "Participación directa",
+   "C80": "",
+   "NC": "Las personas podremos votar materias que sean de competencia de los gobiernos regionales y locales. \n\nEn el Congreso y en los órganos representativos a nivel regional y local se deberán realizar audiencias públicas, donde las personas podremos dar a conocer propuestas y argumentos. "
+ },
+ {
+   "id": 12,
+   "img": "",
+   "relacionadas": [],
+   "TAGS": ["DEMOCRACIA Y PARTICIPACIÓN"],
+   "ESTADO": "Revisado por Irune y Kari",
+   "COMISION": "Sistema Político",
+   "numero": "5 bis, 5 ter, 7, 9",
+   "titulo": "Congreso de diputadas y diputados",
+   "C80": "Establece una Cámara de diputados, órgano deliberativo sin paridad ni representantes de Pueblos Originarios.\n\n\nSus integrantes se eligen por votación directa por distritos electorales.\n",
+   "NC": "Establece el Congreso de Diputadas y Diputados, órgano deliberativo, paritario y con representantes de pueblos originarios.\n\nSus integrantes se eligen por votación directa por distritos electorales."
+ },
+ {
+   "id": 13,
+   "img": "",
+   "relacionadas": [],
+   "TAGS": ["DEMOCRACIA Y PARTICIPACIÓN"],
+   "ESTADO": "Revisado por Irune y Kari (por caracteres, deberían ser dos trajetas)",
+   "COMISION": "Sistema Político",
+   "numero": "16",
+   "titulo": "Fuerzas Armadas I",
+   "C80": "Las Fuerzas Armadas no están subordinadas al poder civil. \n\nSe les atribuyen funciones como la “seguridad nacional” y el “orden institucional”. No especifica que su actuar sea ante agresiones externas.",
+   "NC": "Las Fuerzas Armadas están subordinadas al poder civil. \n\nTienen como objetivo el resguardo de la soberanía, independencia e integridad territorial de la República ante agresiones externas."
+ },
+ {
+   "id": 14,
+   "img": "",
+   "relacionadas": [],
+   "TAGS": ["DEMOCRACIA Y PARTICIPACIÓN"],
+   "ESTADO": "Revisado por Irune y Kari (por caracteres, deberían ser dos trajetas)",
+   "COMISION": "Sistema Político",
+   "numero": "16",
+   "titulo": "Fuerzas Armadas II",
+   "C80": "Son instituciones profesionales, jerarquizadas, disciplinadas, obedientes y no deliberantes.\n\nNo establece controles de probidad ni transparenci\n\nNo establece mecanismos no discriminatorios en el ingreso ni educación en DDHH en su formación.\n",
+   "NC": "Son instituciones profesionales, jerarquizadas, disciplinadas, obedientes y no deliberantes.\n\nEstarán sujetas a controles en materia de probidad y transparencia. \n\nEl ingreso y la formación se hará mediante mecanismos gratuitos y no discriminatorios. La educación militar se funda en el respeto irrestricto a los DDHH."
+ },
+ {
+   "id": 15,
+   "img": "",
+   "relacionadas": [],
+   "TAGS": ["DEMOCRACIA Y PARTICIPACIÓN"],
+   "ESTADO": "Revisado por Irune y Kari",
+   "COMISION": "Sistema Político",
+   "numero": "19",
+   "titulo": "Policías",
+   "C80": "No establece controles de probidad ni transparencia.\n\n\nEl ingreso y formación quedan sujetos a una Ley Orgánica, la que permite criterios discriminatorios como tener que ser soltero/a sin hijos para ingresar a la Escuela de Suboficiales.\n",
+   "NC": "Establece que las policías estarán sujetas a controles de probidad y transparencia.\n\nEl ingreso y la formación será gratuito y no discriminatorio."
+ },
+ {
+   "id": 16,
+   "img": "",
+   "relacionadas": [],
+   "TAGS": ["DEMOCRACIA Y PARTICIPACIÓN"],
+   "ESTADO": "revisado por Irune y Karina",
+   "COMISION": "Sistema Político",
+   "numero": "56",
+   "titulo": "Voto",
+   "C80": "Establece que el voto será personal, igualitario, secreto y voluntario para las personas que hayan cumplido 18 años\n\n\nNada dice. No permite que personas de 16 y 17 años voten.\n",
+   "NC": "Establece que el voto será universal, igualitario, directo, secreto y obligatorio para las personas que hayan cumplido 18 años.\nDe forma voluntaria también podrán votar las personas de 16 y 17 años."
+ },
+ {
+   "id": 17,
+   "img": "",
+   "relacionadas": [],
+   "TAGS": ["DEMOCRACIA Y PARTICIPACIÓN"],
+   "ESTADO": "Revisa Francisco Arellano ",
+   "COMISION": "Medioambiente",
+   "numero": "33",
+   "titulo": "Participación informada en materias ambientales",
+   "C80": "No señala",
+   "NC": "La nueva Constitución reconoce que todas las personas tienen el derecho a la participación informada en materias ambientales y al acceso de la información ambiental del Estado. \n\nLos particulares deberán entregar la información ambiental relacionada con su actividad."
+ },
+ {
+   "id": 18,
+   "img": "",
+   "relacionadas": [],
+   "TAGS": ["DESCENTRALIZACION"],
+   "ESTADO": "Revisado por Fabi ",
+   "COMISION": "Forma de Estado",
+   "numero": "1, 2, 5 y 10 (referente a plurinacionalidad) ",
+   "titulo": "Estado Regional ",
+   "C80": "Chile es un Estado centralizado, que tiene divisiones políticas administrativas de un único centro. ",
+   "NC": "Chile es un Estado Regional, lo que significa que las regiones y comunas ya no serán meras divisiones de un único centro.\n\nSerán entidades territoriales con autonomía política, administrativa y financiera, en un marco de equidad y solidaridad entre todas ellas, preservando la unidad e integridad del Estado."
+ },
+ {
+   "id": 19,
+   "img": "",
+   "relacionadas": [],
+   "TAGS": ["DESCENTRALIZACION"],
+   "ESTADO": "Revisado por Fabi ",
+   "COMISION": "Forma de Estado",
+   "numero": "35",
+   "titulo": "Ruralidad",
+   "C80": "No hay referencia a ruralidad en la constitución de 1980. ",
+   "NC": "El Estado reconoce la ruralidad y sus formas de vida en relación directa con las personas, la tierra, agua y el mar.\n\nSe promoverá el desarrollo integral de los territorios rurales y para la creación de políticas públicas se deberán considerar a las comunidades, tanto para el diseño como para su realización."
+ },
+ {
+   "id": 20,
+   "img": "",
+   "relacionadas": [],
+   "TAGS": ["DESCENTRALIZACION"],
+   "ESTADO": "Revisado por Fabi ",
+   "COMISION": "Forma de Estado",
+   "numero": "16 bis",
+   "titulo": "Mecanismos concretos de solidaridad interterritorial",
+   "C80": "No existen mecanismos de solidaridad interterritorial. Sólo está enunciado como principio. ",
+   "NC": "Establece Fondos de Compensación y Transferencias de Recursos para las Regiones y Comunas más empobrecidos. "
+ },
+ {
+   "id": 21,
+   "img": "",
+   "relacionadas": [],
+   "TAGS": ["DESCENTRALIZACION"],
+   "ESTADO": "Revisado por Fabi. ",
+   "COMISION": "Forma de Estado",
+   "numero": "26",
+   "titulo": "Territorios especiales",
+   "C80": "Son territorios especiales los correspondientes a Isla de Pascua y al Archipiélago Juan Fernández.\n\nEl Gobierno y Administración de estos territorios se regirá por los estatutos especiales que establezcan las leyes orgánicas constitucionales respectivas.",
+   "NC": "Rapa Nui y el Archipiélago Juan Fernández son territorios especiales. Están regidos por sus respectivos estatutos.\nSe podrán crear territorios especiales de acuerdo a condiciones geográficas, climáticas, ambientales, económicas, sociales y culturales. "
+ }
 ]

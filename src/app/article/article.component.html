@@ -1,11 +1,56 @@
-<div [id]="article.id" class="card card-centered">
-  <div class="card-body">
-    <div class="container">
-      <div class="row">
-        <div class="col">
-          <img [src]="article.NC_img" [alt]="article.NC" width="90%" />
+<div class="card card-main">
+
+    <div class="col-sm col-flex">
+
+      <div class="row no-gutters">
+        <div class="col-sm"></div>
+        <div class="col-sm col-flex-row">
+          <img src="../../assets/img/cajita.png"/>
+        </div>
+        <div class="col-sm"></div>
+      </div>
+
+      <div class="row no-gutters">
+          <p class="card-text tema">DEMOCRACIA Y PARTICIPACIÓN</p>
+      </div>
+
+    </div>
+
+
+  <div [id]="article.id" class="card-header card-header-comparativo">
+    {{ article.titulo }}
+  </div>
+
+  <div class="card-header espace">
+  </div>
+
+  <div class="row g-0">
+
+    <div class="col-sm-6">
+      <div class="card card-c80 border-0">
+        <div class="card-body">
+          <div class="card-header card-header-both card-header-c80 rounded-0">
+           CONSTITUCIÓN DE 1980
+          </div>
+          <p class="card-text">{{ article.C80 }}</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-sm-6">
+      <div class="card card-nc border-0">
+        <div class="card-body">
+          <div class="card-header card-header-both card-header-nc rounded-0 border border-primary">
+            NUEVA CONSTITUCIÓN
+          </div>
+          <p class="card-text card-text-nc">{{ article.NC }}
+          </p>
         </div>
       </div>
     </div>
   </div>
 </div>
+
+<div class="card-header espace">
+</div>
+
