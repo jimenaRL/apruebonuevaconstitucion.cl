@@ -13,7 +13,7 @@ import {MatIconModule} from '@angular/material/icon';
 import { HomeComponent } from './home/home.component';
 import { ArticleComponent } from './article/article.component';
 import { ArticleListComponent } from './article-list/article-list.component';
-import { ArticlesService } from './articles.service';
+import { ArticlesService } from './services/articles.service';
 
 @NgModule({
   declarations: [

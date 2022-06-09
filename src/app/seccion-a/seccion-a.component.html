@@ -26,7 +26,8 @@
                         <div class="row row-cols-2">
                         <div class="content">
                             <div class="circulo">
-                                <a [routerLink]="['/articles']"  [queryParams]="{ tags: ['agua'] }">
+                                <a pageScroll (click)="navigateFragment('/articles','7')">
+                                    <!--El 7 es el id del artículo para que haga scroll-->
                                     <img src="../../assets/iconos/agua.png" class="icono" />
                                 </a>
                             </div>

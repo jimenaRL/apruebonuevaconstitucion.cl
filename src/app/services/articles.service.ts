@@ -1,6 +1,6 @@
 import { analyzeAndValidateNgModules } from '@angular/compiler';
 import { Injectable } from '@angular/core';
-import dataSource from '../assets/datasource.json';
+import dataSource from '../../assets/datasource.json';
 
 @Injectable({
   providedIn: 'root'

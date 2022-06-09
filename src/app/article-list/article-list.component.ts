@@ -1,6 +1,6 @@
 import { Component, Input, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
-import { ArticlesService } from '../articles.service';
+import { ArticlesService } from '../services/articles.service';
 
 @Component({
   selector: 'app-article-list',
@@ -17,7 +17,7 @@ export class ArticleListComponent implements OnInit {
   ngOnInit(): void {
     this.route.queryParams.subscribe(params => {
       let tagsArray=params["tags"];
-      this.articles = this.articlesService.getArticlesByTags(tagsArray);
+      this.articles = this.articlesService.getArticles();
     });
   }
 
