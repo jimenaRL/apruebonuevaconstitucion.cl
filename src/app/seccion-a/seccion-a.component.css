@@ -29,34 +29,6 @@
     margin-top: 20px;
     margin-bottom: 20px;
 }
-/*.simple-highlight-a{
-  background-color: #ff5549;
-  margin-top: 5vw;
-  margin-bottom: 3vw;
-  font-size: 2.5vw;
-  color: #fff;
-  padding: 1vw;
-  font-style:italic;
-  font-weight:400;
-}*/
-
-/*.btn-anc-a{
-  background: #fff;
-  color: #e5da43;
-  border: none;
-  cursor: pointer;
-  border-radius: 4px;
-  font-size: 1.5vw;
-  font-weight: 400;
-  padding: 1vw 2vw;
-  text-decoration: none;
-}
-*/
-.btn-wrapper-a{
-  text-align: center;
-  margin-top: 3vw;
-  margin-bottom: 4vw;
-}
 
 .txt_conocelanuevaconstitucion{
   text-align: center;
@@ -64,7 +36,9 @@
   margin-bottom: 2vw;
 }
 
-
+.bold-text{
+    font-weight: bold;
+}
 
 .align-items-center{
 	margin: auto;
