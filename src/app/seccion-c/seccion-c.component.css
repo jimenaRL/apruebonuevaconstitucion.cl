@@ -1,9 +1,9 @@
 /* seccion c */
 .seccion-c{
-    background-color: #e5da43;
+    background-color: #EDEBDF;
 }
 
-.txt_unetealcomando{
+.txt_encuentracomando{
   text-align: center;
   margin-top: 5vw;
   margin-bottom: 2vw;
@@ -13,10 +13,4 @@
   width: 60%;
   padding-top: 2.5vw;
   padding-bottom: 2.5vw;
-}
-
-.btn-wrapper-c{
-  text-align: center;
-  margin-top: 1vw;
-  margin-bottom: 4vw;
 }
