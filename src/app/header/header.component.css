@@ -5,10 +5,10 @@
   top: 0;
   left: 0;
   right: 0;
-  height: 5em;
+  height: 120px;
   display: flex;
   align-items: center;
-  background-color: #1976d2;
+  background-color: #2F7EF2;
   color: white;
   font-weight: 400;
 }
@@ -17,22 +17,25 @@
   text-align: right;
 }
 
+.toolbar #suscribete {
+  height: 60px;
+  margin: 0px;
+  padding: 0px 0px 0px 20px;
+  content: url("../../assets/img/suscribete.png");
+}
+
 .toolbar #apruebo-logo {
-  width: 180px;
-  margin: 0 24px;
+  height: 90px;
+  margin: 0px;
+  padding-top: 10px;
   content: url("../../assets/img/apruebo-header.svg");
 }
 
 
-.toolbar #ilustracion-banner {
-  height: 60px;
-  margin: 0px;
-  content: url("../../assets/img/ilustracion-banner.svg");
-}
-
 .toolbar #whatsapp-logo {
-  height: 30px;
+  height: 80px;
   margin: 0 32px;
+  padding: 0px 0px 15px 0px;
 }
 
 .toolbar #whatsapp-logo:hover  {
@@ -43,7 +46,7 @@
   .toolbar #apruebo-logo {
     width: 140px;
   }
-  .toolbar  #ilustracion-banner {
+  .toolbar  #suscribete {
     display: none;
     visibility: hidden;
   }
