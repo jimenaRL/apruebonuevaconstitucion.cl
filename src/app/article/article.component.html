@@ -5,19 +5,19 @@
       <div class="row no-gutters">
         <div class="col-sm"></div>
         <div class="col-sm col-flex-row">
-          <img src="../../assets/img/cajita.png"/>
-        </div>
+<!--           <img src="../../assets/img/cajita.png"/>
+ -->        </div>
         <div class="col-sm"></div>
       </div>
 
       <div class="row no-gutters">
-          <p class="card-text tema">DEMOCRACIA Y PARTICIPACIÓN</p>
+          <p class="card-text tema" style="text-transform:uppercase; color:{{ article.color }}">{{ article.icono }}</p>
       </div>
 
     </div>
 
 
-  <div [id]="article.id" class="card-header card-header-comparativo">
+  <div [id]="article.id" class="card-header card-header-comparativo" style="background-color:{{ article.color }}">
     {{ article.titulo }}
   </div>
 
@@ -40,10 +40,10 @@
     <div class="col-sm-6">
       <div class="card card-nc border-0">
         <div class="card-body">
-          <div class="card-header card-header-both card-header-nc rounded-0 border border-primary">
+          <div class="card-header card-header-both card-header-nc rounded-0 border border-primary" style="color:{{ article.color }}; border-color: {{ article.color }} !important;">
             NUEVA CONSTITUCIÓN
           </div>
-          <p class="card-text card-text-nc">{{ article.NC }}
+          <p class="card-text card-text-nc" style="color:{{ article.color }}">{{ article.NC }}
           </p>
         </div>
       </div>

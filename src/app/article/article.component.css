@@ -2,8 +2,6 @@
     /*border:  none;*/
     padding: 20px;
     width: 80vw;
-    background-color: #EDEBDF;
-    border-width: 0px !important;
 }
 
 .card-header {
@@ -15,20 +13,18 @@
 }
 
 .card-header-comparativo {
-    background-color: #2F7EF2;
     /* font-size: 47pt;*/
     /*letter-spacing:  20pt;*/
-    min-height: 56px;
+    min-height: 80px;
+    width:  100%;
     color: #EDEBDF;
-    font-size: 2.5rem;
+    font-size: 4rem;
     font-weight: 800;
-    letter-spacing: .05em;
-    line-height: 1.3em;
 }
 
 .espace {
     min-height: 10px;
-    background-color: #EDEBDF;
+    background-color: #ffffff;
     border-bottom:  none;
 }
 
@@ -38,29 +34,25 @@
 }
 
 .card-header-both {
+    font-weight: 800;
 /*    font-size: 23pt;*/
-    font-size: 14pt;
+    font-size: 18pt;
     height: 35px;
-    letter-spacing: .07em;
 }
 
 .card-header-c80 {
-    font-weight: 400;
     background-color: #202735;
     color: #EDEBDF;
 
 }
 
 .card-header-nc {
-    font-weight: 600;
-    color: #2F7EF2;
-    background-color: #EDEBDF;
-
+    background-color:  #EDEBDF;
 }
 
 
 .border {
-    border-width: 2px !important;
+    border-width: 3px !important;
 }
 
 .card-nc {
@@ -70,12 +62,11 @@
 
 .card-text{
     /*font-size: 32pt;*/
-    font-size: 1.8em;
+    font-size: 2em;
     padding-top: 15px;
-    padding-bottom: 25px;
-    padding-left: 20px;
-    padding-right: 20px;
-    font-weight: 500;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    font-weight: 400;
     white-space: pre-wrap;
     text-align: left;
     line-height: 1.1em;
@@ -85,11 +76,7 @@
     color: #2F7EF2;
 }
 
-
 .tema{
-    color: #2F7EF2;
     font-weight: 800;
-    font-size: 22pt;
-    font-variant-caps: all-petite-caps;
-    letter-spacing: .07em;
+    font-size: 18pt;
 }
