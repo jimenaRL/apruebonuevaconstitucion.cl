@@ -20,41 +20,21 @@
     justify-content: center;
 }
 
-.title_b{
-  font-size:3em;
-  line-height:1em;
-  color: #fff;
-  font-style:bold;
-  font-weight:400;
-  text-align:center;
-  margin-top: 4vw;
-  margin-bottom: 2vw;
-}
-
 .boton-a{
-  width: 24vw;
+  width: 22vw;
+  margin-top: 1vw;
+  margin-bottom: 3vw;
 }
 
 .btn-wrapper-b{
   text-align: center;
-  margin-top: 3vw;
-  margin-bottom: 2vw;
+
 }
 
-.txt-b{
-  font-size:1em;
-  line-height:1em;
-  color: #fff;
-  font-style:bold;
-  font-weight:400;
-  text-align:center;
-  width:70%;
-  margin-top: 2vw;
-  margin-bottom: 4vw;
-}
 
 @media screen and (max-width: 576px) {
     .txt-b{
       font-size: 0.75em;
     }
 }
+

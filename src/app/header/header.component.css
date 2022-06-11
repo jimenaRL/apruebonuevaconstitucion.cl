@@ -5,12 +5,10 @@
   top: 0;
   left: 0;
   right: 0;
-  height: 120px;
+  height: 100px;
   display: flex;
   align-items: center;
   background-color: rgb(47, 126, 242);
-  color: white;
-  font-weight: 400;
 }
 
 .toolbar span{
@@ -20,12 +18,14 @@
 .toolbar #suscribete {
   height: 60px;
   margin: 0px;
-  padding: 0px 0px 0px 20px;
+  margin-top: 10px;
+  margin-left: 40px;
+  margin-right: 60px;
   content: url("../../assets/img/suscribete.png");
 }
 
 .toolbar #apruebo-logo {
-  height: 90px;
+  height: 80px;
   margin: 0px;
   padding-top: 10px;
   content: url("../../assets/img/apruebo-header.svg");
@@ -33,9 +33,9 @@
 
 
 .toolbar #whatsapp-logo {
-  height: 80px;
-  margin: 0 32px;
-  padding: 0px 0px 15px 0px;
+  height: 60px;
+  margin-bottom: 8px;
+  margin-right: 38px;
 }
 
 .toolbar #whatsapp-logo:hover  {

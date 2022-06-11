@@ -26,14 +26,15 @@
 
 .descarga-borrador{
     height: 3vw;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 2vw;
+    margin-bottom: 2vw;
 }
 
 .txt_conocelanuevaconstitucion{
   text-align: center;
-  margin-top: 5vw;
-  margin-bottom: 2vw;
+  margin-top: 1vw;
+  margin-bottom: 0vw;
+  letter-spacing: .35em;
 }
 
 .bold-text{
@@ -62,4 +63,10 @@
     .txt-b{
       font-size: 0.75em;
     }
+}
+
+.welcome-image {
+  max-width: 100%;
+  height: auto;
+  margi-bottom: -1px;
 }

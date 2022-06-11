@@ -3,7 +3,7 @@
 .welcome-content {
     display: flex;
     margin: auto;
-    margin: 120px 0px 0px 0px; /* to match header height*/
+    margin: 100px 0px 0px 0px; /* to match header height*/
     flex-direction: column;
     align-items: center;
 }

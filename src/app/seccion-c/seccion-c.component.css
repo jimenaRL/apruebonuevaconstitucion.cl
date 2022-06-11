@@ -5,12 +5,20 @@
 
 .txt_encuentracomando{
   text-align: center;
-  margin-top: 5vw;
-  margin-bottom: 2vw;
+  margin-top: 1.5vw;
+  margin-bottom: 0vw;
+  letter-spacing: .35em;
 }
 
 .mook-googlemaps{
   width: 60%;
   padding-top: 2.5vw;
   padding-bottom: 2.5vw;
+}
+
+
+.welcome-image {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 10px;
 }
