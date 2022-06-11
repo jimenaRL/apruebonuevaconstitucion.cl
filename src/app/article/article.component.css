@@ -13,7 +13,6 @@
 }
 
 .card-header-comparativo {
-    background-color: #2F7EF2;
     /* font-size: 47pt;*/
     /*letter-spacing:  20pt;*/
     min-height: 80px;
@@ -25,7 +24,7 @@
 
 .espace {
     min-height: 10px;
-    background-color: #ffffff;
+    background-color: #EDEBDF;
     border-bottom:  none;
 }
 
@@ -49,7 +48,6 @@
 
 .card-header-nc {
     background-color:  #EDEBDF;
-    color: #2F7EF2;
 }
 
 
@@ -78,9 +76,7 @@
     color: #2F7EF2;
 }
 
-
 .tema{
-    color: #2F7EF2;
     font-weight: 800;
     font-size: 18pt;
 }

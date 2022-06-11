@@ -1,5 +1,10 @@
 /*footer*/
 
+
+.siguenos{
+    margin-top:  2vw;
+}
+
 .content {
     display: flex;
     margin: auto;
@@ -23,19 +28,31 @@
 
 
 .footer{
-    background-color:#ff4e7b;
+    background-color:#EDEBDF;
 }
 
 .footer-imagen{
   width:80%;
-  padding-bottom:5vw;
+  padding-bottom: 0vw;
 }
+
 .footer-logo{
   width:40%;
-  padding-top:5vw;
+  padding-top:1vw;
 }
+
 .socials{
-  width:5vw;
-  text-align:center;
-  padding-bottom:5vw;
+  width: 2vw;
+  min-height: 70px;
+  min-width: 70px;
+  text-align: center;
+  margin-left: 1vw;
+  margin-right: 1vw;
+  padding-top: 0.5vw;
+  padding-bottom: 1vw;
+}
+
+.amor{
+  padding-bottom: 2vw;
+  letter-spacing: .3em;
 }

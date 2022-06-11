@@ -21,7 +21,7 @@ export class ArticlesService {
     let selectedArticles: any = [];
     if(tags!=null){
       tags.forEach((aTag: any) => {
-        selectedArticles = this.articles.filter((article)=>article.TAGS.includes(aTag)).map(article => article);
+        selectedArticles = this.articles.filter((article)=>article.tags.includes(aTag)).map(article => article);
       });
     }
     console.log(selectedArticles);
