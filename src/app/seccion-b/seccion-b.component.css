@@ -4,8 +4,6 @@
     --bs-gutter-x:  0;
 }
 
-
-
 .seccion-b-1{
     background-color: #33C47C;
     display: flex;
@@ -31,6 +29,10 @@
   text-align:center;
   margin-top: 4vw;
   margin-bottom: 2vw;
+}
+
+.boton-a{
+  width: 24vw;
 }
 
 .btn-wrapper-b{

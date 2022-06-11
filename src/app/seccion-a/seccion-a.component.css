@@ -40,12 +40,6 @@
     font-weight: bold;
 }
 
-.align-items-center{
-	margin: auto;
-  	width: 80%;
-	padding:5%;
-	}
-
 .circulo{
 /*    height:100px;
     width:100px;
@@ -54,13 +48,14 @@
   	padding-top:0px;
   	margin:0px;
 }
- 
+
 .circle-center{
      align-items: center;
 }
 
 .icono{
-	 width:70%;
+/*	 width:120%;*/
+    width: 10vw;
 }
 
 @media screen and (max-width: 576px) {
