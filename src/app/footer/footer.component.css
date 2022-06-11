@@ -52,7 +52,16 @@
   padding-bottom: 1vw;
 }
 
+
+.a {
+   link: none;
+    visited: none;
+    hover: none;
+    active: none;
+}
+
 .amor{
   padding-bottom: 2vw;
   letter-spacing: .3em;
+  color: #000;
 }
