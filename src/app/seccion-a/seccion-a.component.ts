@@ -15,7 +15,7 @@ export class SeccionAComponent implements OnInit {
   }
 
   navigateFragment(url:any, fragment:any){
-    this.router.navigate([url],{ fragment: fragment});
+    this.router.navigate([url],{ fragment: fragment, skipLocationChange: true });
   }
 
 }
