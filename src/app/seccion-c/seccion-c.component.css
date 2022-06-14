@@ -10,15 +10,21 @@
   letter-spacing: .35em;
 }
 
-.mook-googlemaps{
+/*.mook-googlemaps{
   width: 60%;
   padding-top: 2.5vw;
   padding-bottom: 2.5vw;
 }
+*/
 
-
-.welcome-image {
+.abajo-botones{
   max-width: 100%;
   height: auto;
   margin-bottom: 10px;
+}
+
+@media screen and (max-width: 576px) {
+  .txt_encuentracomando{
+    letter-spacing: .2em;
+  }
 }

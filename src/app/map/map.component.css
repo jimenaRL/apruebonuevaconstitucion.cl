@@ -3,3 +3,9 @@
     height: 300px;
     margin-bottom: 30px;
 }
+
+@media screen and (max-width: 576px) {
+  .txt_encuentracomando{
+    letter-spacing: .2em;
+  }
+}
