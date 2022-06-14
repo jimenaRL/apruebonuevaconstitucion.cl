@@ -51,7 +51,7 @@
 
 .icono{
     width: 10vw;
-    margin-left: 2rem;  /* MARGIN ICONOS */
+    margin-left: 1vw;  /* MARGIN ICONOS */
 }
 
 
@@ -59,4 +59,8 @@
   max-width: 100%;
   height: auto;
 /*  margin-bottom: -3px;*/
+}
+
+.row {
+    --bs-gutter-x: 0rem !important;
 }
