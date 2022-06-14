@@ -42,29 +42,35 @@
   opacity: 0.8;
 }
 
-@media screen and (max-width: 660px) {
+
+@media screen and (max-width: 760px) {
   .toolbar #apruebo-logo {
-    width: 140px;
-  }
-  .toolbar  #suscribete {
-    display: none;
-    visibility: hidden;
+    height: 60px;
+    margin: 0px;
+    padding-top: 10px;
+    content: url("../../assets/img/apruebo-header.svg");
   }
   .toolbar #whatsapp-logo {
-    height: 40px;
-    margin: 0 16px;
+    height: 60px;
+  }
+  .toolbar #suscribete {
+    display: none;
+    visibility: hidden;
   }
 }
 
 @media screen and (max-width: 360px) {
-  .toolbar #cta-banner, #whatsapp-logo {
+  .toolbar #apruebo-logo {
+    height: 20vw;
+    margin: 0px;
+    padding-top: 10px;
+    content: url("../../assets/img/apruebo-header.svg");
+  }
+  .toolbar #whatsapp-logo {
     display: none;
     visibility: hidden;
   }
-}
-
-@media screen and (max-width: 200px) {
-  .toolbar #apruebo-logo {
+  .toolbar #suscribete {
     display: none;
     visibility: hidden;
   }
