@@ -8,9 +8,11 @@
 
 .seccion-a{
     background-color: #EDEBDF;
-/*    text-align:center;*/
 }
 
+.carousel-control-next, .carousel-control-prev {
+    width: 25%; /* CARROUSEL CONTROLS */
+}
 
 .carousel-control-next-icon {
     height: 3rem !important;
@@ -37,36 +39,23 @@
   letter-spacing: .35em;
 }
 
-.bold-text{
-    font-weight: bold;
-}
 
 .circulo{
-/*    height:100px;
-    width:100px;
-*/    background:#EDEBDF;
+    background:#EDEBDF;
   	text-align:center;
   	padding-top:0px;
   	margin:0px;
     cursor: pointer;
 }
 
-.circle-center{
-     align-items: center;
-}
 
 .icono{
-/*	 width:120%;*/
     width: 10vw;
+    margin-left: 2rem;  /* MARGIN ICONOS */
 }
 
-@media screen and (max-width: 576px) {
-    .txt-b{
-      font-size: 0.75em;
-    }
-}
 
-.welcome-image {
+.arriba-botones {
   max-width: 100%;
   height: auto;
 /*  margin-bottom: -3px;*/
