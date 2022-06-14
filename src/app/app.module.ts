@@ -1,5 +1,6 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
+import { GoogleMapsModule } from '@angular/google-maps'
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -14,6 +15,7 @@ import { HomeComponent } from './home/home.component';
 import { ArticleComponent } from './article/article.component';
 import { ArticleListComponent } from './article-list/article-list.component';
 import { ArticlesService } from './services/articles.service';
+import { MapComponent } from './map/map.component';
 
 @NgModule({
   declarations: [
@@ -26,12 +28,14 @@ import { ArticlesService } from './services/articles.service';
     FooterComponent,
     HomeComponent,
     ArticleComponent,
-    ArticleListComponent
+    ArticleListComponent,
+    MapComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
-    MatIconModule
+    MatIconModule,
+    GoogleMapsModule
   ],
   providers: [ArticlesService],
   bootstrap: [AppComponent]
