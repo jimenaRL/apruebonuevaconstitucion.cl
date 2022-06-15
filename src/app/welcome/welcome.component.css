@@ -12,3 +12,16 @@
   max-width: 100%;
   height: auto;
 }
+
+
+@media screen and (max-width: 768px) {
+  .welcome-content {
+      margin: 83px 0px 0px 0px; /* to match header height*/
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .welcome-content {
+      margin: 63px 0px 0px 0px; /* to match header height*/
+  }
+}
