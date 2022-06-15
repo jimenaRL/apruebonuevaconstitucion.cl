@@ -62,11 +62,15 @@
 .arriba-botones {
   max-width: 100%;
   height: auto;
-/*  margin-bottom: -3px;*/
+  margin-bottom: -3px;
 }
 
 .row {
     --bs-gutter-x: 0rem !important;
+}
+
+.welcome{
+    margin-bottom: -1px;
 }
 
 @media screen and (max-width: 960px) {
@@ -98,5 +102,17 @@
 
     .txt_conocelanuevaconstitucion{
       margin-top: 3vw;
+    }
+}
+
+@media screen and (max-width: 960px) {
+    .welcome-fucsia{
+        height: 0px;
+    }
+    .descarga-borrador{
+      margin-bottom: 4vw;
+    }
+    .txt_conocelanuevaconstitucion{
+      margin-top: 2vw;
     }
 }
