@@ -1,7 +1,7 @@
 .card-main {
     /*border:  none;*/
-    padding: 20px;
-    width: 80vw;
+    padding: 0px;
+    width: 40vw;
 }
 
 .card-header {
@@ -13,12 +13,10 @@
 }
 
 .card-header-comparativo {
-    /* font-size: 47pt;*/
-    /*letter-spacing:  20pt;*/
-    min-height: 80px;
+    height: 3vw;
     width:  100%;
     color: #EDEBDF;
-    font-size: 4rem;
+    font-size: 2rem;
     font-weight: 800;
 }
 
