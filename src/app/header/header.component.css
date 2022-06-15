@@ -19,15 +19,14 @@
   height: 60px;
   margin: 0px;
   margin-top: 10px;
-  margin-left: 40px;
-  margin-right: 60px;
+  margin-left: 10vw;
   content: url("../../assets/img/suscribete.png");
 }
 
 .toolbar #apruebo-logo {
   height: 80px;
   margin: 0px;
-  padding-top: 10px;
+  margin-top: 10px;
   content: url("../../assets/img/apruebo-header.svg");
 }
 
@@ -35,37 +34,30 @@
 .toolbar #whatsapp-logo {
   height: 60px;
   margin-bottom: 8px;
-  margin-right: 38px;
+  margin-right: 8vw;
 }
 
 .toolbar #whatsapp-logo:hover  {
   opacity: 0.8;
 }
 
-@media screen and (max-width: 660px) {
-  .toolbar #apruebo-logo {
-    width: 140px;
+@media screen and (max-width: 768px) {
+  .toolbar {
+    height: 84px;
   }
-  .toolbar  #suscribete {
-    display: none;
-    visibility: hidden;
+  .toolbar #apruebo-logo {
+    height: 8vw;
   }
   .toolbar #whatsapp-logo {
-    height: 40px;
-    margin: 0 16px;
+    height: 8vw;
+  }
+  .toolbar #suscribete {
+    height: 8vw;
   }
 }
 
-@media screen and (max-width: 360px) {
-  .toolbar #cta-banner, #whatsapp-logo {
-    display: none;
-    visibility: hidden;
-  }
-}
-
-@media screen and (max-width: 200px) {
-  .toolbar #apruebo-logo {
-    display: none;
-    visibility: hidden;
+@media screen and (max-width: 576px) {
+  .toolbar {
+    height: 64px;
   }
 }

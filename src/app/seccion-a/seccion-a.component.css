@@ -8,19 +8,23 @@
 
 .seccion-a{
     background-color: #EDEBDF;
-/*    text-align:center;*/
 }
 
+.carousel-control-next, .carousel-control-prev {
+    width: 25%; /* CARROUSEL CONTROLS */
+}
 
 .carousel-control-next-icon {
-    height: 3rem !important;
-    width: 3rem !important;
+    height: 4rem !important;
+    width: 4rem !important;
+    margin-left: 5vw;  /* MARGIN ARROW */
     background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23000000' %3e%3cpath d='M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e") !important;
 }
 
 .carousel-control-prev-icon {
-    height: 3rem !important;
-    width: 3rem !important;
+    height: 4rem !important;
+    width: 4rem !important;
+    margin-right: 5vw;  /* MARGIN ARROW */
     background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23000000'%3e%3cpath d='M11.354 1.646a.5.5 0 0 1 0 .708L5.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0z'/%3e%3c/svg%3e") !important;
 }
 
@@ -28,46 +32,87 @@
     height: 3vw;
     margin-top: 2vw;
     margin-bottom: 2vw;
+    min-height: 50px;
 }
 
 .txt_conocelanuevaconstitucion{
   text-align: center;
   margin-top: 1vw;
   margin-bottom: 0vw;
-  letter-spacing: .35em;
+  letter-spacing:  .3vw;
+  font-size: 3vw;
 }
 
-.bold-text{
-    font-weight: bold;
-}
 
 .circulo{
-/*    height:100px;
-    width:100px;
-*/    background:#EDEBDF;
-  	text-align:center;
-  	padding-top:0px;
-  	margin:0px;
+    background:#EDEBDF;
+  	text-align: center;
+  	padding-top: 0px;
+  	margin: 0px;
     cursor: pointer;
 }
 
-.circle-center{
-     align-items: center;
-}
 
 .icono{
-/*	 width:120%;*/
-    width: 10vw;
+    margin: 0vw .5vw 0vw .5vw;  /* MARGIN ICONOS */
+    width: 18vw ;
 }
 
-@media screen and (max-width: 576px) {
-    .txt-b{
-      font-size: 0.75em;
+
+.arriba-botones {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: -3px;
+}
+
+.row {
+    --bs-gutter-x: 0rem !important;
+}
+
+.welcome{
+    margin-bottom: -1px;
+}
+
+@media screen and (max-width: 960px) {
+    .icono{
+        margin: 0vw -7vw .25vw -7vw;  /* MARGIN ICONOS */
+        width: 30vw ;
+    }
+    .txt_conocelanuevaconstitucion{
+      font-size: 5vw;
     }
 }
 
-.welcome-image {
-  max-width: 100%;
-  height: auto;
-  margin-bottom: -1px;
+
+
+@media screen and (max-width: 574px) {
+    .carousel-control-next-icon {
+        margin-left: 10vw;  /* MARGIN ARROW */
+    }
+
+    .carousel-control-prev-icon {
+        margin-right: 10vw;  /* MARGIN ARROW */
+    }
+
+    .descarga-borrador{
+        margin-top: 3vw;
+        margin-bottom: 2vw;
+        min-height: 30px;
+    }
+
+    .txt_conocelanuevaconstitucion{
+      margin-top: 3vw;
+    }
+}
+
+@media screen and (max-width: 960px) {
+    .welcome-fucsia{
+        height: 0px;
+    }
+    .descarga-borrador{
+      margin-bottom: 4vw;
+    }
+    .txt_conocelanuevaconstitucion{
+      margin-top: 2vw;
+    }
 }

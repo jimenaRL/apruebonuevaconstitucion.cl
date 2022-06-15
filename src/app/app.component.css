@@ -47,15 +47,6 @@
     justify-content: center;
 }
 
-.simple-highlight{
-/*  background-color:#2f72f2;*/
-  margin-top: 5vw;
-  margin-bottom: 3vw;
-  padding:  1vw 0vw 0vw 0vw;
-  font-size: 3vw;
-  color: #202735;
-}
-
 .btn-anc{
   background: #fff;
   color: #e5da43;
@@ -72,9 +63,5 @@
     .btn-anc{
       font-size: 2.75vw;
       padding: 2vw 2vw;
-    }
-    .simple-highlight{
-      padding:  1.5vw;
-      font-size: 4vw;
     }
 }
