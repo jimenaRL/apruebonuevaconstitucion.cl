@@ -1,6 +1,8 @@
+.card {
+}
+
 .card-main {
     /*border:  none;*/
-    padding: 0px;
     width: 40vw;
 }
 
@@ -13,29 +15,36 @@
 }
 
 .card-header-comparativo {
-    height: 3vw;
+    height: 2vw;
     width:  100%;
-    color: #EDEBDF;
-    font-size: 2rem;
+    color: #2F7EF2;
+    font-size: 1.5rem;
     font-weight: 800;
+    letter-spacing: 0.1em ;
 }
 
 .espace {
-    min-height: 10px;
+    min-height: 60px;
+    background-color: #EDEBDF;
+    border-bottom:  none;
+}
+
+.espace-titulo {
     background-color: #EDEBDF;
     border-bottom:  none;
 }
 
 .card-c80 {
-    background-color: #E8E8E8;
+    background-color: #E2DFD7;
     height: 100%;
 }
 
 .card-header-both {
-    font-weight: 800;
-/*    font-size: 23pt;*/
-    font-size: 18pt;
-    height: 35px;
+    font-weight: 500;
+    font-size: 1.2em;
+    height: 30px;
+    letter-spacing: 0.1em;
+    padding: 3px;
 }
 
 .card-header-c80 {
@@ -45,12 +54,12 @@
 }
 
 .card-header-nc {
-    background-color:  #EDEBDF;
+    background-color:  #ffffff;
 }
 
 
 .border {
-    border-width: 3px !important;
+    border-width: 0px !important;
 }
 
 .card-nc {
@@ -71,9 +80,13 @@
 }
 
 .card-text-nc{
-    color: #2F7EF2;
+    color: #000;
 }
 
+.texto-header-nc{
+    margin-top: -1px;
+    color:  #ffffff
+}
 .tema{
     font-weight: 800;
     font-size: 18pt;
