@@ -17,6 +17,7 @@ import { ArticlesService } from './services/articles.service';
 import { MapComponent } from './map/map.component';
 import { PathLocationStrategy, LocationStrategy } from '@angular/common';
 import { CarouselControlsComponent } from './carousel-controls/carousel-controls.component';
+import { CarouselControlsInnerComponent } from './carousel-controls-inner/carousel-controls-inner.component';
 
 @NgModule({
   declarations: [
@@ -31,7 +32,8 @@ import { CarouselControlsComponent } from './carousel-controls/carousel-controls
     ArticleComponent,
     ArticleListComponent,
     MapComponent,
-    CarouselControlsComponent
+    CarouselControlsComponent,
+    CarouselControlsInnerComponent
   ],
   imports: [
     BrowserModule,
