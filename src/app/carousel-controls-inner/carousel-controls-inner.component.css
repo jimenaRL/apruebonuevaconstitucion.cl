@@ -54,8 +54,8 @@
 
 
 .icono{
-    margin: 0vw .5vw 0vw .5vw;  /* MARGIN ICONOS */
-    width: 18vw ;
+    margin: 0vw .2vw 0vw .2vw;  /* MARGIN ICONOS */
+    width: 5vw ;
 }
 
 
@@ -75,8 +75,8 @@
 
 @media screen and (max-width: 960px) {
     .icono{
-        margin: 0vw -7vw .25vw -7vw;  /* MARGIN ICONOS */
-        width: 30vw ;
+        margin: 0vw -1w .10vw -1vw;  /* MARGIN ICONOS */
+        width: 10vw ;
     }
     .txt_conocelanuevaconstitucion{
       font-size: 5vw;
