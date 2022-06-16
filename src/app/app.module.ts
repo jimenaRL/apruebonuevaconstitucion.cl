@@ -16,6 +16,7 @@ import { ArticleListComponent } from './article-list/article-list.component';
 import { ArticlesService } from './services/articles.service';
 import { MapComponent } from './map/map.component';
 import { PathLocationStrategy, LocationStrategy } from '@angular/common';
+import { CarouselControlsComponent } from './carousel-controls/carousel-controls.component';
 
 @NgModule({
   declarations: [
@@ -29,7 +30,8 @@ import { PathLocationStrategy, LocationStrategy } from '@angular/common';
     HomeComponent,
     ArticleComponent,
     ArticleListComponent,
-    MapComponent
+    MapComponent,
+    CarouselControlsComponent
   ],
   imports: [
     BrowserModule,
