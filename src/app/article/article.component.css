@@ -1,7 +1,38 @@
+/*.toolbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 100px;
+  display: flex;
+  align-items: center;
+}
+
+span{
+  text-align: right;
+}
+
+.leerconst {
+  content: url("../../assets/img/book.svg");
+  height: 30px;
+  margin: 0px;
+  margin-top: 10px;
+  margin-left: 10vw;
+
+}
+
+.download{
+  content: url("../../assets/img/download.svg");
+  height: 30px;
+  margin: 0px;
+  margin-top: 10px;
+  margin-left: 10vw;
+}*/
+
 .card-main {
     /*border:  none;*/
     padding: 0px;
-    width: 40vw;
+    width: 800px;
 }
 
 .card-header {
@@ -13,44 +44,52 @@
 }
 
 .card-header-comparativo {
-    height: 3vw;
+    height: 40px;
     width:  100%;
     color: #EDEBDF;
     font-size: 2rem;
     font-weight: 800;
+    letter-spacing: 0.09rem;
+}
+
+.espace-between-cards {
+    height: 6px;
+    background-color: #EDEBDF;
+    border-bottom:  none;
 }
 
 .espace {
-    min-height: 10px;
+    height: 60px;
     background-color: #EDEBDF;
     border-bottom:  none;
 }
 
 .card-c80 {
-    background-color: #E8E8E8;
+    background-color: #E2DFD7;
     height: 100%;
 }
 
 .card-header-both {
-    font-weight: 800;
+    font-weight: 400;
 /*    font-size: 23pt;*/
-    font-size: 18pt;
-    height: 35px;
+    font-size: 1.25rem;
+    height: 25px;
+    letter-spacing: 0.1rem;
 }
 
 .card-header-c80 {
     background-color: #202735;
+    opacity: 0.7;
     color: #EDEBDF;
-
 }
 
 .card-header-nc {
-    background-color:  #EDEBDF;
+    color: #EDEBDF;
 }
 
 
 .border {
-    border-width: 3px !important;
+    border-width: 0px !important;
 }
 
 .card-nc {
@@ -58,23 +97,48 @@
 }
 
 
+
 .card-text{
     /*font-size: 32pt;*/
-    font-size: 2em;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    padding-left: 15px;
-    font-weight: 400;
+    font-size: 1.5em;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    font-weight: 500;
     white-space: pre-wrap;
     text-align: left;
     line-height: 1.1em;
-}
-
-.card-text-nc{
-    color: #2F7EF2;
+    color: #333;
+    opacity: 0.875;
 }
 
 .tema{
     font-weight: 800;
     font-size: 18pt;
 }
+
+@media screen and (max-width: 992px) {
+    .card-main {
+        width: 600px;
+    }
+
+}
+
+
+
+@media screen and (max-width: 620px) {
+    .card-main {
+        width: 90vw;
+    }
+
+}
+
+
+@media screen and (max-width: 360px) {
+    .card-main {
+        width: 10vw;
+    }
+
+}
+
