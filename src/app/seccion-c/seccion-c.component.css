@@ -7,6 +7,20 @@
     align-items: stretch;
 }
 
+.content-maps{
+    display: flex;
+    margin: auto;
+    padding: 0px;
+    flex-direction: row;
+    justify-content:  center;
+    align-items: center;
+}
+
+
+.card {
+    --bs-bg-opacity: 1;
+    background-color: #EDEBDF !important;
+}
 
 .seccion-c{
     background-color: #E5DA53;
@@ -24,23 +38,88 @@
   margin-bottom: 1.5vw;
 }
 
+.card {
+    height: 15vw;
+    width: 20vw;
+}
+
+.card-title{
+    font-size: 1.4rem;
+    font-weight: 800;
+    letter-spacing: 0.09rem;
+}
+
+.card-text{
+    font-size: 1.4rem;
+    font-weight: 800;
+    letter-spacing: 0.09rem;
+    margin-bottom: 0rem;
+}
+
+
+.socials{
+  width: 0.5vw;
+  min-height: 30px;
+  min-width: 30px;
+  text-align: center;
+}
+
+
+
+
+@media screen and (max-width: 1100px) {
+    .txt_encuentracomando{
+      font-size: 4vw;
+    }
+  .card-title{
+      font-size: 1rem;
+  }
+  .card-text{
+      font-size: 0.8rem;
+  }
+  .card {
+      height: 20vw;
+      width: 20vw;
+  }
+}
 
 @media screen and (max-width: 768px) {
     .welcome-verde{
         height: 0px;
     }
-}
+  .card-title{
+      font-size: 0.8rem;
+  }
+  .card-text{
+      font-size: 0.6rem;
+  }
 
-@media screen and (max-width: 960px) {
-    .txt_encuentracomando{
-      font-size: 4vw;
-    }
+  .socials{
+    width: 0.3vw;
+    min-height: 15px;
+    min-width: 15px;
+  }
+  .card {
+      height: 24vw;
+      width: 20vw;
+  }
 }
-
 
 
 @media screen and (max-width: 574px) {
     .txt_encuentracomando{
       margin-top: 3vw;
     }
+  .card-title{
+      font-size: 0.4rem;
+  }
+  .card-text{
+      font-size: 0.2rem;
+  }
+
+  .socials{
+    width: 0.2vw;
+    min-height: 10px;
+    min-width: 10px;
+  }
 }
