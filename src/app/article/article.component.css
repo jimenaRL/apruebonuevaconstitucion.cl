@@ -1,33 +1,27 @@
-/*.toolbar {
-  position: absolute;
+.iconos-precard {
   top: 0;
   left: 0;
   right: 0;
-  height: 100px;
+  height: 16px;
   display: flex;
   align-items: center;
+  background-color: #EDEBDF;
 }
 
-span{
-  text-align: right;
-}
-
-.leerconst {
+.iconos-precard #articulo {
+  height: 30px;
+  margin-left: 4px;
+  margin-top: 18px;
   content: url("../../assets/img/book.svg");
-  height: 30px;
-  margin: 0px;
-  margin-top: 10px;
-  margin-left: 10vw;
-
 }
 
-.download{
+.iconos-precard #descarga {
+  height: 24px;
+  margin-right: 4px;
+  margin-top: 24px;
   content: url("../../assets/img/download.svg");
-  height: 30px;
-  margin: 0px;
-  margin-top: 10px;
-  margin-left: 10vw;
-}*/
+}
+
 
 .card-main {
     padding: 0px;
