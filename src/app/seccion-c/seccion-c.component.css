@@ -1,4 +1,13 @@
 /* seccion c */
+.content-stretch {
+    display: flex;
+    margin: auto;
+    padding: 0px;
+    flex-direction: column;
+    align-items: stretch;
+}
+
+
 .seccion-c{
     background-color: #E5DA53;
 }
@@ -15,20 +24,6 @@
   margin-bottom: 1.5vw;
 }
 
-
-.abajo-botones {
-  max-width: 100%;
-  height: auto;
-/*  margin-bottom: -3px;*/
-}
-
-/*
-@media screen and (max-width: 576px) {
-  .txt_encuentracomando{
-    letter-spacing: .2em;
-  }
-}
-*/
 
 @media screen and (max-width: 768px) {
     .welcome-verde{
