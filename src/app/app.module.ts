@@ -18,6 +18,7 @@ import { MapComponent } from './map/map.component';
 import { PathLocationStrategy, LocationStrategy } from '@angular/common';
 import { CarouselControlsComponent } from './carousel-controls/carousel-controls.component';
 import { CarouselControlsInnerComponent } from './carousel-controls-inner/carousel-controls-inner.component';
+import { MapMarkersService } from './services/map-markers.service';
 
 @NgModule({
   declarations: [
@@ -41,7 +42,7 @@ import { CarouselControlsInnerComponent } from './carousel-controls-inner/carous
     MatIconModule,
     GoogleMapsModule
   ],
-  providers: [ArticlesService, {provide: LocationStrategy, useClass: PathLocationStrategy}],
+  providers: [ArticlesService, MapMarkersService, {provide: LocationStrategy, useClass: PathLocationStrategy}],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

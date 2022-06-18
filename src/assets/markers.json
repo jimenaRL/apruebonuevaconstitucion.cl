@@ -1,0 +1,24 @@
+[
+    {
+        "position": { "lat": -33.43807238117022, "lng": -70.65308524700148 },
+        "title": "marker1",
+        "label": "marker 1"
+    },
+    {
+        "position": { "lat": -38.71480108400699, "lng": -72.6525197807135 },
+        "title": "marker2",
+        "label": "marker 2"
+    },
+    {   "position": { "lat": -38.71480108400699, "lng": -72.6525197807135 }, 
+        "title": "marker3",
+        "label": "marker 3"
+    },
+    {   "position": { "lat": -33.50606140039984, "lng": -70.76060242845375 }, 
+        "title": "marker4",
+        "label": "marker 4"
+    },
+    {   "position": { "lat": -33.03650580374358, "lng": -71.63032691124623 }, 
+        "title": "marker4",
+        "label": "marker 4"
+    }
+]

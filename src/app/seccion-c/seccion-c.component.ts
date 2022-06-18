@@ -6,10 +6,14 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./seccion-c.component.css', '../app.component.css']
 })
 export class SeccionCComponent implements OnInit {
-
+  markerSelected: any;
   constructor() { }
 
   ngOnInit(): void {
+  }
+
+  markerUpdated(marker:any){
+    this.markerSelected = marker;
   }
 
 }

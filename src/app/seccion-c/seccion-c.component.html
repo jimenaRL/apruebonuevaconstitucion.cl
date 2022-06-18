@@ -21,8 +21,11 @@
           <span class="simple-highlight" style="font-weight: 550;">ENCUENTRA TU </span><span class="simple-highlight" style="font-weight: bold;">COMANDO</span><span class="simple-highlight" style="font-weight: 550;"> MÁS CERCANO</span>
         </div>
     </div>
+    <div>
+      {{ markerSelected != null ? markerSelected.title : ""}}
+    </div>
     <div class="col-sm col-flex">
-        <app-map class="mapa"></app-map>
+        <app-map class="mapa" (markerClicked)="markerUpdated($event)"></app-map>
 <!--       <img class="mook-googlemaps" src="../../assets/img/mook-googlemaps.png" alt="Apruebo"> -->
     </div>
   </div>
