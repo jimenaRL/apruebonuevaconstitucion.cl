@@ -9,40 +9,50 @@
     </div>
 
 
+
     <div  class="content-maps">
 
-      <div class="card">
-        <div class="card-body">
-          <h5 class="card-title">
-            {{ markerSelected != null ? markerSelected.NOMBRE : ""}}
-            {{ markerSelected == null ? "HAZ CLICK EN EL COMANDO PARA OBTENER SU CONTACTO" : ""}}
-          </h5>
+    <div class="row justify-content-center">
 
-          <p class="card-text">{{ markerSelected != null ? markerSelected.TERRITORIO : ""}}</p>
+      <div class="col-md">
+        <div class="card">
+          <div class="card-body">
+            <h5 class="card-title">
+              {{ markerSelected != null ? markerSelected.NOMBRE : ""}}
+              {{ markerSelected == null ? "HAZ CLICK EN EL COMANDO PARA OBTENER SU CONTACTO" : ""}}
+            </h5>
+
+            <p class="card-text">{{ markerSelected != null ? markerSelected.TERRITORIO : ""}}</p>
 
 
-          <a class="card-link" target="_blank" rel="noopener" href='{{ markerSelected != null ? markerSelected.FB : ""}}'>
-              <img [style.display]="markerSelected == null || markerSelected.FB == '' ? 'none' : ''"
-              class="socials"  alt="Facebook Logo" src="../../assets/img/facebook.png"/>
-          </a>
+            <a class="card-link" target="_blank" rel="noopener" href='{{ markerSelected != null ? markerSelected.FB : ""}}'>
+                <img [style.display]="markerSelected == null || markerSelected.FB == '' ? 'none' : ''"
+                class="socials"  alt="Facebook Logo" src="../../assets/img/facebook.png"/>
+            </a>
 
-          <a class="card-link" target="_blank" rel="noopener" href='{{ markerSelected != null ? markerSelected.IG : ""}}'>
-              <img [style.display]="markerSelected == null || markerSelected.IG == '' ? 'none' : ''"
-              class="socials"  alt="Instagram Logo" src="../../assets/img/instagram.png"/>
-          </a>
-          <a class="card-link" target="_blank" rel="noopener" href='{{ markerSelected != null ? markerSelected.TW : ""}}'>
-              <img [style.display]="markerSelected == null || markerSelected.TW == '' ? 'none' : ''"
-              class="socials"  alt="Twitter Logo" src="../../assets/img/twitter.png"/>
-          </a>
+            <a class="card-link" target="_blank" rel="noopener" href='{{ markerSelected != null ? markerSelected.IG : ""}}'>
+                <img [style.display]="markerSelected == null || markerSelected.IG == '' ? 'none' : ''"
+                class="socials"  alt="Instagram Logo" src="../../assets/img/instagram.png"/>
+            </a>
+            <a class="card-link" target="_blank" rel="noopener" href='{{ markerSelected != null ? markerSelected.TW : ""}}'>
+                <img [style.display]="markerSelected == null || markerSelected.TW == '' ? 'none' : ''"
+                class="socials"  alt="Twitter Logo" src="../../assets/img/twitter.png"/>
+            </a>
 
+          </div>
         </div>
       </div>
 
-      <div>
-        <app-map class="mapa" (markerClicked)="markerUpdated($event)"></app-map>
+      <div class="col-md">
+        <div>
+          <app-map class="mapa" (markerClicked)="markerUpdated($event)"></app-map>
+        </div>
       </div>
 
     </div>
+
+    </div>
+
 
   </div>
 </div>
