@@ -1,8 +1,8 @@
 
   <div class="card card-main border-0">
 
-  <div [id]="article.id" class="card-header card-header-comparativo" style="background-color:{{ article.color }}">
-    {{ article.titulo }}
+  <div [id]="article.id" class="card-header card-header-comparativo" style="background-color:{{ article.color }}; color:{{ article.titlecolor }}">
+    <p style="opacity: {{ article.titleopacity }};">{{ article.titulo }}</p>
   </div>
 
   <div class="espace-intra-cards">
@@ -24,7 +24,7 @@
       <div class="card card-nc border-0">
         <div class="card-body">
           <div class="card-header card-header-both card-header-nc rounded-0 border-0" style="background-color:{{ article.color }};  border-color: {{ article.color }} !important;">
-            <p class="text-header">NUEVA CONSTITUCIÓN</p>
+            <p class="text-header" style="color:{{ article.titlecolor }}">NUEVA CONSTITUCIÓN</p>
           </div>
           <p class="card-text card-text-nc" >{{ article.NC }}
           </p>
