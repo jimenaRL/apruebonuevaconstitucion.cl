@@ -25,6 +25,6 @@ export class MapComponent implements OnInit {
     streetViewControl: false,
     fullscreenControl: false,
   };
-  
+
   markers = this.mapMarkersService.getMarkers();
 }

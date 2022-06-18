@@ -1,8 +1,10 @@
 .map-container{
-    width: 40vw;
-    height: 300px;
+    width: 50vw;
+    height: 30vw;
     margin-bottom: 30px;
-    margin-left: 25vw;
+    margin-left: 5vw;
+    border: thick solid #EDEBDF;
+    border-radius: 0.25rem;
 }
 
 @media screen and (max-width: 768px) {
@@ -10,8 +12,6 @@
     letter-spacing: .2em;
   }
   .map-container{
-    width: 80vw;
-    height: 60vw;
-    margin-left: 0vw;
+
   }
 }

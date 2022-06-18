@@ -1,24 +1,84 @@
 [
+
     {
-        "position": { "lat": -33.43807238117022, "lng": -70.65308524700148 },
-        "title": "marker1",
-        "label": "marker 1"
+        "Organización": "Coordinadora Feminista Nancagua",
+        "TERRITORIO": "Nancagua",
+        "position": { "lat": -34.65009399488662, "lng": -71.19792311680828 },
+        "NOMBRE": "Coordinadora Feminista Nancagua",
+        "IG": "https://www.instagram.com/coordinadorafeministanancagua",
+        "FB": "https://m.facebook.com/coordinadorafeministanancagua/",
+        "TW": ""
     },
     {
-        "position": { "lat": -38.71480108400699, "lng": -72.6525197807135 },
-        "title": "marker2",
-        "label": "marker 2"
+        "Organización": "Asamblea Ramón Cruz",
+        "TERRITORIO": "Ñuñoa",
+        "position": { "lat": -33.454357198663025, "lng": -70.5937794389873 },
+        "NOMBRE": "Asamblea Parque Ramón Cruz",
+        "IG": "https://www.instagram.com/asambleaparqueramoncruz",
+        "FB": "https://www.facebook.com/asambleaparqueramoncruz",
+        "TW": "https://twitter.com/poderparqueram1"
     },
-    {   "position": { "lat": -38.71480108400699, "lng": -72.6525197807135 }, 
-        "title": "marker3",
-        "label": "marker 3"
+    {
+        "Organización": "Quillón Aprueba",
+        "TERRITORIO": "Quillón",
+        "position": { "lat": -36.746636285367366, "lng": -72.46496965165665 },
+        "NOMBRE": "Comité Autoconvocad@s de Quillón",
+        "IG": "",
+        "FB": "https://www.facebook.com/profile.php?id=100070722057253",
+        "TW": ""
     },
-    {   "position": { "lat": -33.50606140039984, "lng": -70.76060242845375 }, 
-        "title": "marker4",
-        "label": "marker 4"
+    {
+        "Organización": "Abofem Wallmapu",
+        "TERRITORIO": "Wallmapu",
+        "position": { "lat": -38.73986171229464, "lng": -72.58977938893443 },
+        "NOMBRE": "Comando Popular Wallmapu Aprueba",
+        "IG": "https://www.instagram.com/wallmapuaprueba/",
+        "FB": "",
+        "TW": ""
     },
-    {   "position": { "lat": -33.03650580374358, "lng": -71.63032691124623 }, 
-        "title": "marker4",
-        "label": "marker 4"
+    {
+        "Organización": "Municipio Ciudadano Concepción",
+        "TERRITORIO": "Concepción",
+        "position": { "lat": -36.81034436272943, "lng": -73.0488508823061 },
+        "NOMBRE": "ApruebaConce",
+        "IG": "https://www.instagram.com/apruebaconce",
+        "FB": "https://www.facebook.com/apruebaconce",
+        "TW": ""
+    },
+    {
+        "Organización": "Apruebo Santiago Centro",
+        "TERRITORIO": "Santiago Centro",
+        "position": { "lat": -33.43891139795524, "lng": -70.65818089912555 },
+        "NOMBRE": "Comando Santiago Aprueba",
+        "IG": "https://www.instagram.com/santiagoaprueba/",
+        "FB": "",
+        "TW": ""
+    },
+    {
+        "Organización": "La Jaime Aprueba",
+        "TERRITORIO": "Macul",
+        "position": { "lat": -33.487057058079714, "lng": -70.60142984418158 },
+        "NOMBRE": "Comité La Jaime Aprueba",
+        "IG": "",
+        "FB": "https://www.facebook.com/La-Jaime-Aprueba-100655529303235",
+        "TW": ""
+    },
+    {
+        "Organización": "Comando de Paine",
+        "TERRITORIO": "Paine",
+        "position": { "lat": -33.809555748438086, "lng": -70.73699488323058 },
+        "NOMBRE": "Paine Aprueba",
+        "IG": "https://www.instagram.com/paine.aprueba/",
+        "FB": "https://www.facebook.com/Paineaprueba",
+        "TW": ""
+    },
+    {
+        "Organización": "Ñuble",
+        "TERRITORIO": "San Fabián ",
+        "position": { "lat": -36.55356622725834,"lng":  -71.55231372435692 },
+        "NOMBRE": "Asamblea Popular Constituyente Ñuble",
+        "IG": "https://www.instagram.com/asamblea.constituyente.d19",
+        "FB": "https://web.facebook.com/asamblea.popular.constituyente.nuble",
+        "TW": "https://twitter.com/AsambleaD19"
     }
 ]
