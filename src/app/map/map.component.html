@@ -1,8 +1,8 @@
 <div class="my-google-map">
   <google-map [width]="null" [height]="null" [options]="mapOptions">
-    <map-marker 
-      *ngFor="let marker of markers" 
-      [position]="marker.position" 
+    <map-marker
+      *ngFor="let marker of markers"
+      [position]="marker.position"
       (mapClick)="markerClic(marker)"></map-marker>
   </google-map>
 </div>
