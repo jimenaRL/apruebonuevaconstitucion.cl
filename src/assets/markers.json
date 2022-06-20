@@ -1,84 +1,317 @@
 [
-
-    {
-        "Organización": "Coordinadora Feminista Nancagua",
-        "TERRITORIO": "Nancagua",
-        "position": { "lat": -34.65009399488662, "lng": -71.19792311680828 },
-        "NOMBRE": "Coordinadora Feminista Nancagua",
-        "IG": "https://www.instagram.com/coordinadorafeministanancagua",
-        "FB": "https://www.facebook.com/coordinadorafeministanancagua/",
-        "TW": ""
-    },
-    {
-        "Organización": "Asamblea Ramón Cruz",
-        "TERRITORIO": "Ñuñoa",
-        "position": { "lat": -33.454357198663025, "lng": -70.5937794389873 },
-        "NOMBRE": "Asamblea Parque Ramón Cruz",
-        "IG": "https://www.instagram.com/asambleaparqueramoncruz",
-        "FB": "https://www.facebook.com/asambleaparqueramoncruz",
-        "TW": "https://twitter.com/poderparqueram1"
-    },
-    {
-        "Organización": "Quillón Aprueba",
-        "TERRITORIO": "Quillón",
-        "position": { "lat": -36.746636285367366, "lng": -72.46496965165665 },
-        "NOMBRE": "Comité Autoconvocad@s de Quillón",
-        "IG": "",
-        "FB": "https://www.facebook.com/profile.php?id=100070722057253",
-        "TW": ""
-    },
-    {
-        "Organización": "Abofem Wallmapu",
-        "TERRITORIO": "Wallmapu",
-        "position": { "lat": -38.73986171229464, "lng": -72.58977938893443 },
-        "NOMBRE": "Comando Popular Wallmapu Aprueba",
-        "IG": "https://www.instagram.com/wallmapuaprueba/",
-        "FB": "",
-        "TW": ""
-    },
-    {
-        "Organización": "Municipio Ciudadano Concepción",
-        "TERRITORIO": "Concepción",
-        "position": { "lat": -36.81034436272943, "lng": -73.0488508823061 },
-        "NOMBRE": "ApruebaConce",
-        "IG": "https://www.instagram.com/apruebaconce",
-        "FB": "https://www.facebook.com/apruebaconce",
-        "TW": ""
-    },
-    {
-        "Organización": "Apruebo Santiago Centro",
-        "TERRITORIO": "Santiago Centro",
-        "position": { "lat": -33.43891139795524, "lng": -70.65818089912555 },
-        "NOMBRE": "Comando Santiago Aprueba",
-        "IG": "https://www.instagram.com/santiagoaprueba/",
-        "FB": "",
-        "TW": ""
-    },
-    {
-        "Organización": "La Jaime Aprueba",
-        "TERRITORIO": "Macul",
-        "position": { "lat": -33.487057058079714, "lng": -70.60142984418158 },
-        "NOMBRE": "Comité La Jaime Aprueba",
-        "IG": "",
-        "FB": "https://www.facebook.com/La-Jaime-Aprueba-100655529303235",
-        "TW": ""
-    },
-    {
-        "Organización": "Comando de Paine",
-        "TERRITORIO": "Paine",
-        "position": { "lat": -33.809555748438086, "lng": -70.73699488323058 },
-        "NOMBRE": "Paine Aprueba",
-        "IG": "https://www.instagram.com/paine.aprueba/",
-        "FB": "https://www.facebook.com/Paineaprueba",
-        "TW": ""
-    },
-    {
-        "Organización": "Ñuble",
-        "TERRITORIO": "San Fabián ",
-        "position": { "lat": -36.55356622725834,"lng":  -71.55231372435692 },
-        "NOMBRE": "Asamblea Popular Constituyente Ñuble",
-        "IG": "https://www.instagram.com/asamblea.constituyente.d19",
-        "FB": "https://web.facebook.com/asamblea.popular.constituyente.nuble",
-        "TW": "https://twitter.com/AsambleaD19"
-    }
+ {
+   "Organización": "MODATIMA Arica",
+   "TERRITORIO": "Arica",
+   "position": { "lat": -18.412827659847206, "lng": -70.30535518872587},
+   "NOMBRE": "MODATIMA Arica",
+   "IG": "https://www.instagram.com/modatima_arica_parinacota/",
+   "FB": "https://www.facebook.com/modatimaap",
+   "TW": ""
+ },
+ {
+   "Organización": "MODATIMA Antofagasta",
+   "TERRITORIO": "Antofagasta",
+   "position": { "lat": -23.58336451867487, "lng": -70.38041061303073},
+   "NOMBRE": "MODATIMA Antofagasta",
+   "IG": "https://www.instagram.com/modatima.afta/",
+   "FB": "https://www.facebook.com/Modatima-Antofagasta-102044389024927",
+   "TW": ""
+ },
+ {
+   "Organización": "MODATIMA Coquimbo",
+   "TERRITORIO": "La Serena y area rural de coquimbo",
+   "position": { "lat": -29.950038592767847, "lng": -71.28105199688743},
+   "NOMBRE": "MODATIMA Coquimbo",
+   "IG": "",
+   "FB": "https://www.facebook.com/Modatima-Coquimbo-396086747876005",
+   "TW": ""
+ },
+ {
+   "Organización": "MODATIMA Choapa",
+   "TERRITORIO": "Illapel",
+   "position": { "lat": -31.63136820851586, "lng": -71.16848200966075},
+   "NOMBRE": "MODATIMA Choapa",
+   "IG": "https://www.instagram.com/modatimachoapa/",
+   "FB": "https://www.facebook.com/Modatima-Choapa-100651301828607",
+   "TW": ""
+ },
+ {
+   "Organización": "MODATIMA La Ligua",
+   "TERRITORIO": "La Ligua",
+   "position": { "lat": -32.44895100727906, "lng": -71.23160836045389},
+   "NOMBRE": "MODATIMA La Ligua",
+   "IG": "",
+   "FB": "https://www.facebook.com/ModatimaLaLigua",
+   "TW": ""
+ },
+ {
+   "Organización": "MODATIMA Petorca",
+   "TERRITORIO": "Petorca",
+   "position": { "lat": -32.252917137992064, "lng": -70.93667804166147},
+   "NOMBRE": "MODATIMA Petorca",
+   "IG": "",
+   "FB": "https://www.facebook.com/modatima.petorca.5",
+   "TW": "https://twitter.com/ModatimaPetorca"
+ },
+ {
+   "Organización": "MODATIMA Llay Llay",
+   "TERRITORIO": "Llay Llay",
+   "position": { "lat": -32.84085940542728, "lng": -70.9565178304131},
+   "NOMBRE": "MODATIMA Llay Llay",
+   "IG": "https://www.instagram.com/modatimallayllay/",
+   "FB": "https://www.facebook.com/profile.php?id=100066252052288",
+   "TW": ""
+ },
+ {
+   "Organización": "MODATIMA Los Andes",
+   "TERRITORIO": "Los Andes",
+   "position": { "lat": -32.83384288599852, "lng": -70.59815303124046},
+   "NOMBRE": "MODATIMA Los Andes",
+   "IG": "",
+   "FB": "https://www.facebook.com/modatimaLosAndes",
+   "TW": ""
+ },
+ {
+   "Organización": "MODATIMA Til Til",
+   "TERRITORIO": "Til Til",
+   "position": { "lat": -33.08555699838624, "lng": -70.92600715640343},
+   "NOMBRE": "MODATIMA Til Til",
+   "IG": "",
+   "FB": "https://www.facebook.com/MODATIMATILTIL",
+   "TW": ""
+ },
+ {
+   "Organización": "MODATIMA Valparaiso",
+   "TERRITORIO": "Valparaiso",
+   "position": { "lat": -33.0477472713791, "lng": -71.61421233136579},
+   "NOMBRE": "MODATIMA Valparaiso",
+   "IG": "https://www.instagram.com/modatimavalpo_margamarga/",
+   "FB": "https://www.facebook.com/modatima.valparaiso.7",
+   "TW": "https://twitter.com/ModatimaV"
+ },
+ {
+   "Organización": "MODATIMA Lo Barnechea",
+   "TERRITORIO": "Lo Barnechea",
+   "position": { "lat": -33.35253264116606, "lng": -70.5191232634822},
+   "NOMBRE": "MODATIMA Lo Barnechea",
+   "IG": "https://www.instagram.com/modatima.lobarnechea/",
+   "FB": "https://www.facebook.com/profile.php?id=100076407267024",
+   "TW": "https://twitter.com/ModatimaLB"
+ },
+ {
+   "Organización": "MODATIMA Lampa",
+   "TERRITORIO": "Lampa",
+   "position": { "lat": -33.28525059657995, "lng": -70.87682208770714},
+   "NOMBRE": "MODATIMA Lampa",
+   "IG": "https://www.instagram.com/modatimalampa/",
+   "FB": "https://www.facebook.com/modatina.lampa.1",
+   "TW": ""
+ },
+ {
+   "Organización": "MODATIMA Colina",
+   "TERRITORIO": "Colina",
+   "position": { "lat": -33.20216969032636, "lng": -70.67551603426094},
+   "NOMBRE": "MODATIMA Colina",
+   "IG": "https://www.instagram.com/modatima_colina/",
+   "FB": "https://www.facebook.com/Modatima-Colina-325056958129645",
+   "TW": ""
+ },
+ {
+   "Organización": "MODATIMA Puente Alto",
+   "TERRITORIO": "Puente Alto",
+   "position": { "lat": -33.60801973840464, "lng": -70.57583777703535},
+   "NOMBRE": "MODATIMA Puente Alto",
+   "IG": "",
+   "FB": "https://www.facebook.com/modatimacordilleraoficial",
+   "TW": "https://twitter.com/ModatimaC"
+ },
+ {
+   "Organización": "MODATIMA Pirque",
+   "TERRITORIO": "Pirque",
+   "position": { "lat": -33.592698587862486, "lng": -70.61857627781619},
+   "NOMBRE": "MODATIMA Pirque",
+   "IG": "https://www.instagram.com/modatima.pirque/",
+   "FB": "https://www.facebook.com/modatima.pirque",
+   "TW": ""
+ },
+ {
+   "Organización": "MODATIMA Santiago",
+   "TERRITORIO": "Santiago",
+   "position": { "lat": -33.44187785424067, "lng": -70.64471797424537},
+   "NOMBRE": "MODATIMA Santiago",
+   "IG": "https://www.instagram.com/modatimasantiago/",
+   "FB": "https://www.facebook.com/modatimasantiago",
+   "TW": ""
+ },
+ {
+   "Organización": "MODATIMA Cachapoal",
+   "TERRITORIO": "Rancagua",
+   "position": { "lat": -34.17013013020869, "lng": -70.73970893361172},
+   "NOMBRE": "MODATIMA Cachapoal",
+   "IG": "https://www.instagram.com/modatimacachapoal/",
+   "FB": "https://www.facebook.com/Modatima-Cachapoal-101931704987093",
+   "TW": ""
+ },
+ {
+   "Organización": "MODATIMA Ñuble",
+   "TERRITORIO": "Ñuble",
+   "position": { "lat": -36.606563225311476, "lng": -72.10289735044245},
+   "NOMBRE": "MODATIMA Ñuble",
+   "IG": "https://www.instagram.com/modatima.nuble/",
+   "FB": "https://www.facebook.com/modatimanuble",
+   "TW": ""
+ },
+ {
+   "Organización": "MODATIMA Bio Bio",
+   "TERRITORIO": "Bio Bio",
+   "position": { "lat": -36.82692581251694, "lng": -73.04921066734634},
+   "NOMBRE": "MODATIMA Bio Bio",
+   "IG": "https://www.instagram.com/modatimabiobio/",
+   "FB": "https://www.facebook.com/modatimabiobio",
+   "TW": ""
+ },
+ {
+   "Organización": "MODATIMA Wallmapu",
+   "TERRITORIO": "Wallmapu",
+   "position": { "lat": -38.76620962409938, "lng": -72.74669237174},
+   "NOMBRE": "MODATIMA Wallmapu",
+   "IG": "https://www.instagram.com/modatima.wallmapu/",
+   "FB": "https://www.facebook.com/ModatimaWallmapu",
+   "TW": ""
+ },
+ {
+   "Organización": "MODATIMA Los Rios",
+   "TERRITORIO": "Valdivia",
+   "position": { "lat": -39.81232203186629, "lng": -73.24628167207528},
+   "NOMBRE": "MODATIMA Los Rios",
+   "IG": "https://www.instagram.com/modatima_losrios/",
+   "FB": "https://www.facebook.com/modatimalosrios",
+   "TW": "https://twitter.com/ModatimaLosrios"
+ },
+ {
+   "Organización": "MODATIMA Osorno",
+   "TERRITORIO": "Osorno",
+   "position": { "lat": -40.573665012612, "lng": -73.13523592113148},
+   "NOMBRE": "MODATIMA Osorno",
+   "IG": "https://www.instagram.com/modatima_osorno/",
+   "FB": "https://www.facebook.com/modatimaosorno",
+   "TW": ""
+ },
+ {
+   "Organización": "MODATIMA Aysen",
+   "TERRITORIO": "Coyhaique",
+   "position": { "lat": -45.57141922411972, "lng": -72.06853551431162},
+   "NOMBRE": "MODATIMA Aysen",
+   "IG": "https://www.instagram.com/modatima.aysen/",
+   "FB": "https://www.facebook.com/modatimaysen",
+   "TW": ""
+ },
+ {
+   "Organización": "MODATIMA Aysen",
+   "TERRITORIO": "Puerto Aysen",
+   "position": { "lat": -45.40584961648489, "lng": -72.69214554960841},
+   "NOMBRE": "MODATIMA Aysen",
+   "IG": "https://www.instagram.com/modatima.aysen/",
+   "FB": "https://www.facebook.com/modatimaysen",
+   "TW": ""
+ },
+ {
+   "Organización": "MODATIMA Punta Arenas",
+   "TERRITORIO": "Punta Arenas",
+   "position": { "lat": -53.162808409293824, "lng": -70.90746755571499},
+   "NOMBRE": "MODATIMA Punta Arenas",
+   "IG": "",
+   "FB": "https://www.facebook.com/modatima.puntaarenas.96",
+   "TW": ""
+ },
+ {
+   "Organización": "Coordinadora Feminista 8M",
+   "TERRITORIO": "Santiago",
+   "position": { "lat": -33.43703571835861, "lng": -70.63484398294327},
+   "NOMBRE": "Coordinadora Feminista 8M",
+   "IG": "https://www.instagram.com/coordinadorafeminista8m/",
+   "FB": "https://www.facebook.com/coordinadorafeminista8M/",
+   "TW": "https://twitter.com/Coordinadora8m"
+ },
+ {
+   "Organización": "Coordinadora Feminista Nancagua",
+   "TERRITORIO": "Nancagua",
+   "position": { "lat": -34.65009399488662, "lng": -71.19792311680828},
+   "NOMBRE": "Coordinadora Feminista Nancagua",
+   "IG": "https://www.instagram.com/coordinadorafeministanancagua",
+   "FB": "https://m.facebook.com/coordinadorafeministanancagua/",
+   "TW": ""
+ },
+ {
+   "Organización": "Asamblea Ramón Cruz",
+   "TERRITORIO": "Ñuñoa",
+   "position": { "lat": -33.454357198663025, "lng": -70.5937794389873},
+   "NOMBRE": "Asamblea Parque Ramón Cruz",
+   "IG": "https://www.instagram.com/asambleaparqueramoncruz",
+   "FB": "https://www.facebook.com/asambleaparqueramoncruz",
+   "TW": "https://twitter.com/poderparqueram1"
+ },
+ {
+   "Organización": "Quillón Aprueba",
+   "TERRITORIO": "Quillón",
+   "position": { "lat": -36.746636285367366, "lng": -72.46496965165665},
+   "NOMBRE": "Comité Autoconvocad@s de Quillón",
+   "IG": "",
+   "FB": "https://www.facebook.com/profile.php?id=100070722057253",
+   "TW": ""
+ },
+ {
+   "Organización": "Abofem Wallmapu",
+   "TERRITORIO": "Wallmapu",
+   "position": { "lat": -38.73986171229464, "lng": -72.58977938893443},
+   "NOMBRE": "Comando Popular Wallmapu Aprueba",
+   "IG": "https://www.instagram.com/wallmapuaprueba/",
+   "FB": "",
+   "TW": ""
+ },
+ {
+   "Organización": "Municipio Ciudadano Concepción",
+   "TERRITORIO": "Concepción",
+   "position": { "lat": -36.81034436272943, "lng": -73.0488508823061},
+   "NOMBRE": "ApruebaConce",
+   "IG": "https://www.instagram.com/apruebaconce",
+   "FB": "https://www.facebook.com/apruebaconce",
+   "TW": ""
+ },
+ {
+   "Organización": "Apruebo Santiago Centro",
+   "TERRITORIO": "Santiago Centro",
+   "position": { "lat": -33.43891139795524, "lng": -70.65818089912555},
+   "NOMBRE": "Comando Santiago Aprueba",
+   "IG": "https://www.instagram.com/santiagoaprueba/",
+   "FB": "",
+   "TW": ""
+ },
+ {
+   "Organización": "La Jaime Aprueba",
+   "TERRITORIO": "Macul",
+   "position": { "lat": -33.487057058079714, "lng": -70.60142984418158},
+   "NOMBRE": "Comité La Jaime Aprueba",
+   "IG": "",
+   "FB": "https://www.facebook.com/La-Jaime-Aprueba-100655529303235",
+   "TW": ""
+ },
+ {
+   "Organización": "Comando de Paine",
+   "TERRITORIO": "Paine",
+   "position": { "lat": -33.809555748438086, "lng": -70.73699488323058},
+   "NOMBRE": "Paine Aprueba",
+   "IG": "https://www.instagram.com/paine.aprueba/",
+   "FB": "https://www.facebook.com/Paineaprueba",
+   "TW": ""
+ },
+ {
+   "Organización": "Ñuble",
+   "TERRITORIO": "San Fabián ",
+   "position": { "lat": -36.55356622725834, "lng": -71.55231372435692},
+   "NOMBRE": "Asamblea Popular Constituyente Ñuble",
+   "IG": "https://www.instagram.com/asamblea.constituyente.d19",
+   "FB": "https://web.facebook.com/asamblea.popular.constituyente.nuble",
+   "TW": "https://twitter.com/AsambleaD19"
+ }
 ]
