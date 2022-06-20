@@ -8,7 +8,7 @@
 }
 
 .carousel-control-next, .carousel-control-prev {
-    width: 25%; /* CARROUSEL CONTROLS */
+    width: 15% !important; /* CARROUSEL CONTROLS */
 }
 
 .carousel-control-next-icon {
