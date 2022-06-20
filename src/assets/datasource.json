@@ -4,11 +4,11 @@
    "img": "",
    "relacionadas": "[]",
    "icono": "agua",
+   "tags": "agua",
    "color": "#2f7ef2",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "https://leelanuevaconstitucion.cl/comisiones/4/#com4-in2-art26",
-   "ESTADO": "Revisada x Modatima",
    "COMISIÓN": "DDFF",
    "número": "ART 26",
    "titulo": "Derecho humano al agua",
@@ -19,18 +19,18 @@
       109
    ],
    "NC": "Todas las personas tendremos derecho al agua en cantidad suficiente, que sea saludable y de precio abordable.",
-   "tags": "agua,\nmedioambiente, \nderechos fundamentales"
+   "multi-tags": "agua,\nmedioambiente, \nderechos fundamentales"
 },
  {
    "id": 2,
    "img": "",
    "relacionadas": "[]",
    "icono": "agua",
+   "tags": "agua",
    "color": "#2f7ef2",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisada x Modatima",
    "COMISIÓN": "MEDIOAMBIENTE",
    "número": "ART 12 (Bienes Naturales Comunes)",
    "titulo": "Derecho humano al agua",
@@ -41,18 +41,18 @@
       172
    ],
    "NC": "El agua es indispensable para la vida, por esto no será propiedad de nadie en particular. \n\nTodos y todas podremos usarla de manera democrática, participativa y equitativa.",
-   "tags": "agua,\nmedioambiente,\nbienes naturales comunes"
+   "multi-tags": "agua,\nmedioambiente,\nbienes naturales comunes"
 },
  {
    "id": 3,
    "img": "",
    "relacionadas": "[]",
    "icono": "agua",
+   "tags": "agua",
    "color": "#2f7ef2",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisada por Francisco Arellano",
    "COMISIÓN": "Sistemas de Justicia",
    "número": "35 y 35 bis (tercer informe) ",
    "titulo": "Agencia Nacional del Agua",
@@ -63,18 +63,18 @@
       225
    ],
    "NC": "La Agencia Nacional del Agua reemplazará a la Dirección General de Aguas y estará a cargo de asegurar el derecho humano al agua y al saneamiento para todas y todos, y la conservación y preservación de nuestros ríos y cuencas.",
-   "tags": "agua,\nmedioambiente, Agencia Nacional del Agua "
+   "multi-tags": "agua,\nmedioambiente, Agencia Nacional del Agua "
 },
  {
    "id": 4,
    "img": "",
    "relacionadas": "[]",
    "icono": "vivienda",
+   "tags": "vivienda",
    "color": "#ff5949",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "revisado por irune y kari",
    "COMISIÓN": "DDFF",
    "número": "8, 9  segundo informe",
    "titulo": "Derecho al trabajo",
@@ -85,18 +85,18 @@
       281
    ],
    "NC": "Todas las personas tendremos derecho al trabajo y su libre elección. \n\nSe garantizará el trabajo decente y su protección.\n\nIncorporará el derecho al descanso, la desconexión digital y la generación de políticas públicas que permitan compatibilizar el trabajo con otras actividades.",
-   "tags": "#derechoaltrabajo #trabajo"
+   "multi-tags": "#derechoaltrabajo #trabajo"
 },
  {
    "id": 5,
    "img": "",
    "relacionadas": "[]",
    "icono": "vivienda",
+   "tags": "vivienda",
    "color": "#ff5949",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "revisado por irune y kari",
    "COMISIÓN": "DDFF",
    "número": "8, 9  segundo informe",
    "titulo": "Trabajo decente",
@@ -107,18 +107,18 @@
       220
    ],
    "NC": "Se prohibirá la discriminación entre trabajadoras y trabajadores.\n\nToda persona tendrá derecho a igual remuneración por igual trabajo.\n\nSe prohibirá la precarización laboral y el trabajo forzoso, humillante o denigrante.",
-   "tags": "#trabajo #trabajodecente"
+   "multi-tags": "#trabajo #trabajodecente"
 },
  {
    "id": 6,
    "img": "",
    "relacionadas": "[]",
    "icono": "vivienda",
+   "tags": "vivienda",
    "color": "#ff5949",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "revisado por irune y kari",
    "COMISIÓN": "DDFF",
    "número": "11",
    "titulo": "Trabajo doméstico y de cuidados",
@@ -129,18 +129,18 @@
       258
    ],
    "NC": "El Estado reconocerá que las labores domésticas y de cuidados son trabajos socialmente necesarios, contribuyen a la economía y son indispensables para sostener la vida. \n\nSe implementarán mecanismos para la redistribución del trabajo doméstico y de cuidados.",
-   "tags": "#trabajo #trabajodomestico #cuidados #trabajodecuidados"
+   "multi-tags": "#trabajo #trabajodomestico #cuidados #trabajodecuidados"
 },
  {
    "id": 7,
    "img": "",
    "relacionadas": "[]",
    "icono": "Economía",
+   "tags": "economia",
    "color": "#e84dc7",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "revisado por Alondra",
    "COMISIÓN": "DDFF",
    "número": "14",
    "titulo": "Libertad de emprender",
@@ -151,18 +151,18 @@
       213
    ],
    "NC": "Todas las personas tendremos libertad de emprender y desarrollar actividades económicas. \n\nSu ejercicio deberá ser compatible con los derechos consagrados en esta Constitución y con la protección de la naturaleza.",
-   "tags": "emprender, emprendedoras, emprendedores, libertad de emprender, economía, desarrollo "
+   "multi-tags": "emprender, emprendedoras, emprendedores, libertad de emprender, economía, desarrollo "
 },
  {
    "id": 8,
    "img": "",
    "relacionadas": "[]",
    "icono": "Economía",
+   "tags": "economia",
    "color": "#e84dc7",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "revisado por Alondra",
    "COMISIÓN": "DDFF",
    "número": "18 y 20",
    "titulo": "Derecho de propiedad",
@@ -173,18 +173,18 @@
       261
    ],
    "NC": "Tododas las personas - natural o jurídica - tendremos derecho de propiedad en todas nuestras especies y sobre toda clase de bienes, menos aquellos que la naturaleza ha hecho comunes a todas las personas y los que la Constitución o la ley declaren inapropiables.",
-   "tags": "Economía, derecho de propiedad, bienes"
+   "multi-tags": "Economía, derecho de propiedad, bienes"
 },
  {
    "id": 9,
    "img": "",
    "relacionadas": "[]",
    "icono": "Economía",
+   "tags": "economia",
    "color": "#e84dc7",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisado por cami",
    "COMISIÓN": "Sistema de Conocimientos",
    "número": "3er informe. Art 23 y 25.",
    "titulo": "Derechos de los consumidores",
@@ -195,18 +195,18 @@
       105
    ],
    "NC": "Se protegerán los derechos de las y los consumidores y se crea el \"Órgano de protección de consumidores\".",
-   "tags": "consumidores, derechos de los consumidores, economía "
+   "multi-tags": "consumidores, derechos de los consumidores, economía "
 },
  {
    "id": 10,
    "img": "",
    "relacionadas": "[]",
    "icono": "Economía",
+   "tags": "economia",
    "color": "#e84dc7",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "revisado por Alondra",
    "COMISIÓN": "",
    "número": "",
    "titulo": "Anticolusión",
@@ -217,18 +217,18 @@
       204
    ],
    "NC": "La colusión y concentraciones empresariales que afecten el funcionamiento justo y leal de los mercados serán contrarios al interés social.\n\nMandatará a la ley a establecer sanciones para los responsables.",
-   "tags": "Anticolusión, colusión, economía"
+   "multi-tags": "Anticolusión, colusión, economía"
 },
  {
    "id": 11,
    "img": "",
    "relacionadas": "[]",
    "icono": "Economía",
+   "tags": "economia",
    "color": "#e84dc7",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisado x Jime",
    "COMISIÓN": "Sistemas de Justicia ",
    "número": "Art. 37 inciso 1",
    "titulo": "Banco Central de Chile",
@@ -239,18 +239,18 @@
       113
    ],
    "NC": "El Banco Central será un organismo autónomo, de carácter técnico y con personalidad jurídica y patrimonio propio.",
-   "tags": "Banco Central, Banco Central de Chile, Economía"
+   "multi-tags": "Banco Central, Banco Central de Chile, Economía"
 },
  {
    "id": 12,
    "img": "",
    "relacionadas": "[]",
    "icono": "Economía",
+   "tags": "economia",
    "color": "#e84dc7",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisado x Jime",
    "COMISIÓN": "Sistemas de Justicia ",
    "número": "",
    "titulo": "Mandato del Banco Central",
@@ -261,18 +261,18 @@
       130
    ],
    "NC": "El mandato del Banco Central velará por la estabilidad de los precios y el normal funcionamiento de los pagos internos y externos.",
-   "tags": "Banco Central, Banco Central de Chile, Economía"
+   "multi-tags": "Banco Central, Banco Central de Chile, Economía"
 },
  {
    "id": 13,
    "img": "",
    "relacionadas": "[]",
    "icono": "Economía",
+   "tags": "economia",
    "color": "#e84dc7",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "",
    "COMISIÓN": "",
    "número": "",
    "titulo": "Rol del Estado en la economía",
@@ -283,18 +283,18 @@
       null
    ],
    "NC": "El Estado participará en la economía. Su rol se fundará en los principios de solidaridad, diversificación productiva y economía social y solidaria.\n\nTendrá un rol de regulación, fiscalización, fomento y desarrollo de actividades económicas. Además, fomentará la innovación, los mercados locales, los circuitos cortos y la economía circular.\n\nTendrá iniciativa pública en la actividad económica. Para ello, podrá desarrollar actividades empresariales, las que podrán adoptar diversas formas de gestión según determine la ley.\n",
-   "tags": "Economía, Sistema económico"
+   "multi-tags": "Economía, Sistema económico"
 },
  {
    "id": 14,
    "img": "",
    "relacionadas": "[]",
    "icono": "Anticorrupción",
+   "tags": "anticorrupcion",
    "color": "#e5da53",
    "titlecolor": "#202735",
    "titleopacity": 0.7,
    "link": "",
-   "ESTADO": "Revisado por Irune y Karina",
    "COMISIÓN": "Sistema Político",
    "número": "13 informe 2",
    "titulo": "Inhabilidades para cargos públicos",
@@ -305,18 +305,18 @@
       298
    ],
    "NC": "No podrán optar a cargos públicos ni de elección popular las personas condenadas por crímenes de lesa humanidad, delitos sexuales y de violencia intrafamiliar.\n\nTampoco quienes tengan condenas por corrupción, fraude al fisco, lavado de activos, soborno, cohecho y malversación de caudales públicos.",
-   "tags": "cargos públicos, corrupción, anticorrupción"
+   "multi-tags": "cargos públicos, corrupción, anticorrupción"
 },
  {
    "id": 15,
    "img": "",
    "relacionadas": "[]",
    "icono": "Anticorrupción",
+   "tags": "anticorrupcion",
    "color": "#e5da53",
    "titlecolor": "#202735",
    "titleopacity": 0.7,
    "link": "",
-   "ESTADO": "Revisado por Irune y Karina",
    "COMISIÓN": "Sistema Político",
    "número": "7 informe 2",
    "titulo": "Anticorrupción",
@@ -327,18 +327,18 @@
       236
    ],
    "NC": "La corrupción será contraria al bien común y atenta contra el sistema democrático.\n\nEl Estado tomará las medidas necesarias para su prevención, persecución y sanción.\n\nQuienes denuncien hechos de corrupción tendrán la debida protección.",
-   "tags": "anticorrupción, corrupción "
+   "multi-tags": "anticorrupción, corrupción "
 },
  {
    "id": 16,
    "img": "",
    "relacionadas": "[]",
    "icono": "Anticorrupción",
+   "tags": "anticorrupcion",
    "color": "#e5da53",
    "titlecolor": "#202735",
    "titleopacity": 0.7,
    "link": "",
-   "ESTADO": "Revisado por Irune y Karina",
    "COMISIÓN": "Sistema Político",
    "número": "21",
    "titulo": "Probidad",
@@ -349,18 +349,18 @@
       245
    ],
    "NC": "El servicio público se regirá por los principios de probidad, eficiencia, eficacia, responsabilidad, transparencia, publicidad, rendición de cuentas, buena fe, interculturalidad, enfoque de género, inclusión, no discriminación y sustentabilidad.",
-   "tags": "probidad"
+   "multi-tags": "probidad"
 },
  {
    "id": 17,
    "img": "",
    "relacionadas": "[]",
    "icono": "Salud",
+   "tags": "salud",
    "color": "#2f7ef2",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "revisado por Irune y Kari",
    "COMISIÓN": "DDFF",
    "número": "14 segundo informe ",
    "titulo": "Derecho a la salud",
@@ -371,18 +371,18 @@
       304
    ],
    "NC": "Se establecerá el derecho a la salud y bienestar integral, incluyendo su dimensión física y mental.\n\nContemplará un Sistema Nacional de Salud que podrá estar integrado por prestadores públicos y privados.\n\nEl Estado deberá velar por el fortalecimiento y desarrollo de las instituciones públicas de salud.",
-   "tags": "salud, salud digna, prestadores públicos, prestadores privados, Sistema Nacional de Salud, derecho a la salud "
+   "multi-tags": "salud, salud digna, prestadores públicos, prestadores privados, Sistema Nacional de Salud, derecho a la salud "
 },
  {
    "id": 18,
    "img": "",
    "relacionadas": "[]",
    "icono": "Salud",
+   "tags": "salud",
    "color": "#2f7ef2",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "revisado por Irune y Kari",
    "COMISIÓN": "",
    "número": "Nada dice.\n\n\nNada dice.\n\n\n\nNada dice.",
    "titulo": "Derecho al cuidado",
@@ -393,18 +393,18 @@
       332
    ],
    "NC": "Reconocerá el derecho de todas las personas al cuidado. \n\nEl Estado garantizará este derecho a través de un Sistema Integral de Cuidados.\n\nEl sistema prestará especial atención a lactantes, niños, niñas y adolescentes, personas mayores, personas con discapacidad, en situación de dependencia y con enfermedades graves o terminales. ",
-   "tags": "Sistema Integral de cuidados, niños, niñas, adolescentes, derecho al cuidado, cuidados"
+   "multi-tags": "Sistema Integral de cuidados, niños, niñas, adolescentes, derecho al cuidado, cuidados"
 },
  {
    "id": 19,
    "img": "",
    "relacionadas": "[]",
    "icono": "Medio Ambiente",
+   "tags": "medioambiente",
    "color": "#33c47c",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisada por Francisco Arellano",
    "COMISIÓN": "Medioambiente",
    "número": "1",
    "titulo": "Crisis climática y ecológica",
@@ -415,18 +415,18 @@
       209
    ],
    "NC": "Será la primera Constitución del mundo que reconocerá que exista una crisis climática y ecológica. \n\nMandatará al Estado a tomar medidas de prevención, adaptación y mitigación de los daños provocados por ella.",
-   "tags": "crisis climática, ecología, medio ambiente, constitución ecológica"
+   "multi-tags": "crisis climática, ecología, medio ambiente, constitución ecológica"
 },
  {
    "id": 20,
    "img": "",
    "relacionadas": "[]",
    "icono": "Medio Ambiente",
+   "tags": "medioambiente",
    "color": "#33c47c",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisada por Francisco Arellano",
    "COMISIÓN": "Medioambiente",
    "número": "4",
    "titulo": "Derechos de la naturaleza",
@@ -437,18 +437,18 @@
       70
    ],
    "NC": "La naturaleza tendrá derecho a que se respete y proteja su existencia.",
-   "tags": "derechos de la naturaleza, medio ambiente, naturaleza"
+   "multi-tags": "derechos de la naturaleza, medio ambiente, naturaleza"
 },
  {
    "id": 21,
    "img": "",
    "relacionadas": "[]",
    "icono": "Medio Ambiente",
+   "tags": "medioambiente",
    "color": "#33c47c",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisado por Camila y Andrea. Corrección de caracteres lista. ",
    "COMISIÓN": "Sistemas de Justicia",
    "número": "30, 31 y 32 (del tercer informe) ",
    "titulo": "Defensoría de la Naturaleza",
@@ -459,18 +459,18 @@
       301
    ],
    "NC": "Se creará un organismo autónomo que promoverá y defenderá los derechos ambientales y de la Naturaleza. Estarán en cada región de Chile.\n\nAlgunas funciones serán fiscalizar que los órganos del Estado cumplan sus obligaciones ambientales y deducir acciones constitucionales y legales cuando se vulneren.",
-   "tags": "defensoría de la naturaleza, medio ambiente, naturaleza"
+   "multi-tags": "defensoría de la naturaleza, medio ambiente, naturaleza"
 },
  {
    "id": 22,
    "img": "",
    "relacionadas": "[]",
    "icono": "Medio Ambiente",
+   "tags": "medioambiente",
    "color": "#33c47c",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisado por Camila y Andrea. Caracteres corregidos.",
    "COMISIÓN": "Sistemas de Justicia",
    "número": "1 (tercer informe) ",
    "titulo": "Tribunales ambientales",
@@ -481,18 +481,18 @@
       296
    ],
    "NC": "Se elevarán a rango constitucional los Tribunales Ambientales. \n\nEstarán encargados de conocer y resolver casos en materia ambiental, de la acción de tutela de derechos fundamentales ambientales y de la Naturaleza, la reparación por daño ambiental y las demás que señale la Constitución y la ley.",
-   "tags": "tribunales ambientales, medio ambiente, naturaleza"
+   "multi-tags": "tribunales ambientales, medio ambiente, naturaleza"
 },
  {
    "id": 23,
    "img": "",
    "relacionadas": "[]",
    "icono": "Medio Ambiente",
+   "tags": "medioambiente",
    "color": "#33c47c",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisada por Francisco Arellano",
    "COMISIÓN": "Principios Constitucionales",
    "número": "",
    "titulo": "Reparación ambiental",
@@ -503,18 +503,18 @@
       175
    ],
    "NC": "Quien dañe el medio ambiente tendrá el deber de repararlo, sin perjuicio de las sanciones administrativas, penales y civiles que correspondan y queden establecidas en la ley. ",
-   "tags": "reparación ambiental, medio ambiente "
+   "multi-tags": "reparación ambiental, medio ambiente "
 },
  {
    "id": 24,
    "img": "",
    "relacionadas": "[]",
    "icono": "Medio Ambiente",
+   "tags": "medioambiente",
    "color": "#33c47c",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisada por Francisco Arellano",
    "COMISIÓN": "Medioambiente",
    "número": "12A, 12B, 9",
    "titulo": "Bienes comunes naturales",
@@ -525,18 +525,18 @@
       306
    ],
    "NC": "Se establecerá el concepto de \"bienes comunes naturales\", los que serán elementos de la naturaleza que deberán ser protegidos por el Estado. \n\nEntre ellos estarán las aguas, las áreas protegidas, entre otros. \n\nSerán bienes comunes inapropiables e incomerciables: las aguas en todos sus estados y el aire. ",
-   "tags": "bienes comunes naturales, medio ambiente, naturaleza"
+   "multi-tags": "bienes comunes naturales, medio ambiente, naturaleza"
 },
  {
    "id": 25,
    "img": "",
    "relacionadas": "[]",
    "icono": "Medio Ambiente",
+   "tags": "medioambiente",
    "color": "#33c47c",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisada por Francisco Arellano",
    "COMISIÓN": "Medioambiente",
    "número": "12D",
    "titulo": "Uso de los bienes comunes naturales",
@@ -547,18 +547,18 @@
       295
    ],
    "NC": "Se garantizará el uso de los bienes comunes naturales y será el Estado quien otorgará autorizaciones administrativas para aquellos que sean inapropiables. \n\nLas autorizaciones serán temporales, sujetas a caducidad, extinción y revocación, la protección de la naturaleza y el beneficio colectivo.",
-   "tags": "medio ambiente, bienes comunes naturales"
+   "multi-tags": "medio ambiente, bienes comunes naturales"
 },
  {
    "id": 26,
    "img": "",
    "relacionadas": "[]",
    "icono": "Medio Ambiente",
+   "tags": "medioambiente",
    "color": "#33c47c",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisada por Francisco Arellano",
    "COMISIÓN": "Medioambiente",
    "número": "23",
    "titulo": "Animales",
@@ -569,18 +569,18 @@
       221
    ],
    "NC": "Los animales serán sujetos de especial protección. \n\nEl Estado los protegerá, reconociendo su sintiencia, el derecho a vivir una vida libre de maltrato, promoverá una educación basada en la empatía y respeto hacia ellos. ",
-   "tags": "animales, medio ambiente, naturaleza"
+   "multi-tags": "animales, medio ambiente, naturaleza"
 },
  {
    "id": 27,
    "img": "",
    "relacionadas": "[]",
    "icono": "Medio Ambiente",
+   "tags": "medioambiente",
    "color": "#33c47c",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisada por Francisco Arellano",
    "COMISIÓN": "Medioambiente",
    "número": "19",
    "titulo": "Acceso responsable a la naturaleza",
@@ -591,18 +591,18 @@
       189
    ],
    "NC": "A todas las personas se nos garantizará el derecho de acceso responsable y universal a las montañas, riberas de ríos, mar, playas, lagos, lagunas y humedales, entre otros que defina la ley.",
-   "tags": "Naturaleza, medio ambiente, ríos, río, montaña, playas, lagos, lagunas, humedales"
+   "multi-tags": "Naturaleza, medio ambiente, ríos, río, montaña, playas, lagos, lagunas, humedales"
 },
  {
    "id": 28,
    "img": "",
    "relacionadas": "[]",
    "icono": "Medio Ambiente",
+   "tags": "medioambiente",
    "color": "#33c47c",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisada por Francisco Arellano",
    "COMISIÓN": "Medioambiente",
    "número": "11",
    "titulo": "Glaciares",
@@ -613,18 +613,18 @@
       132
    ],
    "NC": "Se garantizará la protección de los glaciares y del entorno glaciar, incluyendo los suelos congelados y sus funciones ecosistémicas.",
-   "tags": "glaciares, naturaleza, medio ambiente, glaciar"
+   "multi-tags": "glaciares, naturaleza, medio ambiente, glaciar"
 },
  {
    "id": 29,
    "img": "",
    "relacionadas": "[]",
    "icono": "Medio Ambiente",
+   "tags": "medioambiente",
    "color": "#33c47c",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisada por Francisco Arellano",
    "COMISIÓN": "Medioambiente",
    "número": "13",
    "titulo": "Humedales, bosques nativos y suelos",
@@ -635,18 +635,18 @@
       138
    ],
    "NC": "Se asegurará la integridad de los humedales, bosque nativo y suelos, así como sus ecosistemas, funciones, procesos y conectividad hídrica.",
-   "tags": "humedales, bosques nativos, suelos, naturaleza, medio ambiente "
+   "multi-tags": "humedales, bosques nativos, suelos, naturaleza, medio ambiente "
 },
  {
    "id": 30,
    "img": "",
    "relacionadas": "[]",
    "icono": "Medio Ambiente",
+   "tags": "medioambiente",
    "color": "#33c47c",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisada por Francisco Arellano",
    "COMISIÓN": "Medioambiente",
    "número": "17 y 18",
    "titulo": "Alimentación",
@@ -657,18 +657,18 @@
       244
    ],
    "NC": "Se asegurará la soberanía y seguridad alimentaria. \n\nEl Estado promoverá la producción, distribución y consumo de alimentos para una alimentación sana y adecuada. \n\nSe garantizará el derecho al libre uso e intercambio de semillas tradicionales.",
-   "tags": "alimentación"
+   "multi-tags": "alimentación"
 },
  {
    "id": 31,
    "img": "",
    "relacionadas": "[]",
    "icono": "Medio Ambiente",
+   "tags": "medioambiente",
    "color": "#33c47c",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisada por Francisco Arellano",
    "COMISIÓN": "Medioambiente",
    "número": "Nuevo",
    "titulo": "Portuarios",
@@ -679,18 +679,18 @@
       285
    ],
    "NC": "El Estado fijará una Política Nacional Portuaria que se organizará con base en los principios de eficiencia en el uso del borde costero y responsabilidad ambiental. \n\nPara su ejecución será necesaria la vinculación con los territorios y comunidades donde estén los recintos portuarios.",
-   "tags": "portuarios, medio ambiente, borde costero"
+   "multi-tags": "portuarios, medio ambiente, borde costero"
 },
  {
    "id": 32,
    "img": "",
    "relacionadas": "[]",
    "icono": "Educación",
+   "tags": "educacion",
    "color": "#e84dc7",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisado por irune y Kari",
    "COMISIÓN": "DDFF",
    "número": "15, 16 y 17 segundo informe ",
    "titulo": "Derecho a la educación",
@@ -701,18 +701,18 @@
       264
    ],
    "NC": "A todas las personas se nos asegurará el derecho a la educación.\n\nEl Estado financiará un Sistema de Educación Pública, de carácter laico y gratuito, con establecimientos e instituciones estatales de todos los niveles.\n\nLa educación tendrá un carácter no sexista.\n",
-   "tags": "Educación, derecho a la educación"
+   "multi-tags": "Educación, derecho a la educación"
 },
  {
    "id": 33,
    "img": "",
    "relacionadas": "[]",
    "icono": "Educación",
+   "tags": "educacion",
    "color": "#e84dc7",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisado Alondra",
    "COMISIÓN": "DDFF",
    "número": "",
    "titulo": "Libertad de enseñanza",
@@ -723,18 +723,18 @@
       284
    ],
    "NC": "Se garantizará la libertad de enseñanza y será deber del Estado respetarla.\n\nÉsta comprenderá la libertad de madres, padres y apoderados de elegir el tipo de educación de las personas a su cargo, respetando el interés superior y la autonomía progresiva de niños, niñas y adolescentes.",
-   "tags": "libertad de enseñanza, educación, derecho a la educación"
+   "multi-tags": "libertad de enseñanza, educación, derecho a la educación"
 },
  {
    "id": 34,
    "img": "",
    "relacionadas": "[]",
    "icono": "Educación",
+   "tags": "educacion",
    "color": "#e84dc7",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisa Francisco Arellano",
    "COMISIÓN": "Medioambiente",
    "número": "51",
    "titulo": "Educación ambiental",
@@ -745,18 +745,18 @@
       192
    ],
    "NC": "Se garantizará una educación ambiental que fortalezca la preservación, conservación y cuidados requeridos respecto al medio ambiente y la Naturaleza, y que permita formar conciencia ecológica.",
-   "tags": "medio ambiente, educación ambiental "
+   "multi-tags": "medio ambiente, educación ambiental "
 },
  {
    "id": 35,
    "img": "",
    "relacionadas": "[]",
    "icono": "Justicia",
+   "tags": "justicia",
    "color": "#ff5949",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisada por Camila y Andrea. Caracteres OK",
    "COMISIÓN": "Sistemas de Justicia ",
    "número": "5",
    "titulo": "Acceso a la justicia",
@@ -767,18 +767,18 @@
       216
    ],
    "NC": "Todas las personas y colectivos tendremos acceso a la justicia. \n\nAdemás, las personas podremos recurrir a Tribunales y el Estado deberá remover los obstáculos sociales, culturales y económicos que puedan impedirlo. ",
-   "tags": "justicia, acceso a la justicia "
+   "multi-tags": "justicia, acceso a la justicia "
 },
  {
    "id": 36,
    "img": "",
    "relacionadas": "[]",
    "icono": "Justicia",
+   "tags": "justicia",
    "color": "#ff5949",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisada por Camila y Andrea. Caracteres OK",
    "COMISIÓN": "Sistemas de Justicia ",
    "número": "10 y 17 y 19 del tercer informe. ",
    "titulo": "Gratuidad",
@@ -789,18 +789,18 @@
       100
    ],
    "NC": "El acceso a la justicia será gratuito.\n\nEl Estado asegurará la asesoría jurídica gratuita e integra.",
-   "tags": "gratuidad, justicia, gratuidad en la justicia"
+   "multi-tags": "gratuidad, justicia, gratuidad en la justicia"
 },
  {
    "id": 37,
    "img": "",
    "relacionadas": "[]",
    "icono": "Justicia",
+   "tags": "justicia",
    "color": "#ff5949",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisado por Cami",
    "COMISIÓN": "Sistema de Justicia ",
    "número": "Art 9. del primer informe",
    "titulo": "Sentencias en lenguaje claro",
@@ -811,18 +811,18 @@
       91
    ],
    "NC": "Las sentencias deberán ser siempre fundadas y redactadas en un lenguaje claro e inclusivo. ",
-   "tags": "lenguaje claro, justicia, lenguaje inclusivo"
+   "multi-tags": "lenguaje claro, justicia, lenguaje inclusivo"
 },
  {
    "id": 38,
    "img": "",
    "relacionadas": "[]",
    "icono": "Justicia",
+   "tags": "justicia",
    "color": "#ff5949",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "mariapaz.byers@gmail.com Revisado por cami",
    "COMISIÓN": "Sistemas de Justicia ",
    "número": "",
    "titulo": "Proximidad e itinerancia",
@@ -833,18 +833,18 @@
       260
    ],
    "NC": "Para garantizar el acceso a la justicia, los Tribunales podrán funcionar en localidades que estén fuera de su lugar habitual. \n\nEsto permitirá acortar la brecha y barrera al acceso a la justicia. \n\nAl trasladarse, deberán respetar su territorio jurisdiccional.",
-   "tags": "proximidad e itinerancia, justicia "
+   "multi-tags": "proximidad e itinerancia, justicia "
 },
  {
    "id": 39,
    "img": "",
    "relacionadas": "[]",
    "icono": "Justicia",
+   "tags": "justicia",
    "color": "#ff5949",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisada por Camila y Andrea. Revisado por segunda vez por cami",
    "COMISIÓN": "Sistemas de Justicia ",
    "número": "2",
    "titulo": "Pluralismo jurídico ",
@@ -855,18 +855,18 @@
       299
    ],
    "NC": "El Estado reconocerá los sistemas jurídicos de los Pueblos Indígenas que coexistirán en igualdad con el Sistema Nacional de Justicia.\n\nLa Corte Suprema será la última instancia en cualquier procedimiento, ya sea del Sistema Nacional de Justicia o de los sistemas jurídicos de los Pueblos Indígenas. ",
-   "tags": "pluralismo jurídico, justicia "
+   "multi-tags": "pluralismo jurídico, justicia "
 },
  {
    "id": 40,
    "img": "",
    "relacionadas": "[]",
    "icono": "Justicia",
+   "tags": "justicia",
    "color": "#ff5949",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisada por Cami",
    "COMISIÓN": "Sistemas de justicia ",
    "número": "3",
    "titulo": "Independencia judicial",
@@ -877,18 +877,18 @@
       263
    ],
    "NC": "Se mantendrá el principio de independencia. Esto significa que solo los Tribunales de Justicia podrán conocer y resolver de las causas judiciales. \n\nEs importante porque impedirá que otros poderes u órganos se entrometan en lo que puedan resolver jueces o juezas.",
-   "tags": "independencia en la justicia, justicia "
+   "multi-tags": "independencia en la justicia, justicia "
 },
  {
    "id": 41,
    "img": "",
    "relacionadas": "[]",
    "icono": "Descentralización",
+   "tags": "descentralizacion",
    "color": "#e5da53",
    "titlecolor": "#202735",
    "titleopacity": 0.7,
    "link": "",
-   "ESTADO": "Revisado por Fabi ",
    "COMISIÓN": "Forma de Estado",
    "número": "1, 2, 5 y 10 (referente a plurinacionalidad) ",
    "titulo": "Estado Regional ",
@@ -899,18 +899,18 @@
       310
    ],
    "NC": "Chile será un Estado Regional, lo que significa que las regiones y comunas ya no serán meras divisiones de un único centro.\n\nSerán entidades territoriales con autonomía política, administrativa y financiera, en un marco de equidad y solidaridad entre todas ellas, preservando la unidad e integridad del Estado.",
-   "tags": "Estado Regional, regiones autónomas"
+   "multi-tags": "Estado Regional, regiones autónomas"
 },
  {
    "id": 42,
    "img": "",
    "relacionadas": "[]",
    "icono": "Descentralización",
+   "tags": "descentralizacion",
    "color": "#e5da53",
    "titlecolor": "#202735",
    "titleopacity": 0.7,
    "link": "",
-   "ESTADO": "Revisado por Fabi ",
    "COMISIÓN": "Forma de Estado",
    "número": "35",
    "titulo": "Ruralidad",
@@ -921,18 +921,18 @@
       304
    ],
    "NC": "Se reconocerá la ruralidad y sus formas de vida en relación directa con las personas, la tierra, agua y el mar.\n\nSe promoverá el desarrollo integral de los territorios rurales y para la creación de políticas públicas se deberán considerar a las comunidades, tanto para el diseño como para su realización.",
-   "tags": "Ruralidad, Descentralización, rural"
+   "multi-tags": "Ruralidad, Descentralización, rural"
 },
  {
    "id": 43,
    "img": "",
    "relacionadas": "[]",
    "icono": "Descentralización",
+   "tags": "descentralizacion",
    "color": "#e5da53",
    "titlecolor": "#202735",
    "titleopacity": 0.7,
    "link": "",
-   "ESTADO": "Revisado por Fabi ",
    "COMISIÓN": "Forma de Estado",
    "número": "16 bis",
    "titulo": "Solidaridad interterritorial",
@@ -943,18 +943,18 @@
       114
    ],
    "NC": "Se establecerán Fondos de Compensación y Transferencias de Recursos para las Regiones y Comunas más empobrecidas. ",
-   "tags": "Descentralización, solidaridad interterritorial"
+   "multi-tags": "Descentralización, solidaridad interterritorial"
 },
  {
    "id": 44,
    "img": "",
    "relacionadas": "[]",
    "icono": "Descentralización",
+   "tags": "descentralizacion",
    "color": "#e5da53",
    "titlecolor": "#202735",
    "titleopacity": 0.7,
    "link": "",
-   "ESTADO": "Revisado por Fabi. ",
    "COMISIÓN": "Forma de Estado",
    "número": "26",
    "titulo": "Territorios especiales",
@@ -965,18 +965,18 @@
       258
    ],
    "NC": "Rapa Nui y el Archipiélago Juan Fernández serán territorios especiales y estarán regidos por sus respectivos estatutos.\n\nSe podrán crear territorios especiales de acuerdo a condiciones geográficas, climáticas, ambientales, económicas, sociales y culturales. ",
-   "tags": "territorios especiales, descentralización"
+   "multi-tags": "territorios especiales, descentralización"
 },
  {
    "id": 45,
    "img": "",
    "relacionadas": "[]",
    "icono": "Descentralización",
+   "tags": "descentralizacion",
    "color": "#e5da53",
    "titlecolor": "#202735",
    "titleopacity": 0.7,
    "link": "",
-   "ESTADO": "",
    "COMISIÓN": "",
    "número": "",
    "titulo": "Empresas comunales",
@@ -987,18 +987,18 @@
       null
    ],
    "NC": "Se autorizará a las comunas a que, con previa autorización de una ley, puedan crear empresas o participar de ellas.",
-   "tags": "Empresas comunales, descentralización, empresas municipales"
+   "multi-tags": "Empresas comunales, descentralización, empresas municipales"
 },
  {
    "id": 46,
    "img": "",
    "relacionadas": "[]",
    "icono": "Pensiones y vejez",
+   "tags": "vejez",
    "color": "#2f7ef2",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "revisado por Irune y Karina",
    "COMISIÓN": "DDFF",
    "número": "13 segundo informe ",
    "titulo": "Pensiones",
@@ -1009,18 +1009,18 @@
       324
    ],
    "NC": "A todas las personas se nos garantizará el derecho a la seguridad social fundado en principios de universalidad, solidaridad, suficiencia, sostenibilidad, entre otros.\n\nLa ley establecerá un Sistema de Seguridad Social público.\n\nSe asegurará la cobertura de prestaciones a quienes ejerzan trabajos domésticos y de cuidados.\n",
-   "tags": "pensiones, afp, no más afp, vejez"
+   "multi-tags": "pensiones, afp, no más afp, vejez"
 },
  {
    "id": 47,
    "img": "",
    "relacionadas": "[]",
    "icono": "Pensiones y vejez",
+   "tags": "vejez",
    "color": "#2f7ef2",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisa Andrea",
    "COMISIÓN": "Principios Constitucionales",
    "número": "1",
    "titulo": "Derechos de las personas mayores",
@@ -1031,18 +1031,18 @@
       366
    ],
    "NC": "Las personas mayores serán reconocida como sujetos/as de derecho. \n\nEn un capítulo específico, la nueva Constitución reconocerá su derecho a envejecer con dignidad, obtener prestaciones de seguridad social suficientes para una vida digna, a una vida libre de maltrato por motivos de edad; a la autonomía e independencia y al pleno ejercicio de su capacidad jurídica.",
-   "tags": "personas mayores, derechos de personas mayores, pensiones, vejez "
+   "multi-tags": "personas mayores, derechos de personas mayores, pensiones, vejez "
 },
  {
    "id": 48,
    "img": "",
    "relacionadas": "[]",
    "icono": "Infancia ",
+   "tags": "ninez",
    "color": "#ff5949",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "",
    "COMISIÓN": "Principios Constitucionales",
    "número": "Art 3. ",
    "titulo": "Vida libre de violencia de género",
@@ -1053,18 +1053,18 @@
       144
    ],
    "NC": "Se reconocerá el derecho de niñas a una vida libre de violencia de género en todas sus manifestaciones, tanto en el ámbito público como privado.",
-   "tags": "vida libre de violencia, feminismo, violencia de género, seguridad "
+   "multi-tags": "vida libre de violencia, feminismo, violencia de género, seguridad "
 },
  {
    "id": 49,
    "img": "",
    "relacionadas": "[]",
    "icono": "Infancia ",
+   "tags": "ninez",
    "color": "#ff5949",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "nicolevenegasre@gmail.com",
    "COMISIÓN": "Principios Constitucionales",
    "número": "1",
    "titulo": "Derechos de niñas, niños y adolescentes",
@@ -1075,18 +1075,18 @@
       350
    ],
    "NC": "Se consagrarán los derechos de niñas, niños y adolescentes, mediante el resguardo de su interés superior, su autonomía progresiva y su desarrollo integral.\n\nTendrán derecho a ser escuchados, protegidos contra toda forma de violencia, a vivir en condiciones familiares y ambientales que les permitan el pleno y armonioso desarrollo de su personalidad.",
-   "tags": "niñas, niños, adolescentes, niñez, juventud"
+   "multi-tags": "niñas, niños, adolescentes, niñez, juventud"
 },
  {
    "id": 50,
    "img": "",
    "relacionadas": "",
    "icono": "",
+   "tags": "ninez",
    "color": "#ff5949",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "María Paz Byers Muñoz.  Revisada por cami",
    "COMISIÓN": "Sistemas de Justicia",
    "número": "",
    "titulo": "Defensoría de la niñez",
@@ -1097,18 +1097,18 @@
       212
    ],
    "NC": "Se creará la Defensoría de los Derechos de la Niñez, como un órgano autónomo que estará a cargo de la difusión y protección de los derechos de niñas, niños y adolescentes, velando siempre por su interés superior.",
-   "tags": "defensoría de la niñez, derechos niñez, niñas, niños, adolescentes"
+   "multi-tags": "defensoría de la niñez, derechos niñez, niñas, niños, adolescentes"
 },
  {
    "id": 51,
    "img": "",
    "relacionadas": "[]",
    "icono": "Democracia y participación",
+   "tags": "democracia",
    "color": "#33c47c",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisado por Irune y Kari",
    "COMISIÓN": "Sistema Político",
    "número": "9 y 11",
    "titulo": "Cámara de las regiones",
@@ -1119,18 +1119,18 @@
       221
    ],
    "NC": "La Cámara de las Regiones será el nuevo órgano deliberativo, con igual participación de hombres y mujeres y con representación territorial efectiva, encargado de hacerse parte en la formación de leyes de interés regional.",
-   "tags": "Cámara de las regiones, representación, paridad"
+   "multi-tags": "Cámara de las regiones, representación, paridad"
 },
  {
    "id": 52,
    "img": "",
    "relacionadas": "[]",
    "icono": "Democracia y participación",
+   "tags": "democracia",
    "color": "#33c47c",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisa Andrea ",
    "COMISIÓN": "Principios Constitucionales",
    "número": "Art 1, 8 , 9 , nuevo.",
    "titulo": "Participación ciudadana vinculante",
@@ -1141,18 +1141,18 @@
       67
    ],
    "NC": "Las personas podremos derogar total o parcialmente una o más leyes.",
-   "tags": "Participación ciudadana, leyes"
+   "multi-tags": "Participación ciudadana, leyes"
 },
  {
    "id": 53,
    "img": "",
    "relacionadas": "[]",
    "icono": "Democracia y participación",
+   "tags": "democracia",
    "color": "#33c47c",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "revisado por Irune y Karina",
    "COMISIÓN": "Sistema Político",
    "número": "29",
    "titulo": "Iniciativa popular de ley",
@@ -1163,18 +1163,18 @@
       156
    ],
    "NC": "Las personas podremos presentar iniciativas populares de ley. \n\nTras reunir los patrocinios exigidos, el Congreso deberá iniciar su tramitación legislativa.",
-   "tags": "Iniciativa popular de ley, participación ciudadana, ley "
+   "multi-tags": "Iniciativa popular de ley, participación ciudadana, ley "
 },
  {
    "id": 54,
    "img": "",
    "relacionadas": "[]",
    "icono": "Democracia y participación",
+   "tags": "democracia",
    "color": "#33c47c",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "revisado por Irune y Karina",
    "COMISIÓN": "Sistema Político",
    "número": "34",
    "titulo": "Urgencia popular de ley",
@@ -1185,18 +1185,18 @@
       129
    ],
    "NC": "Las personas, así como el Congreso y la presidencia, podremos darle \"urgencia\" a un proyecto de ley para agilizar su tramitación.",
-   "tags": "Participación ciudadana, urgencia popular de ley"
+   "multi-tags": "Participación ciudadana, urgencia popular de ley"
 },
  {
    "id": 55,
    "img": "",
    "relacionadas": "[]",
    "icono": "Democracia y participación",
+   "tags": "democracia",
    "color": "#33c47c",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisa Andrea",
    "COMISIÓN": "",
    "número": "10,14",
    "titulo": "Participación directa",
@@ -1207,18 +1207,18 @@
       283
    ],
    "NC": "Las personas podremos votar materias que sean de competencia de los gobiernos regionales y locales. \n\nEn el Congreso y en los órganos representativos a nivel regional y local se deberán realizar audiencias públicas, donde las personas podremos dar a conocer propuestas y argumentos. ",
-   "tags": "Participación directa, participación ciudadana"
+   "multi-tags": "Participación directa, participación ciudadana"
 },
  {
    "id": 56,
    "img": "",
    "relacionadas": "[]",
    "icono": "Democracia y participación",
+   "tags": "democracia",
    "color": "#33c47c",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisado por Irune y Kari",
    "COMISIÓN": "Sistema Político",
    "número": "5 bis, 5 ter, 7, 9",
    "titulo": "Congreso de diputadas y diputados",
@@ -1229,18 +1229,18 @@
       197
    ],
    "NC": "El Congreso de Diputadas y Diputados será un órgano deliberativo, paritario y con representantes de pueblos originarios.\n\nSus integrantes se elegirán por votación directa por distritos electorales.",
-   "tags": "Congreso de diputadas y diputados"
+   "multi-tags": "Congreso de diputadas y diputados"
 },
  {
    "id": 57,
    "img": "",
    "relacionadas": "[]",
    "icono": "Democracia y participación",
+   "tags": "democracia",
    "color": "#33c47c",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisado por Irune y Kari (por caracteres, deberían ser dos tarjetas)",
    "COMISIÓN": "Sistema Político",
    "número": "16",
    "titulo": "Fuerzas Armadas I",
@@ -1251,18 +1251,18 @@
       171
    ],
    "NC": "Estarán subordinadas al poder civil. \n\nTendrán como objetivo el resguardo de la soberanía, independencia e integridad territorial de la República ante agresiones externas.",
-   "tags": "Fuerzas Armadas "
+   "multi-tags": "Fuerzas Armadas "
 },
  {
    "id": 58,
    "img": "",
    "relacionadas": "[]",
    "icono": "Democracia y participación",
+   "tags": "democracia",
    "color": "#33c47c",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisado por Irune y Kari (por caracteres, deberían ser dos tarjetas)",
    "COMISIÓN": "Sistema Político",
    "número": "16",
    "titulo": "Fuerzas Armadas II",
@@ -1273,18 +1273,18 @@
       322
    ],
    "NC": "Serán instituciones profesionales, jerarquizadas, disciplinadas, obedientes y no deliberantes.\n\nEstarán sujetas a controles en materia de probidad y transparencia. \n\nEl ingreso y la formación se hará mediante mecanismos gratuitos y no discriminatorios. La educación militar se fundará en el respeto irrestricto a los DDHH.",
-   "tags": "Fuerzas Armadas "
+   "multi-tags": "Fuerzas Armadas "
 },
  {
    "id": 59,
    "img": "",
    "relacionadas": "[]",
    "icono": "Democracia y participación",
+   "tags": "democracia",
    "color": "#33c47c",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisado por Irune y Kari",
    "COMISIÓN": "Sistema Político",
    "número": "19",
    "titulo": "Policías",
@@ -1295,18 +1295,18 @@
       132
    ],
    "NC": "Las policías estarán sujetas a controles de probidad y transparencia.\n\nEl ingreso y la formación será gratuito y no discriminatorio.",
-   "tags": "Policía, Carabineros, PDI, Policía de Investigaciones, policías"
+   "multi-tags": "Policía, Carabineros, PDI, Policía de Investigaciones, policías"
 },
  {
    "id": 60,
    "img": "",
    "relacionadas": "[]",
    "icono": "Democracia y participación",
+   "tags": "democracia",
    "color": "#33c47c",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "revisado por Irune y Karina",
    "COMISIÓN": "Sistema Político",
    "número": "56",
    "titulo": "Voto",
@@ -1317,18 +1317,18 @@
       185
    ],
    "NC": "El voto será universal, igualitario, directo, secreto y obligatorio para las personas que hayan cumplido 18 años.\n\nDe forma voluntaria también podrán votar las personas de 16 y 17 años.",
-   "tags": "Voto, Voto obligatorio"
+   "multi-tags": "Voto, Voto obligatorio"
 },
  {
    "id": 61,
    "img": "",
    "relacionadas": "[]",
    "icono": "Democracia y participación",
+   "tags": "democracia",
    "color": "#33c47c",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisa Francisco Arellano ",
    "COMISIÓN": "Medioambiente",
    "número": "33",
    "titulo": "Participación en temas ambientales",
@@ -1339,18 +1339,18 @@
       228
    ],
    "NC": "Todas las personas tendremos derecho a la participación informada en materias ambientales y acceso a la información ambiental del Estado. \n\nLos particulares deberán entregar la información ambiental relacionada con su actividad.",
-   "tags": "medio ambiente, participación"
+   "multi-tags": "medio ambiente, participación"
 },
  {
    "id": 62,
    "img": "",
    "relacionadas": "[]",
    "icono": "Feminismo",
+   "tags": "feminismo",
    "color": "#e84dc7",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisa Andrea",
    "COMISIÓN": "Principios Constitucionales",
    "número": "Art 3. ",
    "titulo": "Vida libre de violencia de género",
@@ -1361,18 +1361,18 @@
       254
    ],
    "NC": "Las mujeres, niñas y diversidades tendrán derecho a una vida libre de violencia de género en todas sus manifestaciones, tanto en el ámbito público como privado.\n\nEl Estado deberá adoptar todas las medidas necesarias para erradicar la violencia de género.",
-   "tags": "Feminismo, vida libre de violencia, violencia de género, niñas, mujeres, diversidades"
+   "multi-tags": "Feminismo, vida libre de violencia, violencia de género, niñas, mujeres, diversidades"
 },
  {
    "id": 63,
    "img": "",
    "relacionadas": "[]",
    "icono": "Feminismo",
+   "tags": "feminismo",
    "color": "#e84dc7",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "revisado por irune y Kari",
    "COMISIÓN": "Derechos Fundamentales",
    "número": "art 16",
    "titulo": "Derechos sexuales y reproductivos I",
@@ -1383,18 +1383,18 @@
       260
    ],
    "NC": "Todas las personas seremos titulares de derechos sexuales y derechos reproductivos. \n\nEstos comprenderán, entre otros, el derecho a decidir de forma autónoma sobre el propio cuerpo, el ejercicio de la sexualidad, la reproducción, el placer y la anticoncepción.",
-   "tags": "Feminismo, aborto, derechos sexuales y reproductivos, interrupción voluntaria, maternidad deseada"
+   "multi-tags": "Feminismo, aborto, derechos sexuales y reproductivos, interrupción voluntaria, maternidad deseada"
 },
  {
    "id": 64,
    "img": "",
    "relacionadas": "[]",
    "icono": "Feminismo",
+   "tags": "feminismo",
    "color": "#e84dc7",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "revisado por irune y Kari",
    "COMISIÓN": "Derechos Fundamentales",
    "número": "art 16",
    "titulo": "Derechos sexuales y reproductivos II",
@@ -1405,18 +1405,18 @@
       242
    ],
    "NC": "El Estado garantizará el acceso a la información, educación, salud, y a las prestaciones requeridas para ello, asegurando las condiciones para un embarazo, una interrupción voluntaria del embarazo, parto y maternidad voluntarios y protegidos.",
-   "tags": "Feminismo, aborto, derechos sexuales y reproductivos, interrupción voluntaria, maternidad deseada"
+   "multi-tags": "Feminismo, aborto, derechos sexuales y reproductivos, interrupción voluntaria, maternidad deseada"
 },
  {
    "id": 65,
    "img": "",
    "relacionadas": "[]",
    "icono": "Feminismo",
+   "tags": "feminismo",
    "color": "#e84dc7",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisado por Irune y Karina",
    "COMISIÓN": "Sistema Político",
    "número": "2 y 54, 64",
    "titulo": "Democracia Paritaria",
@@ -1427,18 +1427,18 @@
       298
    ],
    "NC": "Todos los órganos colegiados del Estado, órganos autónomos, así como directorios de empresas públicas y semipúblicas tendrán una composición que asegure que al menos el 50% de sus integrantes sean mujeres. \n\nEl Estado adoptará medidas para la representación de diversidades y disidencias de género.",
-   "tags": "democracia paritaria, Estado paritario"
+   "multi-tags": "democracia paritaria, Estado paritario"
 },
  {
    "id": 66,
    "img": "",
    "relacionadas": "[]",
    "icono": "Feminismo",
+   "tags": "feminismo",
    "color": "#e84dc7",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "valentinagonzalezmeneses@gmail.com",
    "COMISIÓN": "DDFF",
    "número": "4 segundo informe ",
    "titulo": "Casas de acogida",
@@ -1449,18 +1449,18 @@
       125
    ],
    "NC": "Se garantizará la creación de viviendas de acogida en casos de violencia de género y otras formas de vulneración de derechos.",
-   "tags": "Casas de acogida, feminismo, violencia de género"
+   "multi-tags": "Casas de acogida, feminismo, violencia de género"
 },
  {
    "id": 67,
    "img": "",
    "relacionadas": "[]",
    "icono": "Feminismo",
+   "tags": "feminismo",
    "color": "#e84dc7",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "valentinagonzalezmeneses@gmail.com",
    "COMISIÓN": "DDFF",
    "número": "12, 13",
    "titulo": "Identidad y libre desarrollo",
@@ -1471,18 +1471,18 @@
       261
    ],
    "NC": "Todas las personas tendremos derecho al libre desarrollo y pleno reconocimiento de nuestra identidad, en todas sus dimensiones y manifestaciones, incluyendo las características sexuales, identidades y expresiones de género, nombre y orientaciones sexoafectivas.",
-   "tags": "derecho a la identidad, expresiones de género, orientaciones sexoafectivas, lgbtq+"
+   "multi-tags": "derecho a la identidad, expresiones de género, orientaciones sexoafectivas, lgbtq+"
 },
  {
    "id": 68,
    "img": "",
    "relacionadas": "[]",
    "icono": "Feminismo",
+   "tags": "feminismo",
    "color": "#e84dc7",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Re-escrito por María Paz ",
    "COMISIÓN": "Sistemas de Justicia ",
    "número": "2 (tercer informe) y 14",
    "titulo": "Perspectiva de género en la justicia",
@@ -1493,18 +1493,18 @@
       295
    ],
    "NC": "La Justicia se regirá por el principio de perspectiva de género. Es decir, se velará para que quienes imparten justicia no caigan en prejuicios o discriminaciones ocasionadas por sesgos o estereotipos de género. \n\nTodos los órganos y personas que intervengan garantizarán la igualdad sustantiva.",
-   "tags": "justicia paritaria, perspectiva de género, igualdad sustantiva"
+   "multi-tags": "justicia paritaria, perspectiva de género, igualdad sustantiva"
 },
  {
    "id": 69,
    "img": "",
    "relacionadas": "[]",
    "icono": "Derechos Humanos",
+   "tags": "ddhh",
    "color": "#2f7ef2",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisado por Camila y Andrea.",
    "COMISIÓN": "Sistemas de Justicia ",
    "número": "26, 27, 28 y 29 del tercer informe ",
    "titulo": "Defensoría del pueblo ",
@@ -1515,18 +1515,18 @@
       280
    ],
    "NC": "Protegerá y promoverá los derechos humanos. Tendrá múltiples atribuciones, como fiscalizar que los órganos del Estado cumplan con sus obligaciones en materia de derechos humanos y formular recomendaciones en las materias de su competencia.\n\nEste organismo existirá en cada región.",
-   "tags": "defensoría del pueblo, derechos humanos"
+   "multi-tags": "defensoría del pueblo, derechos humanos"
 },
  {
    "id": 70,
    "img": "",
    "relacionadas": "[]",
    "icono": "Derechos Humanos",
+   "tags": "ddhh",
    "color": "#2f7ef2",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "valentinagonzalezmeneses@gmail.com",
    "COMISIÓN": "Sistema de Conocimientos",
    "número": "3er informe. Art. 29.",
    "titulo": "Derecho a la muerte digna",
@@ -1537,18 +1537,18 @@
       289
    ],
    "NC": "Todas las personas tendremos derecho a una muerte digna.\n\nSe asegurará nuestro derecho a tomar decisiones libres e informadas sobre nuestros cuidados y tratamientos al final de su vida.\n\nSe garantizará el acceso a los cuidados paliativos para personas con  enfermedades crónicas avanzadas.",
-   "tags": "eutanasia, muerte digna, derecho a la muerte digna "
+   "multi-tags": "eutanasia, muerte digna, derecho a la muerte digna "
 },
  {
    "id": 71,
    "img": "",
    "relacionadas": "[]",
    "icono": "Derechos Humanos",
+   "tags": "ddhh",
    "color": "#2f7ef2",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "María Paz Byers Muñoz. Falta revisar",
    "COMISIÓN": "Sistemas de Justicia ",
    "número": "87 (tercer informe) ",
    "titulo": "Prohibición de la tortura",
@@ -1559,18 +1559,18 @@
       231
    ],
    "NC": "Ninguna persona privada de libertad podrá ser sometida a tortura ni a otros tratos crueles, inhumanos o degradantes, ni a trabajos forzosos. Asimismo, no podrá ser sometida a aislamiento o incomunicación como sanción disciplinaria.",
-   "tags": ""
+   "multi-tags": ""
 },
  {
    "id": 72,
    "img": "",
    "relacionadas": "[]",
    "icono": "Derechos Humanos",
+   "tags": "ddhh",
    "color": "#2f7ef2",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "valentinagonzalezmeneses@gmail.com",
    "COMISIÓN": "DDFF",
    "número": "25",
    "titulo": "Prohibición de desaparición forzada",
@@ -1581,18 +1581,18 @@
       225
    ],
    "NC": "Ninguna persona será sometida a desaparición forzada.\nToda persona víctima de desaparición forzada tiene derecho a ser buscada. \n\nEl Estado garantizará el ejercicio de este derecho, disponiendo de todos los medios necesarios.",
-   "tags": "desaparición forzada, derechos humanos"
+   "multi-tags": "desaparición forzada, derechos humanos"
 },
  {
    "id": 73,
    "img": "",
    "relacionadas": "[]",
    "icono": "Derechos Humanos",
+   "tags": "ddhh",
    "color": "#2f7ef2",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisado por cami.",
    "COMISIÓN": "Sistemas de Justicia ",
    "número": "16, 17 y 18 (segundo informe) ",
    "titulo": "Establecimientos penitenciarios",
@@ -1603,18 +1603,18 @@
       214
    ],
    "NC": "Sólo el Estado podrá ejecutar el cumplimiento de penas y medidas privativas de libertad, a través de instituciones públicas especialmente establecidas para estos fines. Es decir, no podrá ser ejercida por privados.",
-   "tags": "cárceles, establecimientos penitenciarios"
+   "multi-tags": "cárceles, establecimientos penitenciarios"
 },
  {
    "id": 74,
    "img": "",
    "relacionadas": "[]",
    "icono": "Derechos Humanos",
+   "tags": "ddhh",
    "color": "#2f7ef2",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisado por cami",
    "COMISIÓN": "Sistemas de Justicia ",
    "número": "16, 17 y 18 (segundo informe) ",
    "titulo": "Madres lactantes y mujeres embarazadas",
@@ -1625,18 +1625,18 @@
       299
    ],
    "NC": "En el caso de mujeres embarazadas y madres de lactantes, el Estado adoptará las medidas necesarias tales como infraestructura y equipamiento tanto para quienes se encuentren en control cerrado, abierto y post penitenciario. Se garantizará el derecho a acceder a los servicios de salud que requieran.",
-   "tags": "mujeres, embarazo, mujeres privadas de libertad, lactantes"
+   "multi-tags": "mujeres, embarazo, mujeres privadas de libertad, lactantes"
 },
  {
    "id": 75,
    "img": "",
    "relacionadas": "[]",
    "icono": "Derechos Humanos",
+   "tags": "ddhh",
    "color": "#2f7ef2",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "valentinagonzalezmeneses@gmail.com",
    "COMISIÓN": "DDFF",
    "número": "1 segundo informe",
    "titulo": "Derecho a la reparación",
@@ -1647,18 +1647,18 @@
       319
    ],
    "NC": "Quienes han sido víctimas de graves violaciones a los derechos humanos tendrán derecho a la reparación integral.\n\nLas víctimas y la comunidad tendrán derecho al esclarecimiento y conocimiento de la verdad, especialmente cuando constituyan crímenes de lesa humanidad, crímenes de guerra, genocidio o despojo territorial.",
-   "tags": "derecho a la reparación, violación a los derechos humanos, reparación integral "
+   "multi-tags": "derecho a la reparación, violación a los derechos humanos, reparación integral "
 },
  {
    "id": 76,
    "img": "",
    "relacionadas": "[]",
    "icono": "Derechos Humanos",
+   "tags": "ddhh",
    "color": "#2f7ef2",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "nicolevenegasre@gmail.com",
    "COMISIÓN": "Sistema de Conocimientos ",
    "número": "2do informe. Art 16. ",
    "titulo": "Preservación de la memoria",
@@ -1669,18 +1669,18 @@
       197
    ],
    "NC": "Junto con preservar la memoria, otorgar especial protección a los sitios de memoria y memoriales, el Estado deberá garantizar el acceso a archivos y documentos, en distintos soportes y contenidos. ",
-   "tags": "memoria, preservar la memoria, derechos humanos, sitios de memoria, memoriales "
+   "multi-tags": "memoria, preservar la memoria, derechos humanos, sitios de memoria, memoriales "
 },
  {
    "id": 77,
    "img": "",
    "relacionadas": "[]",
    "icono": "Inclusión",
+   "tags": "inclusion",
    "color": "#e5da53",
    "titlecolor": "#202735",
    "titleopacity": 0.7,
    "link": "",
-   "ESTADO": "revisado por Alondra",
    "COMISIÓN": "DDFF",
    "número": "23 segundo informe ",
    "titulo": "Igualdad y no discriminación",
@@ -1691,18 +1691,18 @@
       398
    ],
    "NC": "Se asegurará el derecho a la igualdad y a la protección contra toda forma de discriminación, en especial cuando sea por motivos de nacionalidad, edad, sexo, orientación sexual, identidad y expresión de género, diversidad corporal, creencias, pertenencia a un pueblo indígena o tribal, opinión política, clase social, discapacidad, condición de salud, estado civil o cualquier otra condición social.",
-   "tags": ""
+   "multi-tags": ""
 },
  {
    "id": 78,
    "img": "",
    "relacionadas": "",
    "icono": "",
+   "tags": "inclusion",
    "color": "#e5da53",
    "titlecolor": "#202735",
    "titleopacity": 0.7,
    "link": "",
-   "ESTADO": "nicolevenegasre@gmail.com. Revisado por cami",
    "COMISIÓN": "Principios Constitucionales",
    "número": "6",
    "titulo": "Derechos de personas con discapacidad",
@@ -1713,18 +1713,18 @@
       307
    ],
    "NC": "Por primera vez en la historia de Chile se reconocerá constitucionalmente a las personas con discapacidad como sujetos de derechos en igualdad de condiciones con los demás. \n\nSe les garantizará el derecho a la accesibilidad universal, inserción laboral, participación política, económica, social y cultural.",
-   "tags": "inclusión, personas con discapacidad"
+   "multi-tags": "inclusión, personas con discapacidad"
 },
  {
    "id": 79,
    "img": "",
    "relacionadas": "[]",
    "icono": "Inclusión",
+   "tags": "inclusion",
    "color": "#e5da53",
    "titlecolor": "#202735",
    "titleopacity": 0.7,
    "link": "",
-   "ESTADO": "Revisado por Caro Inostroza",
    "COMISIÓN": "Sistemas Conocimientos",
    "número": "Art. 26",
    "titulo": "Neurodiversidades y Neurodivergencias",
@@ -1735,18 +1735,18 @@
       332
    ],
    "NC": "Se reconocerá la existencia de diferencias y diversidades neurológicas en las personas. \n\nAdemás, se garantizarán las condiciones para el pleno ejercicio de los derechos, el libre desarrollo y una vida autónoma de las personas neuro divergentes, es decir, personas dentro del espectro autista, asperger, TDAH, TOC, TEL, entre otros.",
-   "tags": "neurodivergente, neurodivergencia, inclusión, tdah, toc, tel"
+   "multi-tags": "neurodivergente, neurodivergencia, inclusión, tdah, toc, tel"
 },
  {
    "id": 80,
    "img": "",
    "relacionadas": "[]",
    "icono": "Seguridad",
+   "tags": "seguridad",
    "color": "#33c47c",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "revisado alondra",
    "COMISIÓN": "DDFF",
    "número": "9",
    "titulo": "Entornos seguros",
@@ -1757,18 +1757,18 @@
       255
    ],
    "NC": "Protegerá en forma equitativa el derecho a vivir en entornos seguros y libres de violencia.\n\nEstablecerá que las acciones de prevención, persecución y sanción de los delitos, así como la reinserción social, serán desarrolladas por los organismos públicos.",
-   "tags": "seguridad "
+   "multi-tags": "seguridad "
 },
  {
    "id": 81,
    "img": "",
    "relacionadas": "[]",
    "icono": "Seguridad",
+   "tags": "seguridad",
    "color": "#33c47c",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "",
    "COMISIÓN": "",
    "número": "",
    "titulo": "Vida libre de violencia de género",
@@ -1779,18 +1779,18 @@
       null
    ],
    "NC": "Las mujeres, niñas y diversidades tendrán derecho a una vida libre de violencia de género en todas sus manifestaciones, tanto en el ámbito público como privado. \n\nEl Estado deberá adoptar todas las medidas necesarias para erradicar la violencia de género.",
-   "tags": "violencia de género, mujeres, niñas, diversidades"
+   "multi-tags": "violencia de género, mujeres, niñas, diversidades"
 },
  {
    "id": 82,
    "img": "",
    "relacionadas": "[]",
    "icono": "Seguridad",
+   "tags": "seguridad",
    "color": "#33c47c",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "",
    "COMISIÓN": "",
    "número": "",
    "titulo": "Casas de acogida",
@@ -1801,18 +1801,18 @@
       null
    ],
    "NC": "Se garantizará la creación de viviendas de acogida en casos de violencia de género y otras formas de vulneración de derechos.",
-   "tags": "casas de acogida, violencia de género "
+   "multi-tags": "casas de acogida, violencia de género "
 },
  {
    "id": 83,
    "img": "",
    "relacionadas": "[]",
    "icono": "Trabajo ",
+   "tags": "trabajo",
    "color": "#ff5949",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "revisado por irune y kari",
    "COMISIÓN": "DDFF",
    "número": "11",
    "titulo": "Trabajo doméstico y de cuidados",
@@ -1823,18 +1823,18 @@
       258
    ],
    "NC": "El Estado reconocerá que las labores domésticas y de cuidados son trabajos socialmente necesarios, contribuyen a la economía y son indispensables para sostener la vida. \n\nSe implementarán mecanismos para la redistribución del trabajo doméstico y de cuidados.",
-   "tags": "#trabajo #trabajodomestico #cuidados #trabajodecuidados"
+   "multi-tags": "#trabajo #trabajodomestico #cuidados #trabajodecuidados"
 },
  {
    "id": 84,
    "img": "",
    "relacionadas": "[]",
    "icono": "Trabajo ",
+   "tags": "trabajo",
    "color": "#ff5949",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "revisado por irune y kari",
    "COMISIÓN": "DDFF",
    "número": "8, 9  segundo informe",
    "titulo": "Trabajo decente",
@@ -1845,18 +1845,18 @@
       229
    ],
    "NC": "Se prohibirá la discriminación entre trabajadoras y trabajadores.\n\nTodas las personas tendremos derecho a igual remuneración por igual trabajo.\n\nSe prohibirá la precarización laboral y el trabajo forzoso, humillante o denigrante.",
-   "tags": "#trabajo #trabajodecente"
+   "multi-tags": "#trabajo #trabajodecente"
 },
  {
    "id": 85,
    "img": "",
    "relacionadas": "[]",
    "icono": "Trabajo ",
+   "tags": "trabajo",
    "color": "#ff5949",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "revisado por irune y kari",
    "COMISIÓN": "DDFF",
    "número": "8, 9  segundo informe",
    "titulo": "Derecho al trabajo",
@@ -1867,18 +1867,18 @@
       269
    ],
    "NC": "Toda persona tendrá derecho al trabajo y su libre elección. Se garantizará el trabajo decente y su protección.\nIncorporará el derecho al descanso, la desconexión digital y la generación de políticas públicas que permitan compatibilizar el trabajo con otras actividades.",
-   "tags": "#derechoaltrabajo #trabajo"
+   "multi-tags": "#derechoaltrabajo #trabajo"
 },
  {
    "id": 86,
    "img": "",
    "relacionadas": "[]",
    "icono": "Trabajo ",
+   "tags": "trabajo",
    "color": "#ff5949",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "revisado por Irune y Kari",
    "COMISIÓN": "DDFF",
    "número": "12 segundo informe",
    "titulo": "Libertad sindical",
@@ -1889,18 +1889,18 @@
       159
    ],
    "NC": "La Constitución asegurará a trabajadoras y trabajadores del sector público y privado el derecho a la sindicalización, a la negociación colectiva y a la huelga.",
-   "tags": "#sindicato #libertadsindical #sindicalismo"
+   "multi-tags": "#sindicato #libertadsindical #sindicalismo"
 },
  {
    "id": 87,
    "img": "",
    "relacionadas": "[]",
    "icono": "Ciencia y tecnología ",
+   "tags": "ciencia",
    "color": "#2f7ef2",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisado por Fco. Camaño",
    "COMISIÓN": "Sistema de Conocimientos ",
    "número": "Art. 18",
    "titulo": "Conectividad digital ",
@@ -1911,18 +1911,18 @@
       167
    ],
    "NC": "Todas las personas, individual y colectivamente, tendremos derecho al acceso universal, a la conectividad digital y a las tecnologías de la información y comunicación.",
-   "tags": "Conectividad digital, digitalización, conexión, internet"
+   "multi-tags": "Conectividad digital, digitalización, conexión, internet"
 },
  {
    "id": 88,
    "img": "",
    "relacionadas": "[]",
    "icono": "Ciencia y tecnología ",
+   "tags": "ciencia",
    "color": "#2f7ef2",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisado por Fco. Camaño",
    "COMISIÓN": "Sistema de Conocimientos ",
    "número": "Art. 8",
    "titulo": "Protección de datos personales",
@@ -1933,18 +1933,18 @@
       279
    ],
    "NC": "Todas las personas tendremos derecho a la protección de nuestros datos personales.\n\nTodas las personas podremos acceder a los datos recogidos que nos conciernen, ser informadas y oponernos al tratamiento de nuestros datos y a obtener su rectificación, cancelación y portabilidad.",
-   "tags": "datos protegidos, datos, datos personales, protección de datos personales"
+   "multi-tags": "datos protegidos, datos, datos personales, protección de datos personales"
 },
  {
    "id": 89,
    "img": "",
    "relacionadas": "[]",
    "icono": "Ciencia y tecnología ",
+   "tags": "ciencia",
    "color": "#2f7ef2",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisado por Fco. Camaño",
    "COMISIÓN": "Sistema de Conocimientos ",
    "número": "Art. 9",
    "titulo": "Desarrollo de investigación",
@@ -1955,18 +1955,18 @@
       265
    ],
    "NC": "El Estado estimulará, promoverá y fortalecerá el desarrollo de la investigación científica y tecnológica en todas las áreas del conocimiento, contribuyendo así al enriquecimiento sociocultural del país y al mejoramiento de las condiciones de vida de sus habitantes.",
-   "tags": "investigación, desarrollo, ciencia"
+   "multi-tags": "investigación, desarrollo, ciencia"
 },
  {
    "id": 90,
    "img": "",
    "relacionadas": "[]",
    "icono": "Ciencia y tecnología ",
+   "tags": "ciencia",
    "color": "#2f7ef2",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisado por Fco. Camaño",
    "COMISIÓN": "Sistema de Conocimientos ",
    "número": "Art. 22",
    "titulo": "Innovación en el Estado",
@@ -1977,18 +1977,18 @@
       161
    ],
    "NC": "El Estado deberá utilizar los mejores avances de las ciencias, tecnología, conocimientos e innovación para promover la mejora continua de los servicios públicos.",
-   "tags": "ciencia, tecnología, conocimiento, innovación "
+   "multi-tags": "ciencia, tecnología, conocimiento, innovación "
 },
  {
    "id": 91,
    "img": "",
    "relacionadas": "[]",
    "icono": "Deporte y cultura ",
+   "tags": "deporte",
    "color": "#e84dc7",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "",
    "COMISIÓN": "",
    "número": "",
    "titulo": "Derecho al deporte",
@@ -1999,18 +1999,18 @@
       296
    ],
    "NC": "Todas las personas tendremos derecho al deporte, a la actividad física y a las prácticas corporales. \n\nSe garantizará el ejercicio de este derecho en sus distintas dimensiones y disciplinas, ya sean recreacionales, competitivas o de alto rendimiento. Se reconocerá, la función social del deporte.",
-   "tags": "deporte, disciplinas, derecho al deporte"
+   "multi-tags": "deporte, disciplinas, derecho al deporte"
 },
  {
    "id": 92,
    "img": "",
    "relacionadas": "[]",
    "icono": "Deporte y cultura ",
+   "tags": "deporte",
    "color": "#e84dc7",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisado por Fco. Camaño",
    "COMISIÓN": "Sistema de Conocimientos",
    "número": "1er informe Art 24 y 26",
    "titulo": "Derecho al ocio",
@@ -2021,18 +2021,18 @@
       87
    ],
    "NC": "Todas las personas tendemos derecho al descanso, al ocio y a disfrutar el tiempo libre.",
-   "tags": "derecho al ocio, descanso, tiempo libre"
+   "multi-tags": "derecho al ocio, descanso, tiempo libre"
 },
  {
    "id": 93,
    "img": "",
    "relacionadas": "[]",
    "icono": "Principios",
+   "tags": "principios",
    "color": "#33c47c",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "revisado por Alondra",
    "COMISIÓN": "Principios Constitucionales",
    "número": "1",
    "titulo": "Chile: Estado social y de derecho",
@@ -2043,18 +2043,18 @@
       331
    ],
    "NC": "Chile será un Estado social y democrático de derecho. Será plurinacional, intercultural y ecológico. \n\nSerá una República solidaria, su democracia será paritaria y reconocerá como valores intrínsecos e irrenunciables la dignidad, la libertad, la igualdad sustantiva de los seres humanos y su relación indisoluble con la naturaleza.",
-   "tags": "estado social de derecho, principios, estado subsidiario "
+   "multi-tags": "estado social de derecho, principios, estado subsidiario "
 },
  {
    "id": 94,
    "img": "",
    "relacionadas": "[]",
    "icono": "Principios",
+   "tags": "principios",
    "color": "#33c47c",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "",
    "COMISIÓN": "Principios Constitucionales",
    "número": "14",
    "titulo": "Erradicación de la corrupción",
@@ -2065,18 +2065,18 @@
       274
    ],
    "NC": "Se promoverá la integridad de la función pública y la erradicación de la corrupción del sector público y privado. \n\nSe deberá perseguir administrativa y judicialmente la aplicación de las sanciones administrativas, civiles y penales que correspondan, según determine la ley.",
-   "tags": "corrupción, anticorrupción"
+   "multi-tags": "corrupción, anticorrupción"
 },
  {
    "id": 95,
    "img": "",
    "relacionadas": "[]",
    "icono": "Principios",
+   "tags": "principios",
    "color": "#33c47c",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
    "link": "",
-   "ESTADO": "Revisa Andrea",
    "COMISIÓN": "Principios Constitucionales",
    "número": "Art. 5",
    "titulo": "Democracia Paritaria",
@@ -2087,6 +2087,6 @@
       245
    ],
    "NC": "En Chile, la democracia será inclusiva y paritaria. Se ejercerá en forma directa, participativa, comunitaria y representativa.\n\nEl Estado promoverá una sociedad en la que mujeres, hombres y diversidades participemos en condiciones de igualdad. \n",
-   "tags": "democracia paritaria, paridad"
+   "multi-tags": "democracia paritaria, paridad"
 }
 ]
