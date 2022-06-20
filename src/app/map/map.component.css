@@ -12,6 +12,9 @@
     letter-spacing: .2em;
   }
   .map-container{
+    width: 80vw;
+    height: 80vw;
+    min-height: 300px;
 
   }
 }

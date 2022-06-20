@@ -26,6 +26,12 @@
     background-color: #E5DA53;
 }
 
+.col-md {
+    justify-content:  center;
+    align-items: center;
+}
+
+
 .txt_encuentracomando{
   text-align: center;
   margin-top: 1.5vw;
@@ -41,6 +47,7 @@
 .card {
     height: 15vw;
     width: 20vw;
+    margin-bottom: 10px;
 }
 
 .card-title{
@@ -89,20 +96,21 @@
         height: 0px;
     }
   .card-title{
-      font-size: 0.8rem;
+      font-size: 1.3rem;
   }
   .card-text{
-      font-size: 0.6rem;
+      font-size: 1.1rem;
   }
 
   .socials{
     width: 0.3vw;
-    min-height: 15px;
-    min-width: 15px;
+    min-height: 30px;
+    min-width: 30px;
   }
   .card {
-      height: 24vw;
-      width: 20vw;
+      min-height: 42px;
+      width: 80vw;
+      margin-left: 5vw;
   }
 }
 
@@ -111,16 +119,18 @@
     .txt_encuentracomando{
       margin-top: 3vw;
     }
+    .card {
+       min-height: 150px;
+    }
   .card-title{
-      font-size: 0.4rem;
+      font-size: 1.3rem;
   }
   .card-text{
-      font-size: 0.2rem;
+      font-size: 1.1rem;
   }
 
   .socials{
-    width: 0.2vw;
-    min-height: 10px;
-    min-width: 10px;
+    min-height: 30px;
+    min-width: 30px;
   }
 }
