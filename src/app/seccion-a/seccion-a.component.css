@@ -44,8 +44,23 @@
     .txt_conocelanuevaconstitucion{
       font-size: 5vw;
     }
+    .welcome-fucsia{
+        height: 0px;
+    }
+    .descarga-borrador{
+      margin-bottom: 4vw;
+    }
+    .txt_conocelanuevaconstitucion{
+      margin-top: 2vw;
+    }
 }
 
+
+@media screen and (max-width: 768px) {
+    .arriba-botones {
+      width: 100vw;
+    }
+}
 
 
 @media screen and (max-width: 574px) {
@@ -57,17 +72,5 @@
 
     .txt_conocelanuevaconstitucion{
       margin-top: 3vw;
-    }
-}
-
-@media screen and (max-width: 960px) {
-    .welcome-fucsia{
-        height: 0px;
-    }
-    .descarga-borrador{
-      margin-bottom: 4vw;
-    }
-    .txt_conocelanuevaconstitucion{
-      margin-top: 2vw;
     }
 }
