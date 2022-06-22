@@ -233,14 +233,12 @@
    "FB": "https://www.facebook.com/coordinadorafeminista8M/",
    "TW": "https://twitter.com/Coordinadora8m"
  },
- {
-   "Organización": "Coordinadora Feminista Nancagua",
-   "TERRITORIO": "Nancagua",
-   "position": { "lat": -34.65009399488662, "lng": -71.19792311680828},
-   "NOMBRE": "Coordinadora Feminista Nancagua",
-   "IG": "https://www.instagram.com/coordinadorafeministanancagua",
-   "FB": "https://m.facebook.com/coordinadorafeministanancagua/",
-   "TW": ""
+{
+   "Organización": "Jovenes x El Apruebo Wallmapu",
+   "TERRITORIO": "Wallmapu",
+   "position": { "lat": -38.73738453488313, "lng": -72.586153107372},
+   "NOMBRE": "Jovenes x El Apruebo Wallmapu",
+   "IG": "https://www.instagram.com/jovenesxelaprueboaraucania/"
  },
  {
    "Organización": "Asamblea Ramón Cruz",
