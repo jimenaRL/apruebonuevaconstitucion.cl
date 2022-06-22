@@ -13,7 +13,7 @@
 
 .descarga-borrador{
     height: 3vw;
-    margin-top: 2vw;
+    margin-top: 0vw;
     margin-bottom: 2vw;
     min-height: 50px;
 }
@@ -27,7 +27,7 @@
 }
 
 .arriba-botones {
-  max-width: 100%;
+  width: 50vw;
   height: auto;
   margin-bottom: -3px;
 }
