@@ -19,6 +19,7 @@ button.active, button.indicator-button{
 
 .carousel-control-next, .carousel-control-prev {
     width: 15% !important; /* CARROUSEL CONTROLS */
+    margin: 16px;
 }
 
 .carousel-control-next-icon {

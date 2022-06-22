@@ -13,6 +13,7 @@
   margin-left: 4px;
   margin-top: 18px;
   content: url("../../assets/img/book.svg");
+  opacity: 0.7;
 }
 
 .iconos-precard #descarga {
@@ -20,6 +21,7 @@
   margin-right: 4px;
   margin-top: 24px;
   content: url("../../assets/img/download.svg");
+  opacity: 0.7;
 }
 
 
@@ -40,10 +42,15 @@
     height: 40px;
     width:  100%;
     color: #EDEBDF;
-    font-size: 2rem;
+    font-size: 27px;
     font-weight: 800;
     letter-spacing: 0.09rem;
 }
+
+/*.p-card-header-comparativo {
+    margin: auto !important;
+  display: inline-block;
+  vertical-align: middle;}*/
 
 .espace-intra-cards {
     height: 6px;
@@ -126,7 +133,7 @@
     }
     .card-header-comparativo {
         height: 20px;
-        font-size: 1rem;
+        font-size: 13px;
     }
     .card-header-both {
         font-size: .9rem;
@@ -147,7 +154,7 @@
     }
     .card-header-comparativo {
         height: 20px;
-        font-size: 1rem;
+        font-size: 13px;
     }
     .card-header-both {
         font-size: .9rem;
@@ -160,10 +167,6 @@
 
 
 @media screen and (max-width: 310px) {
-    .card-header-both {
-        font-size: .6rem;
-        height: 25px;
-    }
     .card-text{
         font-size: 1em;
     }
