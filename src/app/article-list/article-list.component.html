@@ -1,14 +1,14 @@
-<!-- <div class="content">
+<div class="content">
     <app-header></app-header>
 </div>
-<div class="content-sctrech">
-    <carousel-controls-inner style="margin-top: 100px; position: fixed; width: 100vw;"></carousel-controls-inner>
+<!-- <div class="content-stretch">
+    <carousel-controls-inner></carousel-controls-inner>
 </div> -->
-<!-- <div class="article-list content-sctrech"  style="margin-top: 100px;"> -->
-<div class="article-list content-sctrech">
+<div class="article-list content-stretch">
     <div class="content">
         <button type="button" class="btn-close" aria-label="Close">
-            <a [routerLink]="'/'"></a>
+            <a [routerLink]="'/'">
+            </a>
         </button>
         <div *ngFor="let article of articles">
             <app-article [article]="article"></app-article>
@@ -18,3 +18,4 @@
         </button>
     </div>
 </div>
+<app-footer></app-footer>

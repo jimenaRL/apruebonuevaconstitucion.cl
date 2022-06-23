@@ -19,7 +19,7 @@
   height: 60px;
   margin: 0px;
   margin-top: 10px;
-  margin-left: 10vw;
+  margin-right: 8vw;
   content: url("../../assets/img/suscribete.png");
 }
 
@@ -34,7 +34,7 @@
 .toolbar #whatsapp-logo {
   height: 60px;
   margin-bottom: 8px;
-  margin-right: 8vw;
+  margin-left: 10vw;
 }
 
 .toolbar #whatsapp-logo:hover  {

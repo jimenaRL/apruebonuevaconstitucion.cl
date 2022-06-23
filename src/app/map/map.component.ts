@@ -20,7 +20,7 @@ export class MapComponent implements OnInit {
   mapOptions: google.maps.MapOptions = {
     center: { lat: -26, lng: -70.65308524700148 },
     zoom: 2.9,
-    zoomControl: false,
+    zoomControl: true,
     mapTypeControl: false,
     streetViewControl: false,
     fullscreenControl: false,

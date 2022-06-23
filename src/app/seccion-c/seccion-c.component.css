@@ -46,21 +46,23 @@
 
 .card {
     height: 15vw;
-    width: 20vw;
+    width: 40vh;
     margin-bottom: 10px;
 }
 
 .card-title{
-    font-size: 1.4rem;
+    font-size: 1.3rem;
     font-weight: 800;
-    letter-spacing: 0.09rem;
-}
+    letter-spacing: 0.07em;
+/*    opacity: 0.6;
+*/}
 
 .card-text{
-    font-size: 1.4rem;
-    font-weight: 800;
-    letter-spacing: 0.09rem;
+    font-size: 1rem;
+    font-weight: 600;
+    letter-spacing: 0.03rem;
     margin-bottom: 0rem;
+    line-height: 1rem;
 }
 
 
@@ -69,7 +71,7 @@
   min-height: 30px;
   min-width: 30px;
   text-align: center;
-  margin-top: 10px;
+  margin-top: 2vw;
 }
 
 
@@ -86,8 +88,7 @@
       font-size: 0.8rem;
   }
   .card {
-      height: 20vw;
-      width: 20vw;
+    min-height: 80px;
   }
 }
 
@@ -108,7 +109,7 @@
     min-width: 30px;
   }
   .card {
-      min-height: 42px;
+      height: 120px;
       width: 80vw;
       margin-left: 10vw;
   }
@@ -120,7 +121,7 @@
       margin-top: 3vw;
     }
     .card {
-       min-height: 150px;
+      height: 130px;
     }
   .card-title{
       font-size: 1.3rem;

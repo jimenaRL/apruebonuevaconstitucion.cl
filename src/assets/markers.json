@@ -1,5 +1,5 @@
 [
- {
+{
    "Organización": "MODATIMA Arica",
    "TERRITORIO": "Arica",
    "position": { "lat": -18.412827659847206, "lng": -70.30535518872587},
@@ -199,7 +199,7 @@
  },
  {
    "Organización": "MODATIMA Aysen",
-   "TERRITORIO": "Coyhaique",
+   "TERRITORIO": "Coyhaique, Región de Aysén",
    "position": { "lat": -45.57141922411972, "lng": -72.06853551431162},
    "NOMBRE": "MODATIMA Aysen",
    "IG": "https://www.instagram.com/modatima.aysen/",
@@ -207,17 +207,17 @@
    "TW": ""
  },
  {
-   "Organización": "MODATIMA Aysen",
-   "TERRITORIO": "Puerto Aysen",
+   "Organización": "MODATIMA Aysén",
+   "TERRITORIO": "Puerto Aysén, Región de Aysén",
    "position": { "lat": -45.40584961648489, "lng": -72.69214554960841},
-   "NOMBRE": "MODATIMA Aysen",
+   "NOMBRE": "MODATIMA Aysén",
    "IG": "https://www.instagram.com/modatima.aysen/",
    "FB": "https://www.facebook.com/modatimaysen",
    "TW": ""
  },
  {
    "Organización": "MODATIMA Punta Arenas",
-   "TERRITORIO": "Punta Arenas",
+   "TERRITORIO": "Punta Arenas, Magallanes, Región de Magallanes",
    "position": { "lat": -53.162808409293824, "lng": -70.90746755571499},
    "NOMBRE": "MODATIMA Punta Arenas",
    "IG": "",
@@ -226,7 +226,7 @@
  },
  {
    "Organización": "Coordinadora Feminista 8M",
-   "TERRITORIO": "Santiago",
+   "TERRITORIO": "Santiago, Región Metropolitana",
    "position": { "lat": -33.43703571835861, "lng": -70.63484398294327},
    "NOMBRE": "Coordinadora Feminista 8M",
    "IG": "https://www.instagram.com/coordinadorafeminista8m/",
@@ -242,7 +242,7 @@
  },
  {
    "Organización": "Asamblea Ramón Cruz",
-   "TERRITORIO": "Ñuñoa",
+   "TERRITORIO": "Ñuñoa, Región Metropolitana",
    "position": { "lat": -33.454357198663025, "lng": -70.5937794389873},
    "NOMBRE": "Asamblea Parque Ramón Cruz",
    "IG": "https://www.instagram.com/asambleaparqueramoncruz",
@@ -251,7 +251,7 @@
  },
  {
    "Organización": "Quillón Aprueba",
-   "TERRITORIO": "Quillón",
+   "TERRITORIO": "Quillón, Diguillín, Région de Ñuble",
    "position": { "lat": -36.746636285367366, "lng": -72.46496965165665},
    "NOMBRE": "Comité Autoconvocad@s de Quillón",
    "IG": "",
@@ -269,7 +269,7 @@
  },
  {
    "Organización": "Municipio Ciudadano Concepción",
-   "TERRITORIO": "Concepción",
+   "TERRITORIO": "Concepción, Región del Biobío",
    "position": { "lat": -36.81034436272943, "lng": -73.0488508823061},
    "NOMBRE": "ApruebaConce",
    "IG": "https://www.instagram.com/apruebaconce",
@@ -278,7 +278,7 @@
  },
  {
    "Organización": "Apruebo Santiago Centro",
-   "TERRITORIO": "Santiago Centro",
+   "TERRITORIO": "Santiago Centro, Región Metropolitana",
    "position": { "lat": -33.43891139795524, "lng": -70.65818089912555},
    "NOMBRE": "Comando Santiago Aprueba",
    "IG": "https://www.instagram.com/santiagoaprueba/",
@@ -287,7 +287,7 @@
  },
  {
    "Organización": "La Jaime Aprueba",
-   "TERRITORIO": "Macul",
+   "TERRITORIO": "Población Jaime Eyzaguirre, Macul, Región Metropolitana",
    "position": { "lat": -33.487057058079714, "lng": -70.60142984418158},
    "NOMBRE": "Comité La Jaime Aprueba",
    "IG": "",
@@ -296,7 +296,7 @@
  },
  {
    "Organización": "Comando de Paine",
-   "TERRITORIO": "Paine",
+   "TERRITORIO": "Paine, Cordillera, Región Metropolitana",
    "position": { "lat": -33.809555748438086, "lng": -70.73699488323058},
    "NOMBRE": "Paine Aprueba",
    "IG": "https://www.instagram.com/paine.aprueba/",
@@ -305,7 +305,7 @@
  },
  {
    "Organización": "Ñuble",
-   "TERRITORIO": "San Fabián ",
+   "TERRITORIO": "San Fabián, Punilla, Región de Ñuble",
    "position": { "lat": -36.55356622725834, "lng": -71.55231372435692},
    "NOMBRE": "Asamblea Popular Constituyente Ñuble",
    "IG": "https://www.instagram.com/asamblea.constituyente.d19",

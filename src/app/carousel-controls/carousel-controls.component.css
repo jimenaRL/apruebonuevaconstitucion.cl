@@ -1,6 +1,7 @@
 .content {
-    width: 70vw;
-    margin-left: 15vw;
+    /* ALLOWS CONTROL OVER ICONS SEPARATION */
+    width: 54vw;
+    margin-left: 23vw;
 }
 
 .carousel-indicators{
@@ -40,7 +41,6 @@ button.active, button.indicator-button{
     background:#EDEBDF;
   	text-align: center;
   	padding-top: 0px;
-  	margin: 0px;
     cursor: pointer;
 }
 
@@ -53,12 +53,11 @@ button.active, button.indicator-button{
 
 @media screen and (max-width: 991px) {
     .icono{
-        margin: 0vw -7vw .25vw -7vw;  /* MARGIN ICONOS */
         width: 25vw ;
     }
     .content {
-        width: 70vw;
-        margin-left: 15vw;
+        width: 54vw;
+        margin-left: 23vw;
     }
 }
 

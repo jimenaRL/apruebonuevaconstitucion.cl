@@ -1,14 +1,17 @@
 .article-list{
     background-color: #EDEBDF;
     text-align:center;
+    margin-top: 100px !important;
 }
 
+.btn-close{
+    margin: 14px;
+}
 
 .content{
     background-color: #EDEBDF;
     text-align:center;
-/*    width: 80vw;
-*/}
+}
 
 .previous {
     background-color: #f1f1f1;
@@ -23,4 +26,16 @@ a {
     text-decoration: none;
     display: inline-block;
     padding: 8px 16px;
+}
+
+@media screen and (max-width: 768px){
+    .article-list{
+        margin-top: 84px !important;
+    }
+}
+
+@media screen and (max-width: 576px){
+    .article-list{
+        margin-top: 64px !important;
+    }
 }
