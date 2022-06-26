@@ -6,16 +6,15 @@
 </div> -->
 <div class="article-list content-stretch">
     <div class="content">
-        <button type="button" class="btn-close" aria-label="Close">
-            <a [routerLink]="'/'">
-            </a>
-        </button>
+        <a [routerLink]="'/'">
+            <img class="boton-volver" alt="VOLVER" src="../../assets/img/volver.png"/>
+        </a>
         <div *ngFor="let article of articles">
             <app-article [article]="article"></app-article>
         </div>
-        <button type="button" class="btn-close" aria-label="Close">
-            <a [routerLink]="'/'"></a>
-        </button>
+        <a [routerLink]="'/'">
+            <img class="boton-volver" alt="VOLVER" src="../../assets/img/volver.png"/>
+        </a>
     </div>
 </div>
 <app-footer></app-footer>

@@ -125,7 +125,12 @@
     }
 }
 
-
+img.icono-tarjetas {
+  height: 14vw;
+  margin: 0px;
+  margin: 10px 0px 10px 0px;
+  display: inline;
+}
 
 @media screen and (max-width: 620px) {
     .card-main {
