@@ -19,6 +19,7 @@ import { PathLocationStrategy, LocationStrategy } from '@angular/common';
 import { CarouselControlsComponent } from './carousel-controls/carousel-controls.component';
 import { CarouselControlsInnerComponent } from './carousel-controls-inner/carousel-controls-inner.component';
 import { MapMarkersService } from './services/map-markers.service';
+import { KitComponent } from './kit/kit.component';
 
 @NgModule({
   declarations: [
@@ -34,7 +35,8 @@ import { MapMarkersService } from './services/map-markers.service';
     ArticleListComponent,
     MapComponent,
     CarouselControlsComponent,
-    CarouselControlsInnerComponent
+    CarouselControlsInnerComponent,
+    KitComponent
   ],
   imports: [
     BrowserModule,
