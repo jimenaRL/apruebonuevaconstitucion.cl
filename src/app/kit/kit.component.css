@@ -23,6 +23,11 @@
 
 }
 
+.col{
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
 .linea{
     height: 2px;
     background-color: #202735;
@@ -33,6 +38,8 @@
 .img-descarga{
     width: 19vw;
     margin-bottom: 3px;
+    margin: 0px !important;
+    padding: 0px !important;
 }
 
 .footer-imagen{
