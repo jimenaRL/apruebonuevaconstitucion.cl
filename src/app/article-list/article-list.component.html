@@ -6,15 +6,20 @@
 </div> -->
 <div class="article-list content-stretch">
     <div class="content">
-        <a [routerLink]="'/'">
-            <img class="boton-volver" alt="VOLVER" src="../../assets/img/volver.png"/>
-        </a>
         <div *ngFor="let article of articles">
             <app-article [article]="article"></app-article>
         </div>
-        <a [routerLink]="'/'">
-            <img class="boton-volver" alt="VOLVER" src="../../assets/img/volver.png"/>
-        </a>
     </div>
+  <div>
+    <a [routerLink]="'/'">
+        <img class="boton-volver-abajo" alt="VOLVER" src="../../assets/img/volver.png"/>
+    </a>
+  </div>
+
+    <div class="col-sm col-flex">
+      <img class="footer-imagen" src="../../assets/img/footer.png" alt="Apruebo" >
+    </div>
+
+
 </div>
-<app-footer></app-footer>
+

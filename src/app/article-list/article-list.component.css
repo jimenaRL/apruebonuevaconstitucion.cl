@@ -1,11 +1,8 @@
+
 .article-list{
     background-color: #EDEBDF;
     text-align:center;
-    margin-top: 100px !important;
-}
-
-.btn-close{
-    margin: 14px;
+    margin-top: 106px !important;
 }
 
 .content{
@@ -26,6 +23,44 @@ a {
     text-decoration: none;
     display: inline-block;
     padding: 8px 16px;
+}
+
+.boton-volver-abajo{
+    height: 16px;
+    opacity: 0.9;
+    margin-top: -50px;
+}
+
+
+.footer-imagen{
+      width: 60vw;
+      padding-bottom: 0vw;
+      margin-top: 2vw;
+      margin-bottom: 2vw;
+}
+
+@media screen and (max-width: 780px) {
+    .socials{
+      margin-right: 0vw;
+      width: 10vw;
+      min-height: 45px;
+      min-width: 45px;
+      padding-top: 0vw;
+      margin-left: 2vw;
+      margin-right: 2vw;
+    }
+    .siguenos{
+        font-size: 1.5rem;
+    }
+    .footer-imagen{
+      width: 100vw;
+      padding-bottom: 0vw;
+      margin-top: 2vw;
+    }
+    .amor{
+      padding-bottom: 2vw;
+      font-size: 0.5rem;
+    }
 }
 
 @media screen and (max-width: 768px){

@@ -5,7 +5,7 @@
   top: 0;
   left: 0;
   right: 0;
-  height: 100px;
+  height: 106px;
   display: flex;
   align-items: center;
   background-color: rgb(47, 126, 242);
@@ -34,7 +34,8 @@
 .toolbar #whatsapp-logo {
   height: 60px;
   margin-bottom: 8px;
-  margin-left: 10vw;
+  margin-left: 4vw;
+  margin-right: -1vw;
 }
 
 .toolbar #whatsapp-logo:hover  {

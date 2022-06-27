@@ -3,6 +3,12 @@
     <img style="display: {{ article.iconodisplay }};" class="icono-tarjetas"  alt="Logo" src="../../assets/iconos-tarjetas/{{ article.icononame }}-tar.png"/>
   </div>
 
+  <div class=box-volver>
+    <a [routerLink]="'/'">
+        <img style="display: {{ article.iconodisplay }};" class="boton-volver" alt="VOLVER" src="../../assets/img/volver.png"/>
+    </a>
+  </div>
+
   <div class="card card-main border-0">
 
   <div [id]="article.id" class="card-header card-header-comparativo" style="background-color:{{ article.color }}; color:{{ article.titlecolor }}">
@@ -47,5 +53,6 @@
   </div>
 
 
+  
 <div class="espace-between-cards">
 </div>
