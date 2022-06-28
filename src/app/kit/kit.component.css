@@ -52,6 +52,7 @@
 .boton-volver, .boton-volver-abajo{
     height: 16px;
     opacity: 0.9;
+    margin-bottom: 8px;
 }
 
 
