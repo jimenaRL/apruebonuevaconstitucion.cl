@@ -16,6 +16,24 @@
 
 
       <div class="col-md">
+        <div>
+          <ng-autocomplete 
+            [data]="markers" 
+            [searchKeyword]="'NOMBRE'" 
+            (inputChanged)="onSearchInputChanged($event)"
+            (selected)="onSearchSelectedItem($event)"
+            [itemTemplate]="itemTemplate"
+            [notFoundTemplate]="notFoundTemplate"
+            (inputCleared)="onSearchInputCleared($event)">
+          
+          </ng-autocomplete>
+          <ng-template #itemTemplate let-item>
+            <a [innerHTML]="item.name"></a>
+          </ng-template>
+          <ng-template #notFoundTemplate let-notFound>
+            <div [innerHTML]="'No encontrado'"></div>
+          </ng-template>
+        </div>
         <div class="card">
           <div class="card-body">
             <h5 class="card-title">
@@ -46,7 +64,10 @@
 
       <div class="col-md">
         <div>
-          <app-map class="mapa" (markerClicked)="markerUpdated($event)"></app-map>
+          <app-map #googleMap
+          class="mapa" 
+          [mapOptions] = "center"
+          (markerClicked)="markerUpdated($event)"></app-map>
         </div>
       </div>
 

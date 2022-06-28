@@ -20,6 +20,7 @@ import { CarouselControlsComponent } from './carousel-controls/carousel-controls
 import { CarouselControlsInnerComponent } from './carousel-controls-inner/carousel-controls-inner.component';
 import { MapMarkersService } from './services/map-markers.service';
 import { KitComponent } from './kit/kit.component';
+import { AutocompleteLibModule } from 'angular-ng-autocomplete';
 
 @NgModule({
   declarations: [
@@ -42,7 +43,8 @@ import { KitComponent } from './kit/kit.component';
     BrowserModule,
     AppRoutingModule,
     MatIconModule,
-    GoogleMapsModule
+    GoogleMapsModule,
+    AutocompleteLibModule
   ],
   providers: [ArticlesService, MapMarkersService, {provide: LocationStrategy, useClass: PathLocationStrategy}],
   bootstrap: [AppComponent]

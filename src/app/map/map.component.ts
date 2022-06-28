@@ -1,4 +1,4 @@
-import { Component, EventEmitter, OnInit, Output, ViewEncapsulation } from "@angular/core";
+import { Component, EventEmitter, Input, OnInit, Output, ViewChild, ViewEncapsulation } from "@angular/core";
 import { MapMarkersService } from "../services/map-markers.service";
 
 @Component({
@@ -8,7 +8,16 @@ import { MapMarkersService } from "../services/map-markers.service";
   encapsulation: ViewEncapsulation.None,
 })
 export class MapComponent implements OnInit {
+  @ViewChild("googleMap") googleMap: any;
   @Output() markerClicked:EventEmitter<Object> =new EventEmitter();
+  @Input() mapOptions: google.maps.MapOptions = {
+    center: { lat: -33.44187785424067, lng: -70.64471797424537 },
+    zoom: 4,
+    zoomControl: true,
+    mapTypeControl: false,
+    streetViewControl: false,
+    fullscreenControl: false,
+  };
   constructor(private mapMarkersService:MapMarkersService) {}
 
   ngOnInit(): void {}
@@ -16,15 +25,6 @@ export class MapComponent implements OnInit {
   markerClic(marker:any) {
    this.markerClicked.emit(marker);
   }
-
-  mapOptions: google.maps.MapOptions = {
-    center: { lat: -26, lng: -70.65308524700148 },
-    zoom: 2.9,
-    zoomControl: true,
-    mapTypeControl: false,
-    streetViewControl: false,
-    fullscreenControl: false,
-  };
 
   markers = this.mapMarkersService.getMarkers();
 }
