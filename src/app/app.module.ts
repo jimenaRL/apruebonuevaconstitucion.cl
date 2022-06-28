@@ -21,6 +21,7 @@ import { CarouselControlsInnerComponent } from './carousel-controls-inner/carous
 import { MapMarkersService } from './services/map-markers.service';
 import { KitComponent } from './kit/kit.component';
 import { AutocompleteLibModule } from 'angular-ng-autocomplete';
+import { VideoComponent } from './video/video.component';
 
 @NgModule({
   declarations: [
@@ -37,7 +38,8 @@ import { AutocompleteLibModule } from 'angular-ng-autocomplete';
     MapComponent,
     CarouselControlsComponent,
     CarouselControlsInnerComponent,
-    KitComponent
+    KitComponent,
+    VideoComponent
   ],
   imports: [
     BrowserModule,
