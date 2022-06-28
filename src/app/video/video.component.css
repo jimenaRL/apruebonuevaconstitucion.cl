@@ -1,0 +1,22 @@
+.seccion-video{
+    background-color: #202735;
+}
+
+.content-stretch {
+    display: flex;
+    margin: auto;
+    padding: 30px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.iframe{
+    width: 800px;
+    height: 450px;
+}
+
+.franja-mov{
+    height: 5vw;
+    margin-top: 3vw;
+/*    margin-bottom: 1vw;
+*/}
