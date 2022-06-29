@@ -696,11 +696,22 @@
    "NOMBRE": "Movimiento Independientes del Norte",
    "LOCALIDAD": "Antofagasta",
    "PROVINCIA": "Antofagasta",
-   "REGION": "Région de Antofagasta ",
+   "REGION": "Région de Antofagasta",
    "TEXTO": "Région de Antofagasta ",
    "position": { "lat": -23.65646036483642, "lng": -70.401412529775},
    "IG": "",
    "FB": "https://www.facebook.com/MovimientoIndependientesdelNorte",
+   "TW": ""
+ },
+ {
+   "NOMBRE": "Comando Apruebo Paris",
+   "LOCALIDAD": "",
+   "PROVINCIA": "",
+   "REGION": " ",
+   "TEXTO": "Francia",
+   "position": {"lat": 48.8542168066921, "lng": 2.368786125282206},
+   "IG": "",
+   "FB": "https://www.facebook.com/ComandoAprueboParis",
    "TW": ""
  }
 ]
