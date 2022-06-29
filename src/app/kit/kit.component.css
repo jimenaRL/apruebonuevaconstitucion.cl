@@ -67,10 +67,10 @@
 
 @media screen and (max-width: 540px) {
     .seccion-kit{
-        width: 80vw;
+        width: 90vw;
     }
     .img-descarga{
-        width: 10vw;
+        width: 28vw;
     }
 }
 
@@ -79,6 +79,6 @@
         width: 90vw;
     }
     .img-descarga{
-        width: 32vw;
+        width: 27vw;
     }
 }
