@@ -20,6 +20,33 @@
     margin-top: 30px;
 }
 
+.arriba-botones {
+  width: 50vw;
+  height: auto;
+  margin-bottom: -3px;
+}
+
+.row {
+    --bs-gutter-x: 0rem !important;
+}
+
+.welcome{
+    margin-bottom: -1px;
+}
+
+@media screen and (max-width: 960px) {
+    .welcome-fucsia{
+        height: 0px;
+    }
+}
+
+
+@media screen and (max-width: 768px) {
+    .arriba-botones {
+      width: 100vw;
+    }
+}
+
 @media screen and (max-width: 992px) {
     .videoiframe{
         width: 90vw;
