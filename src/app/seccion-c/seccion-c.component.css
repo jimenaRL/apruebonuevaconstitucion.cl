@@ -75,8 +75,6 @@
 }
 
 
-
-
 @media screen and (max-width: 1100px) {
     .txt_encuentracomando{
       font-size: 4vw;
@@ -121,7 +119,7 @@
       margin-top: 3vw;
     }
     .card {
-      height: 130px;
+      height: 160px;
     }
   .card-title{
       font-size: 1.3rem;
