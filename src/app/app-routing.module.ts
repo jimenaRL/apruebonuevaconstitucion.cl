@@ -6,18 +6,18 @@ import { enableProdMode } from '@angular/core';
 import { KitComponent } from './kit/kit.component';
 
 const routes: Routes = [
-  { path: '', redirectTo: '/home', pathMatch: 'full' },
+  { path: '', redirectTo: 'home', pathMatch: 'full' },
   { path: 'home', component: HomeComponent},
   { path: 'kit', component: KitComponent},
-  { path: 'articles', component: ArticleListComponent, pathMatch: 'full'},
-  { path: '**', redirectTo: '/home' },
+  { path: 'articles', component: ArticleListComponent},
+  { path: '**', redirectTo: 'home' },
 ];
 
 enableProdMode();
 
 @NgModule({
   imports: [RouterModule.forRoot(routes, {
-    useHash: false,
+    useHash: true,
     onSameUrlNavigation: 'ignore',
     anchorScrolling:'enabled',
     scrollPositionRestoration: 'disabled',
