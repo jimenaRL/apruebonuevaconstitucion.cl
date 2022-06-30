@@ -336,30 +336,6 @@
    "multi-tags": "anticorrupción, corrupción "
 },
  {
-   "id": 15,
-   "img": "",
-   "relacionadas": "[]",
-   "icono": "Anticorrupción",
-   "tags": "anticorrupcion",
-   "color": "#e5da53",
-   "titlecolor": "#202735",
-   "titleopacity": 0.7,
-   "iconodisplay": "none",
-   "icononame": "anticorrupcion",
-   "link": "",
-   "COMISIÓN": "Sistema Político",
-   "número": "21",
-   "titulo": "Probidad",
-   "FIELD15": 8,
-   "C80": "Nada dice.",
-   "N° caracteres": [
-      10,
-      245
-   ],
-   "NC": "El servicio público se regirá por los principios de probidad, eficiencia, eficacia, responsabilidad, transparencia, publicidad, rendición de cuentas, buena fe, interculturalidad, enfoque de género, inclusión, no discriminación y sustentabilidad.",
-   "multi-tags": "probidad"
-},
- {
    "id": 16,
    "img": "",
    "relacionadas": "[]",
