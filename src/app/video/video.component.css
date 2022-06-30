@@ -23,7 +23,7 @@
 .arriba-botones {
   width: 50vw;
   height: auto;
-  margin-bottom: -3px;
+  margin-bottom: -4px;
 }
 
 .row {
@@ -41,7 +41,7 @@
 }
 
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
     .arriba-botones {
       width: 100vw;
     }
