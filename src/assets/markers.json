@@ -643,7 +643,7 @@
    "PROVINCIA": "Antofagasta",
    "REGION": "Región de Antofagasta",
    "TEXTO": "Región de Antofagasta",
-   "position": { "lat": -38.74326221541941, "lng": -72.62538351634035},
+   "position": { "lat": -23.600969801806077, "lng": -70.3926350343158},
    "IG": "https://www.instagram.com/apruebaxantofa/",
    "FB": "",
    "TW": ""
@@ -654,7 +654,7 @@
    "PROVINCIA": "Cordillera",
    "REGION": "Región Metropolitana",
    "TEXTO": "Pirque, Cordillera, Región Metropolitana",
-   "position": { "lat": -38.74326221541941, "lng": -72.62538351634035},
+   "position": { "lat": -33.687124031620115, "lng": -70.58413288133535},
    "IG": "https://www.instagram.com/pirqueaprueba2022/",
    "FB": "",
    "TW": ""
@@ -665,7 +665,7 @@
    "PROVINCIA": "Huasco",
    "REGION": "Región de Atacama",
    "TEXTO": "Freirina, Huasco, Región de Atacama",
-   "position": { "lat": -38.74326221541941, "lng": -72.62538351634035},
+   "position": { "lat": -28.507585913265636, "lng": -71.07943328910027},
    "IG": "https://www.instagram.com/freirinaaprueba/",
    "FB": "",
    "TW": ""
@@ -712,6 +712,39 @@
    "position": {"lat": 48.8542168066921, "lng": 2.368786125282206},
    "IG": "",
    "FB": "https://www.facebook.com/ComandoAprueboParis",
+   "TW": ""
+ },
+ {
+   "NOMBRE": "Los Ángeles Aprueba",
+   "LOCALIDAD": "",
+   "PROVINCIA": "",
+   "REGION": " ",
+   "TEXTO": "Región del Biobío",
+   "position": {"lat": -37.46812581697354, "lng":  -72.34545005327857},
+   "IG": "https://www.instagram.com/la_aprueba",
+   "FB": "https://www.facebook.com/Los-%C3%81ngeles-Aprueba-102863712485199",
+   "TW": "https://twitter.com/LA_aprueba"
+ },
+ {
+   "NOMBRE": "Jovenes x El Apruebo",
+   "LOCALIDAD": "",
+   "PROVINCIA": "",
+   "REGION": " ",
+   "TEXTO": "Providencia, Santiago, Región Metropolitana",
+   "position": {"lat": -33.439939041805005, "lng":-70.61059685289449},
+   "IG": "https://www.instagram.com/jovenesxelapruebo_provi",
+   "FB": "",
+   "TW": ""
+ },
+ {
+   "NOMBRE": "Apruebo de Salida Tarapaca",
+   "LOCALIDAD": "",
+   "PROVINCIA": "",
+   "REGION": " ",
+   "TEXTO": "Région de Tarapacá",
+   "position": {"lat": -20.213438654319894, "lng": -70.15239398578791},
+   "IG": "https://www.instagram.com/apruebodesalidatarapaca",
+   "FB": "",
    "TW": ""
  }
 ]
