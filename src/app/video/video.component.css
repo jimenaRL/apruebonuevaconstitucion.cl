@@ -5,9 +5,21 @@
 .content-stretch {
     display: flex;
     margin: auto;
-    padding: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
     flex-direction: column;
+    align-items: stretch;
+}
+
+.carousel{
+}
+
+.content {
+/*     SHOULD ALLOW FOR CONTROL OVER ICONS SEPARATION */
+    width: 54vw;
+    margin-left: 15vw;
     align-items: center;
+
 }
 
 .videoiframe{
@@ -18,6 +30,7 @@
 .franja-mov{
     height: 5vw;
     margin-top: 30px;
+    padding-left: 20vw;
 }
 
 .arriba-botones {
@@ -40,19 +53,6 @@
     }
 }
 
-
-@media screen and (max-width: 767px) {
-    .arriba-botones {
-      width: 100vw;
-    }
-}
-
-@media screen and (max-width: 992px) {
-    .videoiframe{
-        width: 90vw;
-        height: 50vw;
-    }
-}
 
 .carousel-indicators{
     position: static;
@@ -88,7 +88,6 @@ button.active, button.indicator-button{
 }
 
 
-
 @media screen and (max-width: 574px) {
     .carousel-control-next-icon {
         margin-left: 5vw;  /* MARGIN ARROW */
@@ -100,3 +99,15 @@ button.active, button.indicator-button{
 }
 
 
+@media screen and (max-width: 767px) {
+    .arriba-botones {
+      width: 100vw;
+    }
+}
+
+@media screen and (max-width: 992px) {
+/*    .videoiframe{
+        width: 90vw;
+        height: 50vw;
+    }*/
+}
