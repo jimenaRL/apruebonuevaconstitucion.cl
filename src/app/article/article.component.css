@@ -28,9 +28,17 @@ img.icono-tarjetas {
 }
 
 
-.iconos-precard #numero {
-  padding-top: 50px;
-  size: 12rem;
+.iconos-precard #numero80{
+  padding-top: 54px;
+  font-size: 1rem;
+  padding-left: 5px;
+}
+
+
+.iconos-precard #numeroNC {
+  padding-top: 54px;
+  font-size: 1rem;
+  padding-right: 5px;
 }
 
 .iconos-precard #articulo {
@@ -42,9 +50,10 @@ img.icono-tarjetas {
 }
 
 .iconos-precard #descarga {
-  height: 24px;
-  margin-right: 4px;
-  margin-top: 24px;
+  height: 14px;
+/*  margin-right: 4px;
+*/  
+  margin-top: 16px;
   content: url("../../assets/img/download.svg");
   opacity: 0.7;
 }
