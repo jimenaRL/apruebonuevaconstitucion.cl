@@ -11,18 +11,14 @@
    "iconodisplay": "inline",
    "icononame": "agua",
    "link": "https://leelanuevaconstitucion.cl/comisiones/4/#com4-in2-art26",
-   "COMISIÓN": "DDFF",
-   "número": "ART 26",
    "titulo": "Derecho humano al agua",
-   "FIELD15": 22,
+   "numero80": "",
    "C80": "No asegura el derecho al agua de las personas.",
-   "N° caracteres": [
-      46,
-      109
-   ],
+   "número-texto-NC": "Artículo 57 inciso 1 y 2. ",
+   "numeroNC": "Artículo 57",
    "NC": "Todas las personas tendremos derecho al agua en cantidad suficiente, que sea saludable y de precio abordable.",
    "multi-tags": "agua,\nmedioambiente, \nderechos fundamentales"
-},
+ },
  {
    "id": 2,
    "img": "",
@@ -35,18 +31,14 @@
    "iconodisplay": "none",
    "icononame": "agua",
    "link": "",
-   "COMISIÓN": "MEDIOAMBIENTE",
-   "número": "ART 12 (Bienes Naturales Comunes)",
-   "titulo": "Derecho humano al agua",
-   "FIELD15": 22,
-   "C80": "El agua está privatizada. Los particulares tienen propiedad sobre ella.",
-   "N° caracteres": [
-      71,
-      172
-   ],
+   "titulo": "Bienes comunes naturales",
+   "numero80": "Artículo 19 n° 24",
+   "C80": "El agua está privatizada. Los particulares son dueños de sus derechos de aprovechamiento de agua.",
+   "número-texto-NC": "Artículo 134 incisos 1, 2, 3, 4, 5 y 6. ",
+   "numeroNC": "Artículo 134",
    "NC": "El agua es indispensable para la vida, por esto no será propiedad de nadie en particular. \n\nTodos y todas podremos usarla de manera democrática, participativa y equitativa.",
    "multi-tags": "agua,\nmedioambiente,\nbienes naturales comunes"
-},
+ },
  {
    "id": 3,
    "img": "",
@@ -59,18 +51,14 @@
    "iconodisplay": "none",
    "icononame": "agua",
    "link": "",
-   "COMISIÓN": "Sistemas de Justicia",
-   "número": "35 y 35 bis (tercer informe) ",
    "titulo": "Agencia Nacional del Agua",
-   "FIELD15": 25,
+   "numero80": "",
    "C80": "No existe algún organismo a cargo de asegurar el uso sostenible del agua. Al contrario, establece la privatización del agua. ",
-   "N° caracteres": [
-      125,
-      225
-   ],
+   "número-texto-NC": "Artículo 144 incisos 1,2 y 3.",
+   "numeroNC": "Artículo 144",
    "NC": "La Agencia Nacional del Agua reemplazará a la Dirección General de Aguas y estará a cargo de asegurar el derecho humano al agua y al saneamiento para todas y todos, y la conservación y preservación de nuestros ríos y cuencas.",
    "multi-tags": "agua,\nmedioambiente, Agencia Nacional del Agua "
-},
+ },
  {
    "id": 4,
    "img": "",
@@ -83,18 +71,14 @@
    "iconodisplay": "inline",
    "icononame": "vivienda",
    "link": "",
-   "COMISIÓN": "DDFF",
-   "número": "4 y 7 segundo informe ",
    "titulo": "Derecho a la vivienda",
-   "FIELD15": 21,
-   "C80": "\nNada dice.\n\nNo está garantizado el derecho a la vivienda. ",
-   "N° caracteres": [
-      59,
-      274
-   ],
-   "NC": "Toda persona tendremos el derecho a una vivienda digna y adecuada, que permita el libre desarrollo de una vida personal, familiar y comunitaria.\n\nSe garantizará la disponibilidad del suelo y establecerá mecanismos para impedir la especulación en materia de suelo y vivienda.",
+   "numero80": "",
+   "C80": "\nNo menciona ni una vez la palabra vivienda. ",
+   "número-texto-NC": "Artículo 51, incisos 1, 2, 3, 4 y 5. ",
+   "numeroNC": "Artículo 51 y 78",
+   "NC": "Todas las personas tendremos el derecho a una vivienda digna y adecuada, que permita el libre desarrollo de una vida personal, familiar y comunitaria.\n\nSe garantizará la disponibilidad del suelo y establecerá mecanismos para impedir la especulación en materia de suelo y vivienda.\n\nSigue existiendo propiedad sobre la vivienda y ésta continúa siendo heredable",
    "multi-tags": "#vivienda #casa"
-},
+ },
  {
    "id": 5,
    "img": "",
@@ -107,18 +91,14 @@
    "iconodisplay": "none",
    "icononame": "vivienda",
    "link": "",
-   "COMISIÓN": "DDFF",
-   "número": "",
    "titulo": "Derecho a la ciudad y el territorio",
-   "FIELD15": 35,
+   "numero80": "",
    "C80": "Nada dice.",
-   "N° caracteres": [
-      10,
-      345
-   ],
+   "número-texto-NC": "Artículo 52, incisos 1, 2, 3, 4 y 5.",
+   "numeroNC": "Artículo 52",
    "NC": "Todas las personas tendremos derecho a habitar, producir, gozar y participar en ciudades y asentamientos humanos libres de violencia y en condiciones apropiadas para una vida digna. \n\nSe garantizará la protección y acceso equitativo a servicios básicos, bienes y espacios públicos; movilidad segura y sustentable; conectividad y seguridad vial. ",
    "multi-tags": "#ciudad #territorio"
-},
+ },
  {
    "id": 6,
    "img": "",
@@ -131,18 +111,14 @@
    "iconodisplay": "inline",
    "icononame": "economia",
    "link": "",
-   "COMISIÓN": "DDFF",
-   "número": "14",
    "titulo": "Libertad de emprender",
-   "FIELD15": 21,
+   "numero80": "",
    "C80": "Establece el derecho a desarrollar cualquier actividad económica que no sea contraria a la moral, al orden público o a la seguridad nacional.\n",
-   "N° caracteres": [
-      142,
-      213
-   ],
+   "número-texto-NC": "Artículo 80, inciso 1.",
+   "numeroNC": "Artículo 80",
    "NC": "Todas las personas tendremos libertad de emprender y desarrollar actividades económicas. \n\nSu ejercicio deberá ser compatible con los derechos consagrados en esta Constitución y con la protección de la naturaleza.",
    "multi-tags": "emprender, emprendedoras, emprendedores, libertad de emprender, economía, desarrollo "
-},
+ },
  {
    "id": 7,
    "img": "",
@@ -155,18 +131,34 @@
    "iconodisplay": "none",
    "icononame": "economia",
    "link": "",
-   "COMISIÓN": "DDFF",
-   "número": "18 y 20",
    "titulo": "Derecho de propiedad",
-   "FIELD15": 20,
+   "numero80": "",
    "C80": "Establece la libertad para adquirir el dominio de toda clase de bienes, excepto aquellos que la naturaleza ha hecho comunes.",
-   "N° caracteres": [
-      124,
-      259
-   ],
+   "número-texto-NC": "Artículo 78, incisos 1, 2, 3, 4, 5 y 6. ",
+   "numeroNC": "Artículo 78",
    "NC": "Todas las personas - natural o jurídica - tendremos derecho de propiedad en todas nuestras especies y sobre toda clase de bienes, menos aquellos que la naturaleza ha hecho comunes a todas las personas y los que la Constitución o la ley declaren inapropiables.",
    "multi-tags": "Economía, derecho de propiedad, bienes"
-},
+ },
+ {
+   "id": 8,
+   "img": "",
+   "relacionadas": "[]",
+   "icono": "Economía",
+   "tags": "economia",
+   "color": "#e84dc7",
+   "titlecolor": "#EDEBDF",
+   "titleopacity": 1,
+   "iconodisplay": "none",
+   "icononame": "economia",
+   "link": "",
+   "titulo": "Derechos de los consumidores",
+   "numero80": "",
+   "C80": "Nada dice sobre las y los consumidores.",
+   "número-texto-NC": "Artículo 81 incisos 1 y 2.",
+   "numeroNC": "Artículo 81",
+   "NC": "Se consagran los derechos de las y los consumidores, y se protege su ejercicio a través de procedimientos eficaces y un órgano con facultades fiscalizadoras y sancionadoras.\n",
+   "multi-tags": "consumidores, derechos de los consumidores, economía "
+ },
  {
    "id": 9,
    "img": "",
@@ -179,18 +171,14 @@
    "iconodisplay": "none",
    "icononame": "economia",
    "link": "",
-   "COMISIÓN": "",
-   "número": "",
    "titulo": "Anticolusión",
-   "FIELD15": 12,
+   "numero80": "",
    "C80": "Nada dice respecto a la colusión de las empresas ni su impacto en la sociedad.\n",
-   "N° caracteres": [
-      79,
-      204
-   ],
-   "NC": "La colusión y concentraciones empresariales que afecten el funcionamiento justo y leal de los mercados serán contrarios al interés social.\n\nMandatará a la ley a establecer sanciones para los responsables.",
+   "número-texto-NC": "Artículo 182 inciso 5.",
+   "numeroNC": "Artículo 182",
+   "NC": "La colusión entre empresas, así como las concentraciones empresariales que afecten el funcionamiento eficiente, justo y leal de los mercados, se entenderán como conductas contrarias al interés social. La ley establecerá las sanciones a los responsables.",
    "multi-tags": "Anticolusión, colusión, economía"
-},
+ },
  {
    "id": 10,
    "img": "",
@@ -203,18 +191,14 @@
    "iconodisplay": "none",
    "icononame": "economia",
    "link": "",
-   "COMISIÓN": "Sistemas de Justicia ",
-   "número": "Art. 37 inciso 1",
    "titulo": "Banco Central de Chile",
-   "FIELD15": 22,
+   "numero80": "",
    "C80": "El Banco Central es un órgano autónomo, de carácter técnico y con patrimonio propio.\n\n",
-   "N° caracteres": [
-      86,
-      113
-   ],
+   "número-texto-NC": "Artículo 357 incisos 1 y 2.",
+   "numeroNC": "Artículo 357",
    "NC": "El Banco Central será un organismo autónomo, de carácter técnico y con personalidad jurídica y patrimonio propio.",
    "multi-tags": "Banco Central, Banco Central de Chile, Economía"
-},
+ },
  {
    "id": 11,
    "img": "",
@@ -227,18 +211,14 @@
    "iconodisplay": "none",
    "icononame": "economia",
    "link": "",
-   "COMISIÓN": "Sistemas de Justicia ",
-   "número": "",
    "titulo": "Mandato del Banco Central",
-   "FIELD15": 25,
+   "numero80": "",
    "C80": "El mandato del Banco Central es determinado por una ley orgánica constitucional.",
-   "N° caracteres": [
-      80,
-      130
-   ],
+   "número-texto-NC": "Artículo 358 incisos 1, 2 y 3. Artículo 359. Artículo 360 incisos 1, 2 y 3. Artículo 361. Artículo 362 incisos 1, 2, 3, 4 y 5. Artículo 363 incisos 1, 2 y 3.. Artículo 364 incisos 1 y 2.",
+   "numeroNC": "Artículo 358",
    "NC": "El mandato del Banco Central velará por la estabilidad de los precios y el normal funcionamiento de los pagos internos y externos.",
    "multi-tags": "Banco Central, Banco Central de Chile, Economía"
-},
+ },
  {
    "id": 12,
    "img": "",
@@ -251,18 +231,14 @@
    "iconodisplay": "none",
    "icononame": "economia",
    "link": "",
-   "COMISIÓN": "",
-   "número": "",
    "titulo": "Rol del Estado en la economía",
-   "FIELD15": 29,
+   "numero80": "",
    "C80": "Nada dice sobre el rol del Estado en la economía en general. \n\nSolo se refiere a la creación de empresas del Estado, donde señala que únicamente pueden desarrollar actividades empresariales si una ley de quórum calificado lo autoriza.\n",
-   "N° caracteres": [
-      null,
-      null
-   ],
+   "número-texto-NC": "Artículo 182, incisos 1, 2, 3, 4 y 5. ",
+   "numeroNC": "Artículo 182",
    "NC": "El Estado participará en la economía. Su rol se fundará en los principios de solidaridad, diversificación productiva y economía social y solidaria.\n\nTendrá un rol de regulación, fiscalización, fomento y desarrollo de actividades económicas. Además, fomentará la innovación, los mercados locales, los circuitos cortos y la economía circular.\n\nTendrá iniciativa pública en la actividad económica. Para ello, podrá desarrollar actividades empresariales, las que podrán adoptar diversas formas de gestión según determine la ley.\n",
    "multi-tags": "Economía, Sistema económico"
-},
+ },
  {
    "id": 13,
    "img": "",
@@ -275,18 +251,14 @@
    "iconodisplay": "inline",
    "icononame": "anticorrupcion",
    "link": "",
-   "COMISIÓN": "Sistema Político",
-   "número": "13 informe 2",
    "titulo": "Inhabilidades para cargos públicos",
-   "FIELD15": 34,
-   "C80": "Nada dice. Personas condenadas por corrupción pueden ser autoridades. \n\n\n\n\n\n\n",
-   "N° caracteres": [
-      77,
-      298
-   ],
-   "NC": "No podrán optar a cargos públicos ni de elección popular las personas condenadas por crímenes de lesa humanidad, delitos sexuales y de violencia intrafamiliar.\n\nTampoco quienes tengan condenas por corrupción, fraude al fisco, lavado de activos, soborno, cohecho y malversación de caudales públicos.",
+   "numero80": "",
+   "C80": "Personas condenadas por delitos vinculados a corrupción pueden ser autoridades. \n\n\n\n\n\n\n",
+   "número-texto-NC": "Artículo 172. ",
+   "numeroNC": "Artículo 172",
+   "NC": "No podrán optar a cargos públicos ni de elección popular las personas condenadas por crímenes de lesa humanidad, delitos sexuales y de violencia intrafamiliar, delitos vinculados a corrupción y los demás que establezca la ley. ",
    "multi-tags": "cargos públicos, corrupción, anticorrupción"
-},
+ },
  {
    "id": 14,
    "img": "",
@@ -299,18 +271,34 @@
    "iconodisplay": "none",
    "icononame": "anticorrupcion",
    "link": "",
-   "COMISIÓN": "Sistema Político",
-   "número": "7 informe 2",
    "titulo": "Anticorrupción",
-   "FIELD15": 14,
+   "numero80": "",
    "C80": "Nada dice. \n",
-   "N° caracteres": [
-      12,
-      238
-   ],
-   "NC": "La corrupción será contraria al bien común y atentará contra el sistema democrático.\n\nEl Estado tomará las medidas necesarias para su prevención, persecución y sanción.\n\nQuienes denuncien hechos de corrupción tendrán la debida protección.",
+   "número-texto-NC": "",
+   "numeroNC": "",
+   "NC": "Se reconocerá que la corrupción es contraria al bien común y atenta contra el sistema democrático.\n\nEl Estado deberá erradir la corrupción en todas sus formas y adoptar medidas eficaces para su prevención, persecución y sanción.\n\nQuienes denuncien hechos de corrupción tendrán la debida protección e indemnidad.",
    "multi-tags": "anticorrupción, corrupción "
-},
+ },
+ {
+   "id": 15,
+   "img": "",
+   "relacionadas": "[]",
+   "icono": "Anticorrupción",
+   "tags": "anticorrupcion",
+   "color": "#e5da53",
+   "titlecolor": "#202735",
+   "titleopacity": 0.7,
+   "iconodisplay": "none",
+   "icononame": "anticorrupcion",
+   "link": "",
+   "titulo": "Probidad",
+   "numero80": "Artículo 8.",
+   "C80": "Solo obliga a dar cumplimiento al rincipio de probidad, no consagrando los demás principios ni estableciendo mandatos claros para su ejecución.",
+   "número-texto-NC": "Artículo 165 incisos 1 y 2.  ",
+   "numeroNC": "Artículo 165",
+   "NC": "El ejercicio de la función pública obliga a sus titulares a dar cumplimiento a los principios de probidad, transparencia y rendición de cuentas. Además, se rige por los principios de eficiencia, eficacia, responsabilidad, publicidad, buena fe, interculturalidad, enfoque de género, inclusión, no discriminación y sustentabilidad.\n\nLa función pública se deberá brindar con pertinencia territorial, cultural y lingüistica.",
+   "multi-tags": "probidad"
+ },
  {
    "id": 16,
    "img": "",
@@ -323,18 +311,14 @@
    "iconodisplay": "inline",
    "icononame": "salud",
    "link": "",
-   "COMISIÓN": "DDFF",
-   "número": "14 segundo informe ",
    "titulo": "Derecho a la salud",
-   "FIELD15": 18,
-   "C80": "Establece el deber del Estado de “proteger” el “acceso” a prestaciones de salud. Establece dos sistemas de salud: uno público y otro privado. ",
-   "N° caracteres": [
-      142,
-      304
-   ],
+   "numero80": "Artículo 19 n°9",
+   "C80": "No consagra el derecho a la salud, solamente el derecho a su protección y al acceso.",
+   "número-texto-NC": "Artículo 44 incisos 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11. ",
+   "numeroNC": "Artículo 44",
    "NC": "Se establecerá el derecho a la salud y bienestar integral, incluyendo su dimensión física y mental.\n\nContemplará un Sistema Nacional de Salud que podrá estar integrado por prestadores públicos y privados.\n\nEl Estado deberá velar por el fortalecimiento y desarrollo de las instituciones públicas de salud.",
    "multi-tags": "salud, salud digna, prestadores públicos, prestadores privados, Sistema Nacional de Salud, derecho a la salud "
-},
+ },
  {
    "id": 17,
    "img": "",
@@ -347,18 +331,14 @@
    "iconodisplay": "none",
    "icononame": "salud",
    "link": "",
-   "COMISIÓN": "",
-   "número": "Nada dice.\n\n\nNada dice.\n\n\n\nNada dice.",
    "titulo": "Derecho al cuidado",
-   "FIELD15": 18,
+   "numero80": "",
    "C80": "Nada dice.",
-   "N° caracteres": [
-      10,
-      332
-   ],
-   "NC": "Reconocerá el derecho de todas las personas al cuidado. \n\nEl Estado garantizará este derecho a través de un Sistema Integral de Cuidados.\n\nEl sistema prestará especial atención a lactantes, niños, niñas y adolescentes, personas mayores, personas con discapacidad, en situación de dependencia y con enfermedades graves o terminales. ",
+   "número-texto-NC": "Artículo 50 incisos 1, 2 y 3. ",
+   "numeroNC": "Artículo 50",
+   "NC": "Garantizará el derecho de todas las personas al cuidado, que contempla cuidar, cuidarse y ser cuidado. \n\nEl Estado garantizará este derecho a través de un Sistema Integral de Cuidados.\n\nEl sistema prestará especial atención a lactantes, niños, niñas y adolescentes, personas mayores, personas con discapacidad, en situación de dependencia y con enfermedades graves o terminales. ",
    "multi-tags": "Sistema Integral de cuidados, niños, niñas, adolescentes, derecho al cuidado, cuidados"
-},
+ },
  {
    "id": 18,
    "img": "",
@@ -371,18 +351,14 @@
    "iconodisplay": "inline",
    "icononame": "medioambiente",
    "link": "",
-   "COMISIÓN": "Medioambiente",
-   "número": "1",
    "titulo": "Crisis climática y ecológica",
-   "FIELD15": 28,
+   "numero80": "",
    "C80": "Nada dice.",
-   "N° caracteres": [
-      10,
-      209
-   ],
-   "NC": "Será la primera Constitución del mundo que reconocerá que exista una crisis climática y ecológica. \n\nMandatará al Estado a tomar medidas de prevención, adaptación y mitigación de los daños provocados por ella.",
+   "número-texto-NC": "Artículo 129 incisos 1 y 2. ",
+   "numeroNC": "Artículo 129",
+   "NC": "Será la primera Constitución del mundo en reconocer que existe una crisis climática y ecológica. \n\nMandata al Estado a tomar medidas de prevención, adaptación y mitigación de los daños provocados por ella.",
    "multi-tags": "crisis climática, ecología, medio ambiente, constitución ecológica"
-},
+ },
  {
    "id": 19,
    "img": "",
@@ -395,18 +371,14 @@
    "iconodisplay": "none",
    "icononame": "medioambiente",
    "link": "",
-   "COMISIÓN": "Medioambiente",
-   "número": "4",
    "titulo": "Derechos de la naturaleza",
-   "FIELD15": 25,
+   "numero80": "",
    "C80": "No existen los derechos de la naturaleza. ",
-   "N° caracteres": [
-      42,
-      70
-   ],
+   "número-texto-NC": "Artículo 127 incisos 1 y 2.",
+   "numeroNC": "Artículo 127",
    "NC": "La naturaleza tendrá derecho a que se respete y proteja su existencia.",
    "multi-tags": "derechos de la naturaleza, medio ambiente, naturaleza"
-},
+ },
  {
    "id": 20,
    "img": "",
@@ -419,18 +391,14 @@
    "iconodisplay": "none",
    "icononame": "medioambiente",
    "link": "",
-   "COMISIÓN": "Sistemas de Justicia",
-   "número": "30, 31 y 32 (del tercer informe) ",
    "titulo": "Defensoría de la Naturaleza",
-   "FIELD15": 27,
+   "numero80": "",
    "C80": "En Chile no existe un organismo autónomo encargado de defender y promover los derechos de la Naturaleza. ",
-   "N° caracteres": [
-      105,
-      301
-   ],
+   "número-texto-NC": "Artículo 148, 149 y 150",
+   "numeroNC": "Artículo 148",
    "NC": "Se creará un organismo autónomo que promoverá y defenderá los derechos ambientales y de la Naturaleza. Estarán en cada región de Chile.\n\nAlgunas funciones serán fiscalizar que los órganos del Estado cumplan sus obligaciones ambientales y deducir acciones constitucionales y legales cuando se vulneren.",
    "multi-tags": "defensoría de la naturaleza, medio ambiente, naturaleza"
-},
+ },
  {
    "id": 21,
    "img": "",
@@ -443,18 +411,14 @@
    "iconodisplay": "none",
    "icononame": "medioambiente",
    "link": "",
-   "COMISIÓN": "Sistemas de Justicia",
-   "número": "1 (tercer informe) ",
    "titulo": "Tribunales ambientales",
-   "FIELD15": 22,
+   "numero80": "",
    "C80": "No se mencionan los Tribunales Ambientales. ",
-   "N° caracteres": [
-      44,
-      296
-   ],
+   "número-texto-NC": "Artículo 333 incisos 1, 2, 3 y 4. ",
+   "numeroNC": "Artículo 333",
    "NC": "Se elevarán a rango constitucional los Tribunales Ambientales. \n\nEstarán encargados de conocer y resolver casos en materia ambiental, de la acción de tutela de derechos fundamentales ambientales y de la Naturaleza, la reparación por daño ambiental y las demás que señale la Constitución y la ley.",
    "multi-tags": "tribunales ambientales, medio ambiente, naturaleza"
-},
+ },
  {
    "id": 22,
    "img": "",
@@ -467,18 +431,14 @@
    "iconodisplay": "none",
    "icononame": "medioambiente",
    "link": "",
-   "COMISIÓN": "Principios Constitucionales",
-   "número": "",
    "titulo": "Reparación ambiental",
-   "FIELD15": 20,
+   "numero80": "",
    "C80": "Nada dice.",
-   "N° caracteres": [
-      10,
-      175
-   ],
+   "número-texto-NC": "Artículo 128 inciso 1 y 2. ",
+   "numeroNC": "Artículo 128",
    "NC": "Quien dañe el medio ambiente tendrá el deber de repararlo, sin perjuicio de las sanciones administrativas, penales y civiles que correspondan y queden establecidas en la ley. ",
    "multi-tags": "reparación ambiental, medio ambiente "
-},
+ },
  {
    "id": 23,
    "img": "",
@@ -491,18 +451,14 @@
    "iconodisplay": "none",
    "icononame": "medioambiente",
    "link": "",
-   "COMISIÓN": "Medioambiente",
-   "número": "12A, 12B, 9",
    "titulo": "Bienes comunes naturales",
-   "FIELD15": 24,
+   "numero80": "",
    "C80": "Las personas pueden adquirir toda clase de bienes, excepto aquellos que la naturaleza ha hecho comunes a todos los hombres o que deban pertenecer a la nación toda. ",
-   "N° caracteres": [
-      164,
-      306
-   ],
+   "número-texto-NC": "Artículo 134, incisos 1, 2, 3, 4, 5 y 6. Artículo 135, inciso 1 y 2. Artículo 136. Artículo 137. Artículo 138. Artículo 139, inciso 1, 2 y 3. ",
+   "numeroNC": "Artículo 134",
    "NC": "Se establecerá el concepto de \"bienes comunes naturales\", los que serán elementos de la naturaleza que deberán ser protegidos por el Estado. \n\nEntre ellos estarán las aguas, las áreas protegidas, entre otros. \n\nSerán bienes comunes inapropiables e incomerciables: las aguas en todos sus estados y el aire. ",
    "multi-tags": "bienes comunes naturales, medio ambiente, naturaleza"
-},
+ },
  {
    "id": 24,
    "img": "",
@@ -515,18 +471,14 @@
    "iconodisplay": "none",
    "icononame": "medioambiente",
    "link": "",
-   "COMISIÓN": "Medioambiente",
-   "número": "12D",
    "titulo": "Uso de los bienes comunes naturales",
-   "FIELD15": 35,
+   "numero80": "",
    "C80": "\"Los derechos de los particulares sobre las aguas, reconocidos o constituidos en conformidad a la ley, otorgarán a sus titulares la propiedad sobre ellos\".",
-   "N° caracteres": [
-      155,
-      295
-   ],
+   "número-texto-NC": "Artículo 134 incisos 1, 2, 3, 4, 5 y 6. Artículo 135 inciso 1 y 2. Artículo 136. Artículo 137. Artículo 138. Artículo 139 inciso 1, 2 y 3. ",
+   "numeroNC": "Artículo 134",
    "NC": "Se garantizará el uso de los bienes comunes naturales y será el Estado quien otorgará autorizaciones administrativas para aquellos que sean inapropiables. \n\nLas autorizaciones serán temporales, sujetas a caducidad, extinción y revocación, la protección de la naturaleza y el beneficio colectivo.",
    "multi-tags": "medio ambiente, bienes comunes naturales"
-},
+ },
  {
    "id": 25,
    "img": "",
@@ -539,18 +491,14 @@
    "iconodisplay": "none",
    "icononame": "medioambiente",
    "link": "",
-   "COMISIÓN": "Medioambiente",
-   "número": "23",
    "titulo": "Animales",
-   "FIELD15": 8,
-   "C80": "Nada dice. Ni los animales - ni su protección - forman parte de la constitución vigente. ",
-   "N° caracteres": [
-      89,
-      221
-   ],
-   "NC": "Los animales serán sujetos de especial protección. \n\nEl Estado los protegerá, reconociendo su sintiencia, el derecho a vivir una vida libre de maltrato, promoverá una educación basada en la empatía y respeto hacia ellos. ",
+   "numero80": "",
+   "C80": "Nada dice. No se mencionan los animales -ni su protección- en la Constitución vigente. ",
+   "número-texto-NC": "Artículo 131 inciso 1 y 2. ",
+   "numeroNC": "Artículo 131",
+   "NC": "Los animales serán sujetos de especial protección. \n\nEl Estado los protegerá, reconociendo su sintiencia y su derecho a vivir una vida libre de maltrato, y promoverá una educación basada en la empatía y respeto hacia ellos. ",
    "multi-tags": "animales, medio ambiente, naturaleza"
-},
+ },
  {
    "id": 26,
    "img": "",
@@ -563,18 +511,14 @@
    "iconodisplay": "none",
    "icononame": "medioambiente",
    "link": "",
-   "COMISIÓN": "Medioambiente",
-   "número": "19",
    "titulo": "Acceso responsable a la naturaleza",
-   "FIELD15": 34,
+   "numero80": "",
    "C80": "Nada dice. Actualmente no existe regulación constitucional respecto del acceso responsable a la naturaleza. ",
-   "N° caracteres": [
-      108,
-      189
-   ],
+   "número-texto-NC": "Artículo 107 inciso 1 y 2. ",
+   "numeroNC": "Artículo 107",
    "NC": "A todas las personas se nos garantizará el derecho de acceso responsable y universal a las montañas, riberas de ríos, mar, playas, lagos, lagunas y humedales, entre otros que defina la ley.",
    "multi-tags": "Naturaleza, medio ambiente, ríos, río, montaña, playas, lagos, lagunas, humedales"
-},
+ },
  {
    "id": 27,
    "img": "",
@@ -587,18 +531,14 @@
    "iconodisplay": "none",
    "icononame": "medioambiente",
    "link": "",
-   "COMISIÓN": "Medioambiente",
-   "número": "11",
    "titulo": "Glaciares",
-   "FIELD15": 9,
+   "numero80": "",
    "C80": "Nada dice. No existe una protección a los glaciares en la actual Constitución. ",
-   "N° caracteres": [
-      79,
-      132
-   ],
-   "NC": "Se garantizará la protección de los glaciares y del entorno glaciar, incluyendo los suelos congelados y sus funciones ecosistémicas.",
+   "número-texto-NC": "Artículo 137. Artículo 146. ",
+   "numeroNC": "Artículos 137 y 146",
+   "NC": "Se garantizará la protección de los glaciares y del entorno glaciar, incluyendo los suelos congelados y sus funciones ecosistémicas.\n\nQuedarán excluidos de toda actividad minera, al igual que las áreas protegidas y las que por razones de protección hidrográfica establezca la ley. ",
    "multi-tags": "glaciares, naturaleza, medio ambiente, glaciar"
-},
+ },
  {
    "id": 28,
    "img": "",
@@ -611,18 +551,14 @@
    "iconodisplay": "none",
    "icononame": "medioambiente",
    "link": "",
-   "COMISIÓN": "Medioambiente",
-   "número": "13",
    "titulo": "Humedales, bosques nativos y suelos",
-   "FIELD15": 35,
+   "numero80": "",
    "C80": "Nada dice. ",
-   "N° caracteres": [
-      11,
-      138
-   ],
+   "número-texto-NC": "Artículo 136.",
+   "numeroNC": "Artículo 136",
    "NC": "Se asegurará la integridad de los humedales, bosque nativo y suelos, así como sus ecosistemas, funciones, procesos y conectividad hídrica.",
    "multi-tags": "humedales, bosques nativos, suelos, naturaleza, medio ambiente "
-},
+ },
  {
    "id": 29,
    "img": "",
@@ -635,18 +571,14 @@
    "iconodisplay": "none",
    "icononame": "medioambiente",
    "link": "",
-   "COMISIÓN": "Medioambiente",
-   "número": "17 y 18",
    "titulo": "Alimentación",
-   "FIELD15": 12,
+   "numero80": "",
    "C80": "Nada dice.",
-   "N° caracteres": [
-      10,
-      244
-   ],
+   "número-texto-NC": "Artículo 54, incisos 1, 2, 3 y 4. Artículo 55. Artículo 56, incisos 1 y 2. ",
+   "numeroNC": "Artículo 54",
    "NC": "Se asegurará la soberanía y seguridad alimentaria. \n\nEl Estado promoverá la producción, distribución y consumo de alimentos para una alimentación sana y adecuada. \n\nSe garantizará el derecho al libre uso e intercambio de semillas tradicionales.",
    "multi-tags": "alimentación"
-},
+ },
  {
    "id": 30,
    "img": "",
@@ -659,18 +591,14 @@
    "iconodisplay": "none",
    "icononame": "medioambiente",
    "link": "",
-   "COMISIÓN": "Medioambiente",
-   "número": "Nuevo",
    "titulo": "Portuarios",
-   "FIELD15": 10,
+   "numero80": "",
    "C80": "Nada dice respecto de la actividad portuaria. ",
-   "N° caracteres": [
-      46,
-      285
-   ],
+   "número-texto-NC": "Artículo 186. ",
+   "numeroNC": "Artículo 186",
    "NC": "El Estado fijará una Política Nacional Portuaria que se organizará con base en los principios de eficiencia en el uso del borde costero y responsabilidad ambiental. \n\nPara su ejecución será necesaria la vinculación con los territorios y comunidades donde estén los recintos portuarios.",
    "multi-tags": "portuarios, medio ambiente, borde costero"
-},
+ },
  {
    "id": 31,
    "img": "",
@@ -683,18 +611,14 @@
    "iconodisplay": "inline",
    "icononame": "educacion",
    "link": "",
-   "COMISIÓN": "DDFF",
-   "número": "15, 16 y 17 segundo informe ",
    "titulo": "Derecho a la educación",
-   "FIELD15": 22,
+   "numero80": "",
    "C80": "No garantiza la educación como un derecho.\n\nEstablece que el Estado debe financiar la educación básica y media, sin considerar ni la educación parvularia ni la universitaria.\n\n",
-   "N° caracteres": [
-      176,
-      264
-   ],
+   "número-texto-NC": "Artículo 35, incisos 1, 2, 3, 4, 5, 6 y 7.  Artículo 36, incisos 1, 2, 3, 4, 5, 6, 7 y 8.  Artículo 37, incisos 1, 2, 3, 4, 5, 6. Artículo 38. ",
+   "numeroNC": "Artículo 35",
    "NC": "A todas las personas se nos asegurará el derecho a la educación.\n\nEl Estado financiará un Sistema de Educación Pública, de carácter laico y gratuito, con establecimientos e instituciones estatales de todos los niveles.\n\nLa educación tendrá un carácter no sexista.\n",
    "multi-tags": "Educación, derecho a la educación"
-},
+ },
  {
    "id": 32,
    "img": "",
@@ -707,18 +631,14 @@
    "iconodisplay": "none",
    "icononame": "educacion",
    "link": "",
-   "COMISIÓN": "DDFF",
-   "número": "",
    "titulo": "Libertad de enseñanza",
-   "FIELD15": 21,
+   "numero80": "",
    "C80": "Menciona la libertad de enseñanza como el derecho de abrir establecimientos educacionales.\n\nSeñala que no tiene otras limitaciones que las impuestas por la moral, las buenas costumbres, el orden público y la seguridad nacional. \n",
-   "N° caracteres": [
-      229,
-      284
-   ],
+   "número-texto-NC": "Artículo 41, incisos 1, 2 y 3. ",
+   "numeroNC": "Artículo 41",
    "NC": "Se garantizará la libertad de enseñanza y será deber del Estado respetarla.\n\nÉsta comprenderá la libertad de madres, padres y apoderados de elegir el tipo de educación de las personas a su cargo, respetando el interés superior y la autonomía progresiva de niños, niñas y adolescentes.",
    "multi-tags": "libertad de enseñanza, educación, derecho a la educación"
-},
+ },
  {
    "id": 33,
    "img": "",
@@ -731,18 +651,14 @@
    "iconodisplay": "none",
    "icononame": "educacion",
    "link": "",
-   "COMISIÓN": "Medioambiente",
-   "número": "51",
    "titulo": "Educación ambiental",
-   "FIELD15": 19,
+   "numero80": "",
    "C80": "Nada dice. ",
-   "N° caracteres": [
-      11,
-      192
-   ],
+   "número-texto-NC": "Artículo 39. ",
+   "numeroNC": "Artículo 39",
    "NC": "Se garantizará una educación ambiental que fortalezca la preservación, conservación y cuidados requeridos respecto al medio ambiente y la Naturaleza, y que permita formar conciencia ecológica.",
    "multi-tags": "medio ambiente, educación ambiental "
-},
+ },
  {
    "id": 34,
    "img": "",
@@ -755,18 +671,14 @@
    "iconodisplay": "inline",
    "icononame": "justicia",
    "link": "",
-   "COMISIÓN": "Sistemas de Justicia ",
-   "número": "5",
    "titulo": "Acceso a la justicia",
-   "FIELD15": 20,
+   "numero80": "",
    "C80": "No hace referencia al acceso a la justicia y solo se limita a la \"defensa jurídica\".",
-   "N° caracteres": [
-      84,
-      216
-   ],
+   "número-texto-NC": "Artículo 108 incisos 1, 2, 3, 4, 5, 6, 7 y 8. ",
+   "numeroNC": "Artículo 108",
    "NC": "Todas las personas y colectivos tendremos acceso a la justicia. \n\nAdemás, las personas podremos recurrir a Tribunales y el Estado deberá remover los obstáculos sociales, culturales y económicos que puedan impedirlo. ",
    "multi-tags": "justicia, acceso a la justicia "
-},
+ },
  {
    "id": 35,
    "img": "",
@@ -779,18 +691,14 @@
    "iconodisplay": "none",
    "icononame": "justicia",
    "link": "",
-   "COMISIÓN": "Sistemas de Justicia ",
-   "número": "10 y 17 y 19 del tercer informe. ",
    "titulo": "Gratuidad",
-   "FIELD15": 9,
+   "numero80": "",
    "C80": "Solo considera la gratuidad para obtener defensa jurídica, siendo más restrictivo que el acceso a la justicia que propone la nueva Constitución. ",
-   "N° caracteres": [
-      145,
-      101
-   ],
-   "NC": "El acceso a la justicia será gratuito.\n\nEl Estado asegurará la asesoría jurídica gratuita e integral.",
+   "número-texto-NC": "Artículo 108 inciso 4. Artículo 320.",
+   "numeroNC": "Artículo 108 y 320",
+   "NC": "El acceso a la justicia será gratuito.\n\nEl Estado asegurará el derecho a asesoría jurídica gratuita e íntegra. ",
    "multi-tags": "gratuidad, justicia, gratuidad en la justicia"
-},
+ },
  {
    "id": 36,
    "img": "",
@@ -803,18 +711,14 @@
    "iconodisplay": "none",
    "icononame": "justicia",
    "link": "",
-   "COMISIÓN": "Sistema de Justicia ",
-   "número": "Art 9. del primer informe",
    "titulo": "Sentencias en lenguaje claro",
-   "FIELD15": 28,
+   "numero80": "",
    "C80": "No considera el lenguaje claro e inclusivo para la realización de sentencias.",
-   "N° caracteres": [
-      77,
-      91
-   ],
+   "número-texto-NC": "Artículo 319 incisos 1 y 2. ",
+   "numeroNC": "Artículo 319",
    "NC": "Las sentencias deberán ser siempre fundadas y redactadas en un lenguaje claro e inclusivo. ",
    "multi-tags": "lenguaje claro, justicia, lenguaje inclusivo"
-},
+ },
  {
    "id": 37,
    "img": "",
@@ -827,18 +731,14 @@
    "iconodisplay": "none",
    "icononame": "justicia",
    "link": "",
-   "COMISIÓN": "Sistemas de Justicia ",
-   "número": "",
    "titulo": "Proximidad e itinerancia",
-   "FIELD15": 24,
+   "numero80": "",
    "C80": "Los Tribunales solo pueden funcionar en su territorio jurisdiccional sin la capacidad de moverse, con el fin de garantizar el acceso a la justicia.",
-   "N° caracteres": [
-      147,
-      260
-   ],
+   "número-texto-NC": "Artículo 326.",
+   "numeroNC": "Artículo 326",
    "NC": "Para garantizar el acceso a la justicia, los Tribunales podrán funcionar en localidades que estén fuera de su lugar habitual. \n\nEsto permitirá acortar la brecha y barrera al acceso a la justicia. \n\nAl trasladarse, deberán respetar su territorio jurisdiccional.",
    "multi-tags": "proximidad e itinerancia, justicia "
-},
+ },
  {
    "id": 38,
    "img": "",
@@ -851,18 +751,14 @@
    "iconodisplay": "none",
    "icononame": "justicia",
    "link": "",
-   "COMISIÓN": "Sistemas de Justicia ",
-   "número": "2",
    "titulo": "Pluralismo jurídico ",
-   "FIELD15": 20,
+   "numero80": "",
    "C80": "No nombra, ni reconoce los sistemas jurídicos de los Pueblos Indígenas. ",
-   "N° caracteres": [
-      72,
-      299
-   ],
+   "número-texto-NC": "Artículo 322, incisos 1 y 2.  Artículo 329. ",
+   "numeroNC": "Artículo 322",
    "NC": "El Estado reconocerá los sistemas jurídicos de los Pueblos Indígenas que coexistirán en igualdad con el Sistema Nacional de Justicia.\n\nLa Corte Suprema será la última instancia en cualquier procedimiento, ya sea del Sistema Nacional de Justicia o de los sistemas jurídicos de los Pueblos Indígenas. ",
    "multi-tags": "pluralismo jurídico, justicia "
-},
+ },
  {
    "id": 39,
    "img": "",
@@ -875,18 +771,14 @@
    "iconodisplay": "none",
    "icononame": "justicia",
    "link": "",
-   "COMISIÓN": "Sistemas de justicia ",
-   "número": "3",
    "titulo": "Independencia judicial",
-   "FIELD15": 22,
+   "numero80": "",
    "C80": "Existe el principio de independencia para que solo juezas y jueces puedas conocer y resolver causas judiciales en los Tribunales de Justicia.",
-   "N° caracteres": [
-      141,
-      263
-   ],
+   "número-texto-NC": "Artículo 342 incisos 1 y 2. ",
+   "numeroNC": "Artículo 342",
    "NC": "Se mantendrá el principio de independencia. Esto significa que solo los Tribunales de Justicia podrán conocer y resolver de las causas judiciales. \n\nEs importante porque impedirá que otros poderes u órganos se entrometan en lo que puedan resolver jueces o juezas.",
    "multi-tags": "independencia en la justicia, justicia "
-},
+ },
  {
    "id": 40,
    "img": "",
@@ -899,18 +791,14 @@
    "iconodisplay": "inline",
    "icononame": "descentralizacion",
    "link": "",
-   "COMISIÓN": "Forma de Estado",
-   "número": "1, 2, 5 y 10 (referente a plurinacionalidad) ",
    "titulo": "Estado Regional ",
-   "FIELD15": 16,
-   "C80": "Chile es un Estado centralizado, que tiene divisiones políticas administrativas de un único centro. ",
-   "N° caracteres": [
-      100,
-      310
-   ],
-   "NC": "Chile será un Estado Regional, lo que significa que las regiones y comunas ya no serán meras divisiones de un único centro.\n\nSerán entidades territoriales con autonomía política, administrativa y financiera, en un marco de equidad y solidaridad entre todas ellas, preservando la unidad e integridad del Estado.",
+   "numero80": "",
+   "C80": "Chile es un Estado centralizado. La actual Constitución no establece mecanismos de descentralización ",
+   "número-texto-NC": "Artículos 3, 7 y 187 incisos 1, 2, 3 y 4.  ",
+   "numeroNC": "Artículos 3",
+   "NC": "Chile será un Estado regional, lo que significa que las regiones y comunas ya no serán meras divisiones de un único centro. \n\nEllas serán entidades territoriales con autonomía política, administrativa y financiera, en un marco de equidad y solidaridad entre todas ellas, preservando la unidad e integridad del Estado y reconociendo que Chile es un territorio único e indivisible.",
    "multi-tags": "Estado Regional, regiones autónomas"
-},
+ },
  {
    "id": 41,
    "img": "",
@@ -923,18 +811,14 @@
    "iconodisplay": "none",
    "icononame": "descentralizacion",
    "link": "",
-   "COMISIÓN": "Forma de Estado",
-   "número": "35",
    "titulo": "Ruralidad",
-   "FIELD15": 9,
+   "numero80": "",
    "C80": "Nada dice sobre ruralidad. ",
-   "N° caracteres": [
-      27,
-      304
-   ],
-   "NC": "Se reconocerá la ruralidad y sus formas de vida en relación directa con las personas, la tierra, agua y el mar.\n\nSe promoverá el desarrollo integral de los territorios rurales y para la creación de políticas públicas se deberán considerar a las comunidades, tanto para el diseño como para su realización.",
+   "número-texto-NC": "Artículo 241 incisos 1 y 2. ",
+   "numeroNC": "Artículo 241",
+   "NC": "Se reconocerá la ruralidad y sus formas de vida en donde existe una relación directa entre las personas y comunidades y la tierra, agua y el mar.\n\nSe facilitará la participación de las comunidades locales en el diseño e implementación de políticas públicas que les afecten.",
    "multi-tags": "Ruralidad, Descentralización, rural"
-},
+ },
  {
    "id": 42,
    "img": "",
@@ -947,18 +831,14 @@
    "iconodisplay": "none",
    "icononame": "descentralizacion",
    "link": "",
-   "COMISIÓN": "Forma de Estado",
-   "número": "16 bis",
    "titulo": "Solidaridad interterritorial",
-   "FIELD15": 28,
+   "numero80": "",
    "C80": "No existen mecanismos de solidaridad interterritorial. ",
-   "N° caracteres": [
-      55,
-      114
-   ],
+   "número-texto-NC": "Artículo 249, incisos 1, 2, 3, 4 y 5. ",
+   "numeroNC": "Artículo 249",
    "NC": "Se establecerán Fondos de Compensación y Transferencias de Recursos para las regiones y comunas más empobrecidas. ",
    "multi-tags": "Descentralización, solidaridad interterritorial"
-},
+ },
  {
    "id": 43,
    "img": "",
@@ -971,18 +851,14 @@
    "iconodisplay": "none",
    "icononame": "descentralizacion",
    "link": "",
-   "COMISIÓN": "Forma de Estado",
-   "número": "26",
    "titulo": "Territorios especiales",
-   "FIELD15": 22,
+   "numero80": "",
    "C80": "Son territorios especiales los correspondientes a Isla de Pascua y al Archipiélago Juan Fernández.\n\nEl Gobierno y Administración de estos territorios se rige por los estatutos especiales que establezcan las leyes orgánicas constitucionales respectivas.",
-   "N° caracteres": [
-      252,
-      258
-   ],
+   "número-texto-NC": "Artículo 326, incisos 1, 2 y 3. ",
+   "numeroNC": "Artículo 326",
    "NC": "Rapa Nui y el Archipiélago Juan Fernández serán territorios especiales y estarán regidos por sus respectivos estatutos.\n\nSe podrán crear territorios especiales de acuerdo a condiciones geográficas, climáticas, ambientales, económicas, sociales y culturales. ",
    "multi-tags": "territorios especiales, descentralización"
-},
+ },
  {
    "id": 44,
    "img": "",
@@ -995,18 +871,14 @@
    "iconodisplay": "none",
    "icononame": "descentralizacion",
    "link": "",
-   "COMISIÓN": "",
-   "número": "",
    "titulo": "Empresas comunales",
-   "FIELD15": 18,
+   "numero80": "",
    "C80": "No permite la creación de empresas municipales.",
-   "N° caracteres": [
-      null,
-      null
-   ],
+   "número-texto-NC": "Artículo 214. ",
+   "numeroNC": "Artículo 214",
    "NC": "Se autorizará a las comunas a que, con previa autorización de una ley, puedan crear empresas o participar de ellas.",
    "multi-tags": "Empresas comunales, descentralización, empresas municipales"
-},
+ },
  {
    "id": 45,
    "img": "",
@@ -1019,18 +891,14 @@
    "iconodisplay": "inline",
    "icononame": "pensiones",
    "link": "",
-   "COMISIÓN": "DDFF",
-   "número": "13 segundo informe ",
    "titulo": "Pensiones",
-   "FIELD15": 9,
-   "C80": "No garantiza el derecho a la seguridad social.\n\nEstablece que estas prestaciones pueden entregarse por instituciones públicas o privadas, como las AFPs.\n",
-   "N° caracteres": [
-      153,
-      324
-   ],
-   "NC": "A todas las personas se nos garantizará el derecho a la seguridad social fundado en principios de universalidad, solidaridad, suficiencia, sostenibilidad, entre otros.\n\nLa ley establecerá un Sistema de Seguridad Social público.\n\nSe asegurará la cobertura de prestaciones a quienes ejerzan trabajos domésticos y de cuidados.\n",
+   "numero80": "Artículo 19 n° 18.",
+   "C80": "No se establecen los principios que caracterizan al derecho a la seguridad social.\n\nNo se mandata al Estado para crear un sistema público y sestablece que estas prestaciones pueden entregarse por instituciones públicas o privadas, como las AFPs.\n",
+   "número-texto-NC": "Artículo 45 inciso 1, 2, 3 y 4. ",
+   "numeroNC": "Artículo 45",
+   "NC": "A todas las personas se nos garantizará el derecho a la seguridad social fundado en principios de universalidad, solidaridad, integralidad, igualdad, suficiencia, sostenibilidad, entre otros.\n\nLa ley establecerá un sistema de seguridad social público que otorgue protección en caso de enfermedad, vejez y otras contingencias sociales de falta o disminución de subsistencia o capacidad de trabajo. \n\nDeberá asegurar la cobertura de prestaciones a quienes ejerzan trabajos domésticos y de cuidados.",
    "multi-tags": "pensiones, afp, no más afp, vejez"
-},
+ },
  {
    "id": 46,
    "img": "",
@@ -1043,18 +911,14 @@
    "iconodisplay": "none",
    "icononame": "pensiones",
    "link": "",
-   "COMISIÓN": "Principios Constitucionales",
-   "número": "1",
    "titulo": "Derechos de las personas mayores",
-   "FIELD15": 32,
-   "C80": "En la Constitución actual las personas mayores no son consideradas. ",
-   "N° caracteres": [
-      68,
-      367
-   ],
-   "NC": "Las personas mayores serán reconocidas como sujetos/as de derecho. \n\nEn un capítulo específico, la nueva Constitución reconocerá su derecho a envejecer con dignidad, obtener prestaciones de seguridad social suficientes para una vida digna, a una vida libre de maltrato por motivos de edad; a la autonomía e independencia y al pleno ejercicio de su capacidad jurídica.",
+   "numero80": "",
+   "C80": "En la Constitución actual las personas mayores no son consideradas ni mencionadas. ",
+   "número-texto-NC": "Artículo 33 inciso 1 y 2. ",
+   "numeroNC": "Artículo 33",
+   "NC": "Las personas mayores serán reconocidas como sujetos/as de derecho y tendrán derecho a envejecer con dignidad. \n\nAdemás, tendrán derecho a obtener prestaciones de seguridad social suficientes para una vida digna, a una vida libre de maltrato por motivos de edad, a la autonomía e independencia y al pleno ejercicio de su capacidad jurídica.",
    "multi-tags": "personas mayores, derechos de personas mayores, pensiones, vejez "
-},
+ },
  {
    "id": 47,
    "img": "",
@@ -1067,18 +931,14 @@
    "iconodisplay": "inline",
    "icononame": "ninez",
    "link": "",
-   "COMISIÓN": "Principios Constitucionales",
-   "número": "Art 3. ",
    "titulo": "Vida libre de violencia de género",
-   "FIELD15": 33,
+   "numero80": "",
    "C80": "Nada dice.  ",
-   "N° caracteres": [
-      12,
-      144
-   ],
-   "NC": "Se reconocerá el derecho de niñas a una vida libre de violencia de género en todas sus manifestaciones, tanto en el ámbito público como privado.",
+   "número-texto-NC": "Artículo 27 incisos. ",
+   "numeroNC": "Artículo 27",
+   "NC": "Se reconocerá el derecho de todas las niñas y de las adolescentes a una vida libre de violencia de género en todas sus manifestaciones, tanto en el ámbito público como privado.",
    "multi-tags": "vida libre de violencia, feminismo, violencia de género, seguridad "
-},
+ },
  {
    "id": 48,
    "img": "",
@@ -1091,18 +951,14 @@
    "iconodisplay": "none",
    "icononame": "ninez",
    "link": "",
-   "COMISIÓN": "Principios Constitucionales",
-   "número": "1",
    "titulo": "Derechos de niñas, niños y adolescentes",
-   "FIELD15": 39,
-   "C80": "No están consagrados los derechos de niñas, niños y adolescentes en la constitución vigente. ",
-   "N° caracteres": [
-      93,
-      350
-   ],
-   "NC": "Se consagrarán los derechos de niñas, niños y adolescentes, mediante el resguardo de su interés superior, su autonomía progresiva y su desarrollo integral.\n\nTendrán derecho a ser escuchados, protegidos contra toda forma de violencia, a vivir en condiciones familiares y ambientales que les permitan el pleno y armonioso desarrollo de su personalidad.",
+   "numero80": "",
+   "C80": "Nada dice respecto de las niñas, niños y adolescentes. ",
+   "número-texto-NC": "Artículo 26 incisos 1, 2, 3, 4 y 5.",
+   "numeroNC": "Artículo 26",
+   "NC": "Se consagrarán los derechos de niñas, niños y adolescentes, estableciendo la obligación del Estado de resguar su interés superior, su autonomía progresiva y su desarrollo integral.\n\nTendrán derecho a ser escuchadas/os, a la protección contra toda forma de violencia, y a vivir en condiciones familiares y ambientales que les permitan el pleno y armonioso desarrollo de su personalidad.",
    "multi-tags": "niñas, niños, adolescentes, niñez, juventud"
-},
+ },
  {
    "id": 49,
    "img": "",
@@ -1115,18 +971,14 @@
    "iconodisplay": "none",
    "icononame": "ninez",
    "link": "",
-   "COMISIÓN": "Sistemas de Justicia",
-   "número": "",
    "titulo": "Defensoría de la niñez",
-   "FIELD15": 22,
+   "numero80": "",
    "C80": "Actualmente existe la Defensoría de la Niñez, pero solo está regulado por ley. La actual Constitución no menciona la palabra niño, niña o adolescente.",
-   "N° caracteres": [
-      150,
-      212
-   ],
+   "número-texto-NC": "Artículo 126, inciso 1 y 2. ",
+   "numeroNC": "Artículo 126",
    "NC": "Se creará la Defensoría de los Derechos de la Niñez, como un órgano autónomo que estará a cargo de la difusión y protección de los derechos de niñas, niños y adolescentes, velando siempre por su interés superior.",
    "multi-tags": "defensoría de la niñez, derechos niñez, niñas, niños, adolescentes"
-},
+ },
  {
    "id": 50,
    "img": "",
@@ -1139,18 +991,14 @@
    "iconodisplay": "inline",
    "icononame": "democracia",
    "link": "",
-   "COMISIÓN": "Sistema Político",
-   "número": "9 y 11",
    "titulo": "Cámara de las regiones",
-   "FIELD15": 22,
+   "numero80": "",
    "C80": "No existe un órgano de representación territorial efectiva. ",
-   "N° caracteres": [
-      60,
-      221
-   ],
+   "número-texto-NC": "Artículo 254, incisos 1, 2, 3, 4 y 5. ",
+   "numeroNC": "Artículo 254",
    "NC": "La Cámara de las Regiones será el nuevo órgano deliberativo, con igual participación de hombres y mujeres y con representación territorial efectiva, encargado de hacerse parte en la formación de leyes de interés regional.",
    "multi-tags": "Cámara de las regiones, representación, paridad"
-},
+ },
  {
    "id": 51,
    "img": "",
@@ -1163,18 +1011,14 @@
    "iconodisplay": "none",
    "icononame": "democracia",
    "link": "",
-   "COMISIÓN": "Principios Constitucionales",
-   "número": "Art 1, 8 , 9 , nuevo.",
    "titulo": "Participación ciudadana vinculante",
-   "FIELD15": 34,
-   "C80": "Nada dice. Las personas no podemos derogar total o parcialmente alguna ley. ",
-   "N° caracteres": [
-      76,
-      67
-   ],
-   "NC": "Las personas podremos derogar total o parcialmente una o más leyes.",
+   "numero80": "",
+   "C80": "Nada dice. Las personas no podemos derogar total o parcialmente ninguna ley. ",
+   "número-texto-NC": "Artículo 158 incisos 1 y 2. ",
+   "numeroNC": "Artículo 158",
+   "NC": "Las personas podremos juntar firmar para convocar un referéndum nacional y derogar total o parcialmente una o más leyes.",
    "multi-tags": "Participación ciudadana, leyes"
-},
+ },
  {
    "id": 52,
    "img": "",
@@ -1187,18 +1031,14 @@
    "iconodisplay": "none",
    "icononame": "democracia",
    "link": "",
-   "COMISIÓN": "Sistema Político",
-   "número": "29",
    "titulo": "Iniciativa popular de ley",
-   "FIELD15": 25,
-   "C80": "Nada dice. Las personas no podemos presentar proyectos de ley.",
-   "N° caracteres": [
-      62,
-      156
-   ],
+   "numero80": "Artículo 65.",
+   "C80": "Nada dice. Las personas no podemos presentar proyectos de ley, solo lo pueden hacer parlamentarias/os y el/la Presidente/a.",
+   "número-texto-NC": "Artículo 157, incisos 1, 2, 3 y 4. ",
+   "numeroNC": "Artículo 157",
    "NC": "Las personas podremos presentar iniciativas populares de ley. \n\nTras reunir los patrocinios exigidos, el Congreso deberá iniciar su tramitación legislativa.",
    "multi-tags": "Iniciativa popular de ley, participación ciudadana, ley "
-},
+ },
  {
    "id": 53,
    "img": "",
@@ -1211,18 +1051,14 @@
    "iconodisplay": "none",
    "icononame": "democracia",
    "link": "",
-   "COMISIÓN": "Sistema Político",
-   "número": "34",
    "titulo": "Urgencia popular de ley",
-   "FIELD15": 23,
+   "numero80": "",
    "C80": "Nada dice. Las personas no podemos darle prioridad a un proyecto de ley.",
-   "N° caracteres": [
-      72,
-      129
-   ],
+   "número-texto-NC": "Artículo 157, inciso 2. ",
+   "numeroNC": "Artículo 157",
    "NC": "Las personas, así como el Congreso y la presidencia, podremos darle \"urgencia\" a un proyecto de ley para agilizar su tramitación.",
    "multi-tags": "Participación ciudadana, urgencia popular de ley"
-},
+ },
  {
    "id": 54,
    "img": "",
@@ -1235,18 +1071,14 @@
    "iconodisplay": "none",
    "icononame": "democracia",
    "link": "",
-   "COMISIÓN": "",
-   "número": "10,14",
    "titulo": "Participación directa",
-   "FIELD15": 21,
+   "numero80": "",
    "C80": "Nada dice. Las personas no podemos votar en materias que son competencias de gobiernos locales. ",
-   "N° caracteres": [
-      96,
-      283
-   ],
+   "número-texto-NC": "Artículo 155. Artículo 156. ",
+   "numeroNC": "Artículo 155 y 156",
    "NC": "Las personas podremos votar materias que sean de competencia de los gobiernos regionales y locales. \n\nEn el Congreso y en los órganos representativos a nivel regional y local se deberán realizar audiencias públicas, donde las personas podremos dar a conocer propuestas y argumentos. ",
    "multi-tags": "Participación directa, participación ciudadana"
-},
+ },
  {
    "id": 55,
    "img": "",
@@ -1259,18 +1091,14 @@
    "iconodisplay": "none",
    "icononame": "democracia",
    "link": "",
-   "COMISIÓN": "Sistema Político",
-   "número": "5 bis, 5 ter, 7, 9",
    "titulo": "Congreso de diputadas y diputados",
-   "FIELD15": 33,
+   "numero80": "",
    "C80": "Establece una Cámara de diputados, órgano deliberativo sin paridad ni representantes de Pueblos Originarios.\n\nSus integrantes se eligen por votación directa por distritos electorales.",
-   "N° caracteres": [
-      183,
-      197
-   ],
+   "número-texto-NC": "Artículo 252, incisos 1, 2 y 3. ",
+   "numeroNC": "Artículo 252",
    "NC": "El Congreso de Diputadas y Diputados será un órgano deliberativo, paritario y con representantes de pueblos originarios.\n\nSus integrantes se elegirán por votación directa por distritos electorales.",
    "multi-tags": "Congreso de diputadas y diputados"
-},
+ },
  {
    "id": 56,
    "img": "",
@@ -1283,18 +1111,14 @@
    "iconodisplay": "none",
    "icononame": "democracia",
    "link": "",
-   "COMISIÓN": "Sistema Político",
-   "número": "16",
    "titulo": "Fuerzas Armadas I",
-   "FIELD15": 17,
+   "numero80": "",
    "C80": "No están subordinadas al poder civil. \n\nSe les atribuyen funciones como la “seguridad nacional” y el “orden institucional”. No especifica que su actuar sea ante agresiones externas.",
-   "N° caracteres": [
-      181,
-      171
-   ],
+   "número-texto-NC": "Artículo 299, incisos 1 y 2. ",
+   "numeroNC": "Artículo 299",
    "NC": "Estarán subordinadas al poder civil. \n\nTendrán como objetivo el resguardo de la soberanía, independencia e integridad territorial de la República ante agresiones externas.",
    "multi-tags": "Fuerzas Armadas "
-},
+ },
  {
    "id": 57,
    "img": "",
@@ -1307,18 +1131,14 @@
    "iconodisplay": "none",
    "icononame": "democracia",
    "link": "",
-   "COMISIÓN": "Sistema Político",
-   "número": "16",
    "titulo": "Fuerzas Armadas II",
-   "FIELD15": 18,
+   "numero80": "",
    "C80": "Son instituciones profesionales, jerarquizadas, disciplinadas, obedientes y no deliberantes.\n\nNo establece controles de probidad ni transparencia.\n\nNo establece mecanismos no discriminatorios en el ingreso ni educación en Derechos Humanos en su formación.\n",
-   "N° caracteres": [
-      256,
-      322
-   ],
+   "número-texto-NC": "Artículos 299, incisos 3, 4, 5 y 6.",
+   "numeroNC": "Artículos 299",
    "NC": "Serán instituciones profesionales, jerarquizadas, disciplinadas, obedientes y no deliberantes.\n\nEstarán sujetas a controles en materia de probidad y transparencia. \n\nEl ingreso y la formación se hará mediante mecanismos gratuitos y no discriminatorios. La educación militar se fundará en el respeto irrestricto a los DDHH.",
    "multi-tags": "Fuerzas Armadas "
-},
+ },
  {
    "id": 58,
    "img": "",
@@ -1331,18 +1151,14 @@
    "iconodisplay": "none",
    "icononame": "democracia",
    "link": "",
-   "COMISIÓN": "Sistema Político",
-   "número": "19",
    "titulo": "Policías",
-   "FIELD15": 8,
+   "numero80": "",
    "C80": "No establece controles de probidad ni transparencia.\n\nEl ingreso y formación quedan sujetos a una ley orgánica, la que permite criterios discriminatorios como tener que ser soltero/a sin hijos para ingresar a la Escuela de Suboficiales.",
-   "N° caracteres": [
-      236,
-      132
-   ],
+   "número-texto-NC": "Artículo 297, inciso 1, 2, 3, 4 y 5.",
+   "numeroNC": "Artículo 297",
    "NC": "Las policías estarán sujetas a controles de probidad y transparencia.\n\nEl ingreso y la formación será gratuito y no discriminatorio.",
    "multi-tags": "Policía, Carabineros, PDI, Policía de Investigaciones, policías"
-},
+ },
  {
    "id": 59,
    "img": "",
@@ -1355,18 +1171,14 @@
    "iconodisplay": "none",
    "icononame": "democracia",
    "link": "",
-   "COMISIÓN": "Sistema Político",
-   "número": "56",
    "titulo": "Voto",
-   "FIELD15": 4,
+   "numero80": "",
    "C80": "El voto es personal, igualitario, secreto y voluntario para las personas que hayan cumplido 18 años.  ",
-   "N° caracteres": [
-      102,
-      185
-   ],
+   "número-texto-NC": "Artículo 160, incisos 1, 2, 3, 4, 5 y 6.",
+   "numeroNC": "Artículo 160",
    "NC": "El voto será universal, igualitario, directo, secreto y obligatorio para las personas que hayan cumplido 18 años.\n\nDe forma voluntaria también podrán votar las personas de 16 y 17 años.",
    "multi-tags": "Voto, Voto obligatorio"
-},
+ },
  {
    "id": 60,
    "img": "",
@@ -1379,18 +1191,14 @@
    "iconodisplay": "none",
    "icononame": "democracia",
    "link": "",
-   "COMISIÓN": "Medioambiente",
-   "número": "33",
    "titulo": "Participación en temas ambientales",
-   "FIELD15": 34,
+   "numero80": "",
    "C80": "Nada dice. ",
-   "N° caracteres": [
-      11,
-      228
-   ],
-   "NC": "Todas las personas tendremos derecho a la participación informada en materias ambientales y acceso a la información ambiental del Estado. \n\nLos particulares deberán entregar la información ambiental relacionada con su actividad.",
+   "número-texto-NC": "Artículo 154 incisos 1 y 2. ",
+   "numeroNC": "Artículo 154",
+   "NC": "Todas las personas tendremos derecho a la participación informada en materias ambientales y a acceder a la información ambiental que está en poder del Estado. \n\nLos particulares deberán entregar la información ambiental relacionada con su actividad.",
    "multi-tags": "medio ambiente, participación"
-},
+ },
  {
    "id": 61,
    "img": "",
@@ -1403,18 +1211,14 @@
    "iconodisplay": "inline",
    "icononame": "feminismo",
    "link": "",
-   "COMISIÓN": "Principios Constitucionales",
-   "número": "Art 3. ",
    "titulo": "Vida libre de violencia de género",
-   "FIELD15": 33,
+   "numero80": "",
    "C80": "Nada dice. ",
-   "N° caracteres": [
-      11,
-      254
-   ],
-   "NC": "Las mujeres, niñas y diversidades tendrán derecho a una vida libre de violencia de género en todas sus manifestaciones, tanto en el ámbito público como privado.\n\nEl Estado deberá adoptar todas las medidas necesarias para erradicar la violencia de género.",
+   "número-texto-NC": "Artículo 27 incisos 1 y 2. ",
+   "numeroNC": "Artículo 27",
+   "NC": "Las mujeres, niñas y personas de las diversidades y disidencias sexuales y de género tendrán derecho a una vida libre de violencia de género en todas sus manifestaciones, tanto en el ámbito público como privado.\n\nEl Estado deberá adoptar todas las medidas necesarias para erradicar la violencia de género.",
    "multi-tags": "Feminismo, vida libre de violencia, violencia de género, niñas, mujeres, diversidades"
-},
+ },
  {
    "id": 62,
    "img": "",
@@ -1427,18 +1231,14 @@
    "iconodisplay": "none",
    "icononame": "feminismo",
    "link": "",
-   "COMISIÓN": "Derechos Fundamentales",
-   "número": "art 16",
    "titulo": "Derechos sexuales y reproductivos I",
-   "FIELD15": 35,
+   "numero80": "",
    "C80": "Nada dice.\n\n\n",
-   "N° caracteres": [
-      13,
-      260
-   ],
+   "número-texto-NC": "Artículo 61, inciso 1. ",
+   "numeroNC": "Artículo 61",
    "NC": "Todas las personas seremos titulares de derechos sexuales y derechos reproductivos. \n\nEstos comprenderán, entre otros, el derecho a decidir de forma autónoma sobre el propio cuerpo, el ejercicio de la sexualidad, la reproducción, el placer y la anticoncepción.",
    "multi-tags": "Feminismo, aborto, derechos sexuales y reproductivos, interrupción voluntaria, maternidad deseada"
-},
+ },
  {
    "id": 63,
    "img": "",
@@ -1451,18 +1251,14 @@
    "iconodisplay": "none",
    "icononame": "feminismo",
    "link": "",
-   "COMISIÓN": "Derechos Fundamentales",
-   "número": "art 16",
    "titulo": "Derechos sexuales y reproductivos II",
-   "FIELD15": 36,
+   "numero80": "",
    "C80": "Nada dice.\n\n",
-   "N° caracteres": [
-      12,
-      242
-   ],
+   "número-texto-NC": "Artículo 61, inciso 2, 3, y 4. ",
+   "numeroNC": "Artículo 61",
    "NC": "El Estado garantizará el acceso a la información, educación, salud, y a las prestaciones requeridas para ello, asegurando las condiciones para un embarazo, una interrupción voluntaria del embarazo, parto y maternidad voluntarios y protegidos.",
    "multi-tags": "Feminismo, aborto, derechos sexuales y reproductivos, interrupción voluntaria, maternidad deseada"
-},
+ },
  {
    "id": 64,
    "img": "",
@@ -1475,18 +1271,14 @@
    "iconodisplay": "none",
    "icononame": "feminismo",
    "link": "",
-   "COMISIÓN": "Sistema Político",
-   "número": "2 y 54, 64",
    "titulo": "Democracia Paritaria",
-   "FIELD15": 20,
+   "numero80": "",
    "C80": "Nada dice.\n\n\n",
-   "N° caracteres": [
-      13,
-      298
-   ],
+   "número-texto-NC": "Artículo 6, incisos 1, 2, 3 y 4. ",
+   "numeroNC": "Artículo 6",
    "NC": "Todos los órganos colegiados del Estado, órganos autónomos, así como directorios de empresas públicas y semipúblicas tendrán una composición que asegure que al menos el 50% de sus integrantes sean mujeres. \n\nEl Estado adoptará medidas para la representación de diversidades y disidencias de género.",
    "multi-tags": "democracia paritaria, Estado paritario"
-},
+ },
  {
    "id": 65,
    "img": "",
@@ -1499,18 +1291,14 @@
    "iconodisplay": "none",
    "icononame": "feminismo",
    "link": "",
-   "COMISIÓN": "DDFF",
-   "número": "4 segundo informe ",
    "titulo": "Casas de acogida",
-   "FIELD15": 16,
+   "numero80": "",
    "C80": "Nada dice.",
-   "N° caracteres": [
-      10,
-      125
-   ],
+   "número-texto-NC": "Artículo 51, inciso 4.",
+   "numeroNC": "Artículo 51",
    "NC": "Se garantizará la creación de viviendas de acogida en casos de violencia de género y otras formas de vulneración de derechos.",
    "multi-tags": "Casas de acogida, feminismo, violencia de género"
-},
+ },
  {
    "id": 66,
    "img": "",
@@ -1523,18 +1311,14 @@
    "iconodisplay": "none",
    "icononame": "feminismo",
    "link": "",
-   "COMISIÓN": "DDFF",
-   "número": "12, 13",
    "titulo": "Identidad y libre desarrollo",
-   "FIELD15": 28,
+   "numero80": "",
    "C80": "Nada dice.",
-   "N° caracteres": [
-      10,
-      261
-   ],
+   "número-texto-NC": "Artículo 64, incisos 1 y 2.",
+   "numeroNC": "Artículo 64",
    "NC": "Todas las personas tendremos derecho al libre desarrollo y pleno reconocimiento de nuestra identidad, en todas sus dimensiones y manifestaciones, incluyendo las características sexuales, identidades y expresiones de género, nombre y orientaciones sexoafectivas.",
    "multi-tags": "derecho a la identidad, expresiones de género, orientaciones sexoafectivas, lgbtq+"
-},
+ },
  {
    "id": 67,
    "img": "",
@@ -1547,18 +1331,14 @@
    "iconodisplay": "none",
    "icononame": "feminismo",
    "link": "",
-   "COMISIÓN": "Sistemas de Justicia ",
-   "número": "2 (tercer informe) y 14",
    "titulo": "Perspectiva de género en la justicia",
-   "FIELD15": 36,
-   "C80": "La actual Constitución no se refiere a perspectiva de género en ninguno de sus artículos.",
-   "N° caracteres": [
-      89,
-      295
-   ],
-   "NC": "La Justicia se regirá por el principio de perspectiva de género. Es decir, se velará para que quienes imparten justicia no caigan en prejuicios o discriminaciones ocasionadas por sesgos o estereotipos de género. \n\nTodos los órganos y personas que intervengan garantizarán la igualdad sustantiva.",
+   "numero80": "",
+   "C80": "No se refiere a perspectiva de género en ninguno de sus artículos.",
+   "número-texto-NC": "Artículo 312, incisos 1, 2, 3 y 4. ",
+   "numeroNC": "Artículo 312",
+   "NC": "La justicia se regirá por el principio de perspectiva de género. Es decir, se velará para que quienes imparten justicia no caigan en prejuicios o discriminaciones ocasionadas por sesgos o estereotipos de género. \n\nTodos los órganos y personas que intervengan garantizarán la igualdad sustantiva.",
    "multi-tags": "justicia paritaria, perspectiva de género, igualdad sustantiva"
-},
+ },
  {
    "id": 68,
    "img": "",
@@ -1571,18 +1351,14 @@
    "iconodisplay": "inline",
    "icononame": "ddhh",
    "link": "",
-   "COMISIÓN": "Sistemas de Justicia ",
-   "número": "26, 27, 28 y 29 del tercer informe ",
    "titulo": "Defensoría del pueblo ",
-   "FIELD15": 22,
-   "C80": "La Constitución no considera organismos que protejan y promuevan los derechos humanos de las personas.",
-   "N° caracteres": [
-      102,
-      279
-   ],
-   "NC": "Protegerá y promoverá los derechos humanos. Tendrá múltiples atribuciones como fiscalizar que los órganos del Estado cumplan con sus obligaciones en materia de derechos humanos y formular recomendaciones en las materias de su competencia.\n\nEste organismo existirá en cada región.",
+   "numero80": "",
+   "C80": "No considera organismos que protejan y promuevan los derechos humanos de las personas.",
+   "número-texto-NC": "Artículo 123, incisos 1 y 2. Artículo 124, incisos 1 letra a) b) c) d) e) f) g) h) i) j), 2 y 3. ",
+   "numeroNC": "Artículo 123",
+   "NC": "Se crea la Defensoría del Pueblo, órgano autónomo encargado de proteger y promover los derechos humanos de todas las personas. Entre sus atribuciones están fiscalizar que los órganos del Estado cumplan con sus obligaciones en materia de derechos humanos, formular recomendaciones en las materias de su competencia y promover educación en derehcos humanos.\n\nEste organismo existirá en cada región.",
    "multi-tags": "defensoría del pueblo, derechos humanos"
-},
+ },
  {
    "id": 69,
    "img": "",
@@ -1595,18 +1371,14 @@
    "iconodisplay": "none",
    "icononame": "ddhh",
    "link": "",
-   "COMISIÓN": "Sistema de Conocimientos",
-   "número": "3er informe. Art. 29.",
    "titulo": "Derecho a la muerte digna",
-   "FIELD15": 25,
+   "numero80": "",
    "C80": "No existe el derecho a una muerte digna ni a cuidados paliativos.\n",
-   "N° caracteres": [
-      66,
-      289
-   ],
+   "número-texto-NC": "Artículo 68, incisos 1, 2, 3 y 4. ",
+   "numeroNC": "Artículo 68",
    "NC": "Todas las personas tendremos derecho a una muerte digna.\n\nSe asegurará nuestro derecho a tomar decisiones libres e informadas sobre nuestros cuidados y tratamientos al final de su vida.\n\nSe garantizará el acceso a los cuidados paliativos para personas con  enfermedades crónicas avanzadas.",
    "multi-tags": "eutanasia, muerte digna, derecho a la muerte digna "
-},
+ },
  {
    "id": 70,
    "img": "",
@@ -1619,18 +1391,14 @@
    "iconodisplay": "none",
    "icononame": "ddhh",
    "link": "",
-   "COMISIÓN": "Sistemas de Justicia ",
-   "número": "87 (tercer informe) ",
    "titulo": "Prohibición de la tortura",
-   "FIELD15": 25,
+   "numero80": "",
    "C80": "La Constitución no asegura el derecho a las personas privadas de libertad a no ser sometidas a torturas, aislamiento u otros tratos crueles. ",
-   "N° caracteres": [
-      141,
-      231
-   ],
+   "número-texto-NC": "Artículo 30, inciso 4.",
+   "numeroNC": "Artículo 30",
    "NC": "Ninguna persona privada de libertad podrá ser sometida a tortura ni a otros tratos crueles, inhumanos o degradantes, ni a trabajos forzosos. Asimismo, no podrá ser sometida a aislamiento o incomunicación como sanción disciplinaria.",
    "multi-tags": ""
-},
+ },
  {
    "id": 71,
    "img": "",
@@ -1643,18 +1411,14 @@
    "iconodisplay": "none",
    "icononame": "ddhh",
    "link": "",
-   "COMISIÓN": "DDFF",
-   "número": "25",
    "titulo": "Prohibición de desaparición forzada",
-   "FIELD15": 35,
+   "numero80": "",
    "C80": "Nada dice.",
-   "N° caracteres": [
-      10,
-      224
-   ],
+   "número-texto-NC": "Artículo 22.",
+   "numeroNC": "Artículo 22",
    "NC": "Ninguna persona será sometida a desaparición forzada.\nToda persona víctima de desaparición forzada tiene derecho a ser buscada. \n\nEl Estado garantizará el ejercicio de este derecho disponiendo de todos los medios necesarios.",
    "multi-tags": "desaparición forzada, derechos humanos"
-},
+ },
  {
    "id": 72,
    "img": "",
@@ -1667,18 +1431,14 @@
    "iconodisplay": "none",
    "icononame": "ddhh",
    "link": "",
-   "COMISIÓN": "Sistemas de Justicia ",
-   "número": "16, 17 y 18 (segundo informe) ",
    "titulo": "Establecimientos penitenciarios",
-   "FIELD15": 31,
+   "numero80": "",
    "C80": "No existe un artículo que haga referencia a los establecimientos penitenciarios. \n",
-   "N° caracteres": [
-      82,
-      214
-   ],
+   "número-texto-NC": "Artículo 338, incisos 1 y 2.",
+   "numeroNC": "Artículo 338",
    "NC": "Sólo el Estado podrá ejecutar el cumplimiento de penas y medidas privativas de libertad, a través de instituciones públicas especialmente establecidas para estos fines. Es decir, no podrá ser ejercida por privados.",
    "multi-tags": "cárceles, establecimientos penitenciarios"
-},
+ },
  {
    "id": 73,
    "img": "",
@@ -1691,18 +1451,14 @@
    "iconodisplay": "none",
    "icononame": "ddhh",
    "link": "",
-   "COMISIÓN": "Sistemas de Justicia ",
-   "número": "16, 17 y 18 (segundo informe) ",
    "titulo": "Madres lactantes y mujeres embarazadas",
-   "FIELD15": 38,
+   "numero80": "",
    "C80": "La Constitución actual no garantiza que mujeres y personas gestantes embarazadas tengan derecho a acceder a servicios de salud, ni a medidas necesarias como infraestructura y equipamiento en establecimientos penitenciarios.",
-   "N° caracteres": [
-      223,
-      299
-   ],
+   "número-texto-NC": "Artículo 338, inciso 3. ",
+   "numeroNC": "Artículo 338",
    "NC": "En el caso de mujeres embarazadas y madres de lactantes, el Estado adoptará las medidas necesarias tales como infraestructura y equipamiento tanto para quienes se encuentren en control cerrado, abierto y post penitenciario. Se garantizará el derecho a acceder a los servicios de salud que requieran.",
    "multi-tags": "mujeres, embarazo, mujeres privadas de libertad, lactantes"
-},
+ },
  {
    "id": 74,
    "img": "",
@@ -1715,18 +1471,14 @@
    "iconodisplay": "none",
    "icononame": "ddhh",
    "link": "",
-   "COMISIÓN": "DDFF",
-   "número": "1 segundo informe",
    "titulo": "Derecho a la reparación",
-   "FIELD15": 23,
-   "C80": "No existe el derecho a la reparación.",
-   "N° caracteres": [
-      37,
-      319
-   ],
-   "NC": "Quienes han sido víctimas de graves violaciones a los derechos humanos tendrán derecho a la reparación integral.\n\nLas víctimas y la comunidad tendrán derecho al esclarecimiento y conocimiento de la verdad, especialmente cuando constituyan crímenes de lesa humanidad, crímenes de guerra, genocidio o despojo territorial.",
+   "numero80": "",
+   "C80": "No se refiere a las violaciones a los derechos humanos y no consagra los derechos a la verdad, justicia, reparación, memoria y garantias de no repetición.",
+   "número-texto-NC": "Artículo 24 incisos 1, 2, 3 y 4. ",
+   "numeroNC": "Artículo 24",
+   "NC": "Las víctimas y la comunidad tendrán derecho al esclarecimiento y conocimiento de la verdad.\n\nEl Estado deberá prevenir, investigar, sancionar e impedir la impunidad.\n\nQuienes han sido víctimas de violaciones a los derechos humanos tendrán derecho a la reparación integral.\n\nEl Estado garantizará el derecho a la memoria, y su relación con las garantías de no repetición y los derechos a la verdad, justicia y reparación integral.",
    "multi-tags": "derecho a la reparación, violación a los derechos humanos, reparación integral "
-},
+ },
  {
    "id": 75,
    "img": "",
@@ -1739,18 +1491,14 @@
    "iconodisplay": "none",
    "icononame": "ddhh",
    "link": "",
-   "COMISIÓN": "Sistema de Conocimientos ",
-   "número": "2do informe. Art 16. ",
    "titulo": "Preservación de la memoria",
-   "FIELD15": 26,
+   "numero80": "",
    "C80": "No existe el derecho y protección a la memoria de Chile. ",
-   "N° caracteres": [
-      57,
-      197
-   ],
+   "número-texto-NC": "Artículo 24, inciso 5. ",
+   "numeroNC": "Artículo 24",
    "NC": "Junto con preservar la memoria, otorgar especial protección a los sitios de memoria y memoriales, el Estado deberá garantizar el acceso a archivos y documentos, en distintos soportes y contenidos. ",
    "multi-tags": "memoria, preservar la memoria, derechos humanos, sitios de memoria, memoriales "
-},
+ },
  {
    "id": 76,
    "img": "",
@@ -1763,18 +1511,14 @@
    "iconodisplay": "inline",
    "icononame": "inclusion",
    "link": "",
-   "COMISIÓN": "DDFF",
-   "número": "23 segundo informe ",
    "titulo": "Igualdad y no discriminación",
-   "FIELD15": 28,
+   "numero80": "",
    "C80": "\n\n\nSolo establece que ni la ley ni ninguna autoridad podrán establecer diferencias arbitrarias.\n",
-   "N° caracteres": [
-      96,
-      398
-   ],
+   "número-texto-NC": "Artículo 25, incisos 1, 2, 3, 4 y 5. ",
+   "numeroNC": "Artículo 25",
    "NC": "Se asegurará el derecho a la igualdad y a la protección contra toda forma de discriminación, en especial cuando sea por motivos de nacionalidad, edad, sexo, orientación sexual, identidad y expresión de género, diversidad corporal, creencias, pertenencia a un pueblo indígena o tribal, opinión política, clase social, discapacidad, condición de salud, estado civil o cualquier otra condición social.",
    "multi-tags": ""
-},
+ },
  {
    "id": 77,
    "img": "",
@@ -1787,18 +1531,14 @@
    "iconodisplay": "none",
    "icononame": "inclusion",
    "link": "",
-   "COMISIÓN": "Principios Constitucionales",
-   "número": "6",
    "titulo": "Derechos de personas con discapacidad",
-   "FIELD15": 37,
+   "numero80": "",
    "C80": "Nada dice. ",
-   "N° caracteres": [
-      11,
-      307
-   ],
+   "número-texto-NC": "Artículo 28, incisos 1, 2, 3, 4 y 5. ",
+   "numeroNC": "Artículo 28",
    "NC": "Por primera vez en la historia de Chile se reconocerá constitucionalmente a las personas con discapacidad como sujetos de derechos en igualdad de condiciones con los demás. \n\nSe les garantizará el derecho a la accesibilidad universal, inserción laboral, participación política, económica, social y cultural.",
    "multi-tags": "inclusión, personas con discapacidad"
-},
+ },
  {
    "id": 78,
    "img": "",
@@ -1811,18 +1551,14 @@
    "iconodisplay": "none",
    "icononame": "inclusion",
    "link": "",
-   "COMISIÓN": "Sistemas Conocimientos",
-   "número": "Art. 26",
    "titulo": "Neurodiversidades y Neurodivergencias",
-   "FIELD15": 37,
+   "numero80": "",
    "C80": "Nada dice.  ",
-   "N° caracteres": [
-      12,
-      332
-   ],
+   "número-texto-NC": "Artículo 29. ",
+   "numeroNC": "Artículo 29",
    "NC": "Se reconocerá la existencia de diferencias y diversidades neurológicas en las personas. \n\nAdemás, se garantizarán las condiciones para el pleno ejercicio de los derechos, el libre desarrollo y una vida autónoma de las personas neuro divergentes, es decir, personas dentro del espectro autista, asperger, TDAH, TOC, TEL, entre otros.",
    "multi-tags": "neurodivergente, neurodivergencia, inclusión, tdah, toc, tel"
-},
+ },
  {
    "id": 79,
    "img": "",
@@ -1835,18 +1571,14 @@
    "iconodisplay": "inline",
    "icononame": "seguridad",
    "link": "",
-   "COMISIÓN": "DDFF",
-   "número": "9",
    "titulo": "Entornos seguros",
-   "FIELD15": 16,
+   "numero80": "",
    "C80": "Asegura el derecho a la libertad personal y a la seguridad individual. \n\nEstablece que es deber del Estado resguardar la seguridad nacional y dar protección a la población y a la familia.",
-   "N° caracteres": [
-      187,
-      255
-   ],
+   "número-texto-NC": "Artículo 53, incisos 1 y 2. ",
+   "numeroNC": "Artículo 53",
    "NC": "Protegerá en forma equitativa el derecho a vivir en entornos seguros y libres de violencia.\n\nEstablecerá que las acciones de prevención, persecución y sanción de los delitos, así como la reinserción social, serán desarrolladas por los organismos públicos.",
    "multi-tags": "seguridad "
-},
+ },
  {
    "id": 80,
    "img": "",
@@ -1859,18 +1591,14 @@
    "iconodisplay": "none",
    "icononame": "seguridad",
    "link": "",
-   "COMISIÓN": "",
-   "número": "",
    "titulo": "Vida libre de violencia de género",
-   "FIELD15": 33,
+   "numero80": "",
    "C80": "Nada dice. ",
-   "N° caracteres": [
-      null,
-      null
-   ],
+   "número-texto-NC": "Artículo 89, incisos 1 y 2.",
+   "numeroNC": "Artículo 89",
    "NC": "Las mujeres, niñas y diversidades tendrán derecho a una vida libre de violencia de género en todas sus manifestaciones, tanto en el ámbito público como privado. \n\nEl Estado deberá adoptar todas las medidas necesarias para erradicar la violencia de género.",
    "multi-tags": "violencia de género, mujeres, niñas, diversidades"
-},
+ },
  {
    "id": 81,
    "img": "",
@@ -1883,18 +1611,14 @@
    "iconodisplay": "none",
    "icononame": "seguridad",
    "link": "",
-   "COMISIÓN": "",
-   "número": "",
    "titulo": "Casas de acogida",
-   "FIELD15": 16,
+   "numero80": "",
    "C80": "Nada dice. ",
-   "N° caracteres": [
-      null,
-      null
-   ],
+   "número-texto-NC": "Artículo 51, inciso 4.",
+   "numeroNC": "Artículo 51",
    "NC": "Se garantizará la creación de viviendas de acogida en casos de violencia de género y otras formas de vulneración de derechos.",
    "multi-tags": "casas de acogida, violencia de género "
-},
+ },
  {
    "id": 82,
    "img": "",
@@ -1907,18 +1631,14 @@
    "iconodisplay": "inline",
    "icononame": "trabajo",
    "link": "",
-   "COMISIÓN": "DDFF",
-   "número": "11",
    "titulo": "Trabajo doméstico y de cuidados",
-   "FIELD15": 31,
-   "C80": "Nada dice. No se reconocen las labores domésticas y de cuidados. \n",
-   "N° caracteres": [
-      66,
-      258
-   ],
-   "NC": "El Estado reconocerá que las labores domésticas y de cuidados son trabajos socialmente necesarios, contribuyen a la economía y son indispensables para sostener la vida. \n\nSe implementarán mecanismos para la redistribución del trabajo doméstico y de cuidados.",
+   "numero80": "",
+   "C80": "Nada dice. No se reconocen los trabajos domésticos y de cuidados. \n",
+   "número-texto-NC": "Artículo 49, incisos 1 y 2. ",
+   "numeroNC": "Artículo 49",
+   "NC": "El Estado reconocerá que los trabajos domésticos y de cuidados son trabajos socialmente necesarios, que contribuyen a la economía y que son indispensables para sostener la vida. \n\nSe implementarán mecanismos para la redistribución del trabajo doméstico y de cuidados.",
    "multi-tags": "#trabajo #trabajodomestico #cuidados #trabajodecuidados"
-},
+ },
  {
    "id": 83,
    "img": "",
@@ -1931,18 +1651,14 @@
    "iconodisplay": "none",
    "icononame": "trabajo",
    "link": "",
-   "COMISIÓN": "DDFF",
-   "número": "8, 9  segundo informe",
    "titulo": "Trabajo decente",
-   "FIELD15": 15,
-   "C80": "Nada dice.",
-   "N° caracteres": [
-      10,
-      229
-   ],
-   "NC": "Se prohibirá la discriminación entre trabajadoras y trabajadores.\n\nTodas las personas tendremos derecho a igual remuneración por igual trabajo.\n\nSe prohibirá la precarización laboral y el trabajo forzoso, humillante o denigrante.",
+   "numero80": "Artículo 19 n° 16",
+   "C80": "No menciona nada respecto de las condiciones laborales, del despido, de la justicia de la remuneración ni de la precarización laboral. ",
+   "número-texto-NC": "Artículo 46 inciso 2, 3 y 8.",
+   "numeroNC": "Artículo 46",
+   "NC": "Se prohibirá la discriminación y el despido arbitrario.\n\nSe garantizará el derecho a una remuneración justa y suficiente, que asegure el sustento de quien trabajo y de su familia. Todas las personas tendremos derecho a igual remuneración por igual trabajo.\n\nSe prohibirá la precarización laboral y el trabajo forzoso, humillante o denigrante.",
    "multi-tags": "#trabajo #trabajodecente"
-},
+ },
  {
    "id": 84,
    "img": "",
@@ -1955,18 +1671,14 @@
    "iconodisplay": "none",
    "icononame": "trabajo",
    "link": "",
-   "COMISIÓN": "DDFF",
-   "número": "8, 9  segundo informe",
    "titulo": "Derecho al trabajo",
-   "FIELD15": 18,
+   "numero80": "Artículo 19 n° 16",
    "C80": "No garantiza el derecho al trabajo, sino que a la “libre contratación y a la libre elección del trabajo”.\n",
-   "N° caracteres": [
-      106,
-      269
-   ],
-   "NC": "Toda persona tendrá derecho al trabajo y su libre elección. Se garantizará el trabajo decente y su protección.\nIncorporará el derecho al descanso, la desconexión digital y la generación de políticas públicas que permitan compatibilizar el trabajo con otras actividades.",
+   "número-texto-NC": "Artículo 46 inciso 1, 4, 5, 6 y 7.",
+   "numeroNC": "Artículo 46.",
+   "NC": "Toda persona tendrá derecho al trabajo y su libre elección. Se garantizará el trabajo decente y su protección, incluido el derecho a condiciones laborales equitativas, a la salud y seguridad en el trabajo, al descanso y a la desconexión digital.\n\nEl Estado generará políticas públicas que permitan compatibilizar la vida laboral, familiar, comunitaria y el trabajo de cuidados.",
    "multi-tags": "#derechoaltrabajo #trabajo"
-},
+ },
  {
    "id": 85,
    "img": "",
@@ -1979,18 +1691,14 @@
    "iconodisplay": "none",
    "icononame": "trabajo",
    "link": "",
-   "COMISIÓN": "DDFF",
-   "número": "12 segundo informe",
    "titulo": "Libertad sindical",
-   "FIELD15": 17,
+   "numero80": "",
    "C80": "Solo menciona el derecho a sindicalizarse. \n\nSeñala explícitamente que quienes trabajen en el Estado no tienen derecho a huelga.",
-   "N° caracteres": [
-      128,
-      159
-   ],
+   "número-texto-NC": "Artículo 47, incisos 1, 2, 3, 4, 5, 6, 7 y 8. ",
+   "numeroNC": "Artículo 47",
    "NC": "La Constitución asegurará a trabajadoras y trabajadores del sector público y privado el derecho a la sindicalización, a la negociación colectiva y a la huelga.",
    "multi-tags": "#sindicato #libertadsindical #sindicalismo"
-},
+ },
  {
    "id": 86,
    "img": "",
@@ -2003,18 +1711,14 @@
    "iconodisplay": "inline",
    "icononame": "ciencia",
    "link": "",
-   "COMISIÓN": "Sistema de Conocimientos ",
-   "número": "Art. 18",
    "titulo": "Conectividad digital ",
-   "FIELD15": 21,
+   "numero80": "",
    "C80": "Nada dice.",
-   "N° caracteres": [
-      10,
-      167
-   ],
+   "número-texto-NC": "Artículo 86, incisos 1, 2, 3, 4, 5, 6 y 7. ",
+   "numeroNC": "Artículo 86",
    "NC": "Todas las personas, individual y colectivamente, tendremos derecho al acceso universal, a la conectividad digital y a las tecnologías de la información y comunicación.",
    "multi-tags": "Conectividad digital, digitalización, conexión, internet"
-},
+ },
  {
    "id": 87,
    "img": "",
@@ -2027,18 +1731,14 @@
    "iconodisplay": "none",
    "icononame": "ciencia",
    "link": "",
-   "COMISIÓN": "Sistema de Conocimientos ",
-   "número": "Art. 8",
    "titulo": "Protección de datos personales",
-   "FIELD15": 30,
-   "C80": "Nada dice sobre la protección de datos personales.",
-   "N° caracteres": [
-      50,
-      279
-   ],
-   "NC": "Todas las personas tendremos derecho a la protección de nuestros datos personales.\n\nTodas las personas podremos acceder a los datos recogidos que nos conciernen, ser informadas y oponernos al tratamiento de nuestros datos y a obtener su rectificación, cancelación y portabilidad.",
+   "numero80": "Artículo 19 n° 4",
+   "C80": "Solo menciona que la protección de datos personales se determinará por ley. \n\nSin embargo, actualmente existen proyectos de ley para proteger datos personales que llevan años estancados en el Congreso Nacional y no avanzan en su tramitación legislativa.",
+   "número-texto-NC": "Artículo 87 incisos 1 y 2. Artículo 376. ",
+   "numeroNC": "Artículo 87",
+   "NC": "Todas las personas tendremos derecho a la protección de nuestros datos personales.\n\nPodremos conocer, decidir y controlar el uso los datos que nos conciernen; acceder, ser informadas y oponernos al tratamiento de ellos; y a obtener su rectificación, cancelación y portabilidad.\n\nSe creará la Agencia Nacional de Protección de Datos, órgano autónomo encargado de velar por la promoción y protección de los datos personales, con facultades de normar, investigar, fiscalizar y sancionar a entidades públicas y privadas.",
    "multi-tags": "datos protegidos, datos, datos personales, protección de datos personales"
-},
+ },
  {
    "id": 88,
    "img": "",
@@ -2051,18 +1751,14 @@
    "iconodisplay": "none",
    "icononame": "ciencia",
    "link": "",
-   "COMISIÓN": "Sistema de Conocimientos ",
-   "número": "Art. 9",
    "titulo": "Desarrollo de investigación",
-   "FIELD15": 27,
+   "número80": "",
    "C80": "Le corresponde al Estado estimular la investigación científica y tecnológica.",
-   "N° caracteres": [
-      77,
-      265
-   ],
+   "número-texto-NC": "Artículo 97, incisos 1, 2, 3 y 4.",
+   "numeroNC": "Artículo 97",
    "NC": "El Estado estimulará, promoverá y fortalecerá el desarrollo de la investigación científica y tecnológica en todas las áreas del conocimiento, contribuyendo así al enriquecimiento sociocultural del país y al mejoramiento de las condiciones de vida de sus habitantes.",
    "multi-tags": "investigación, desarrollo, ciencia"
-},
+ },
  {
    "id": 89,
    "img": "",
@@ -2075,18 +1771,14 @@
    "iconodisplay": "none",
    "icononame": "ciencia",
    "link": "",
-   "COMISIÓN": "Sistema de Conocimientos ",
-   "número": "Art. 22",
    "titulo": "Innovación en el Estado",
-   "FIELD15": 23,
+   "numero80": "",
    "C80": "Nada dice sobre la innovación en el Estado.",
-   "N° caracteres": [
-      43,
-      161
-   ],
+   "número-texto-NC": "Artículo 178, incisos 1 y 2.",
+   "numeroNC": "Artículo 178",
    "NC": "El Estado deberá utilizar los mejores avances de las ciencias, tecnología, conocimientos e innovación para promover la mejora continua de los servicios públicos.",
    "multi-tags": "ciencia, tecnología, conocimiento, innovación "
-},
+ },
  {
    "id": 90,
    "img": "",
@@ -2099,18 +1791,14 @@
    "iconodisplay": "inline",
    "icononame": "deporte",
    "link": "",
-   "COMISIÓN": "",
-   "número": "",
    "titulo": "Derecho al deporte",
-   "FIELD15": 18,
+   "numero80": "",
    "C80": "Los municipios pueden crear corporaciones o fundaciones cuyo objeto sea la promoción del deporte.\n",
-   "N° caracteres": [
-      98,
-      295
-   ],
+   "número-texto-NC": "Artículo 60, incisos 1, 2 y 3. ",
+   "numeroNC": "Artículo 60",
    "NC": "Todas las personas tendremos derecho al deporte, a la actividad física y a las prácticas corporales. \n\nSe garantizará el ejercicio de este derecho en sus distintas dimensiones y disciplinas, ya sean recreacionales, competitivas o de alto rendimiento. Se reconocerá la función social del deporte.",
    "multi-tags": "deporte, disciplinas, derecho al deporte"
-},
+ },
  {
    "id": 91,
    "img": "",
@@ -2123,18 +1811,14 @@
    "iconodisplay": "none",
    "icononame": "deporte",
    "link": "",
-   "COMISIÓN": "Sistema de Conocimientos",
-   "número": "1er informe Art 24 y 26",
    "titulo": "Derecho al ocio",
-   "FIELD15": 15,
+   "numero80": "",
    "C80": "Nada dice.",
-   "N° caracteres": [
-      10,
-      87
-   ],
+   "número-texto-NC": "Artículo 91. ",
+   "numeroNC": "Artículo 91",
    "NC": "Todas las personas tendemos derecho al descanso, al ocio y a disfrutar el tiempo libre.",
    "multi-tags": "derecho al ocio, descanso, tiempo libre"
-},
+ },
  {
    "id": 92,
    "img": "",
@@ -2147,18 +1831,14 @@
    "iconodisplay": "inline",
    "icononame": "principios",
    "link": "",
-   "COMISIÓN": "Principios Constitucionales",
-   "número": "1",
    "titulo": "Chile: Estado social y de derecho",
-   "FIELD15": 33,
+   "numero80": "",
    "C80": "No establece el carácter del Estado. Sin embargo, a lo largo del texto configura a Chile como un Estado subsidiario que privilegia en todo caso la acción de los privados en desmedro de lo público.",
-   "N° caracteres": [
-      196,
-      331
-   ],
+   "número-texto-NC": "Artículo 1, incisos 1, 2 y 3. ",
+   "numeroNC": "Artículo 1",
    "NC": "Chile será un Estado social y democrático de derecho. Será plurinacional, intercultural y ecológico. \n\nSerá una República solidaria, su democracia será paritaria y reconocerá como valores intrínsecos e irrenunciables la dignidad, la libertad, la igualdad sustantiva de los seres humanos y su relación indisoluble con la naturaleza.",
    "multi-tags": "estado social de derecho, principios, estado subsidiario "
-},
+ },
  {
    "id": 93,
    "img": "",
@@ -2171,18 +1851,14 @@
    "iconodisplay": "none",
    "icononame": "principios",
    "link": "",
-   "COMISIÓN": "Principios Constitucionales",
-   "número": "14",
    "titulo": "Erradicación de la corrupción",
-   "FIELD15": 29,
+   "numero80": "",
    "C80": "La palabra corrupción no aparece mencionada en la Constitución vigente.",
-   "N° caracteres": [
-      71,
-      274
-   ],
+   "número-texto-NC": "Artículo 170, incisos 1, 2 y 3. ",
+   "numeroNC": "Artículo 170",
    "NC": "Se promoverá la integridad de la función pública y la erradicación de la corrupción del sector público y privado. \n\nSe deberá perseguir administrativa y judicialmente la aplicación de las sanciones administrativas, civiles y penales que correspondan, según determine la ley.",
    "multi-tags": "corrupción, anticorrupción"
-},
+ },
  {
    "id": 94,
    "img": "",
@@ -2195,16 +1871,32 @@
    "iconodisplay": "none",
    "icononame": "principios",
    "link": "",
-   "COMISIÓN": "Principios Constitucionales",
-   "número": "Art. 5",
    "titulo": "Democracia Paritaria",
-   "FIELD15": 20,
+   "numero80": "",
    "C80": "Nada dice. ",
-   "N° caracteres": [
-      11,
-      245
-   ],
-   "NC": "En Chile, la democracia será inclusiva y paritaria. Se ejercerá en forma directa, participativa, comunitaria y representativa.\n\nEl Estado promoverá una sociedad en la que mujeres, hombres y diversidades participemos en condiciones de igualdad. \n",
+   "número-texto-NC": "Artículo 6 ",
+   "numeroNC": "Artículo 6",
+   "NC": "El Estado promoverá una sociedad en la que mujeres, hombres y diversidades y disidencias sexuales y de género participemos en condiciones de igualdad sustantiva.\n\nLos órganos colegiados del Estado, autónomos y de la Administración deberán tener una composición paritaria que asegure que al menos la mitad de sus integrantes sean mujeres. El Estado adoptará medidas para la representación de diversidades y disidencias.\n \nLos poderes y órganos del Estado tomarán medidas para alcanzar la igualdad de género e incorporarán transversalmente un enfoque de género.",
    "multi-tags": "democracia paritaria, paridad"
-}
+ },
+ {
+   "id": 95,
+   "img": "",
+   "relacionadas": "[]",
+   "icono": "Derechos fundamentales",
+   "tags": "Derechos fundamentales",
+   "color": "#33c47c",
+   "titlecolor": "#EDEBDF",
+   "titleopacity": 1,
+   "iconodisplay": "",
+   "icononame": "derechos fundamentales",
+   "link": "",
+   "titulo": "Derecho a la igualdad y no discriminación ",
+   "numero80": "Art 19 N°16",
+   "C80": "Limita la no discriminación al ámbito del trabajo. ",
+   "número-texto-NC": "Artículo 25",
+   "numeroNC": "Artículo 25",
+   "NC": "Establece que toda persona tiene derecho a la igualdad, que comprende la igualdad sustantiva, la igualdad ante la ley y la no discriminación, asegurando la igualdad de trato y oportunidades. \n\nSe prohibe toda forma de discriminación, especialmente por motivo como nacionalidad o apatridia, edad, sexo, características sexuales, orientación sexual o afectiva, pertenencia a un pueblo y nación indígena, clase social y ruralidad, entre otras. ",
+   "multi-tags": ""
+ }
 ]
