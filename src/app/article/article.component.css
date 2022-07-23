@@ -49,13 +49,13 @@ img.icono-tarjetas {
   opacity: 0.7;
 }
 
-.iconos-precard #descarga {
+.descarga {
   height: 14px;
 /*  margin-right: 4px;
 */  
   margin-top: 16px;
-  content: url("../../assets/img/download.svg");
-  opacity: 0.7;
+/*  content: url("../../assets/img/download.svg");
+*/  opacity: 0.7;
 }
 
 

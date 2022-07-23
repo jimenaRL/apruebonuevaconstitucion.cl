@@ -53,7 +53,9 @@
       <div class="spacer"></div>
 <!--       <img id="articulo" alt="Lee el articulo en la nueva Constitución"/>
  -->   <p id="numeroNC" class="card-text card-text-nc" >{{ article.numeroNC }}</p>
-       <img id="descarga" alt="Descarga la tarjeta comparativa de la nueva Constitución"/>
+        <a download="{{article.icononame}}-{{article.titulo}}.jpg" href="../../assets/graficas-tarjetas/tarjetas-descarga{{article.id}}.jpg" title="comparativa">
+          <img class="descarga" src="../../assets/img/download.svg" alt="Descarga la tarjeta comparativa de la nueva Constitución"/>
+        </a>
 </div>
 
 
