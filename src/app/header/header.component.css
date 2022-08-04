@@ -28,7 +28,8 @@
   margin: 0px;
   margin-top: 10px;
   cursor:pointer;
-  content: url("../../assets/img/apruebo-header.svg");
+  content: url("../../assets/img/apruebo-header.png");
+/*  content: url("../../assets/img/apruebo-header.svg");*/
 }
 
 
