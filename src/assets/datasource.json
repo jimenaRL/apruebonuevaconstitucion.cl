@@ -1831,7 +1831,7 @@
    "color": "#e84dc7",
    "titlecolor": "#EDEBDF",
    "titleopacity": 1,
-   "iconodisplay": "#VALUE!",
+   "iconodisplay": "none",
    "icononame": "deporte",
    "link": "",
    "titulo": "Derechos culturales",
