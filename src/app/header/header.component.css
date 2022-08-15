@@ -15,6 +15,14 @@
   text-align: right;
 }
 
+.toolbar #apoderades {
+  height: 60px;
+  margin: 0px;
+  margin-top: 10px;
+  margin-right: 5vw;
+  content: url("../../assets/img/apoderades.png");
+}
+
 .toolbar #suscribete {
   height: 60px;
   margin: 0px;
@@ -55,6 +63,9 @@
     height: 8vw;
   }
   .toolbar #suscribete {
+    height: 8vw;
+  }
+  .toolbar #apoderades {
     height: 8vw;
   }
 }
