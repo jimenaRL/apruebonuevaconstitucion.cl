@@ -1,8 +1,8 @@
-# Apruebonuevaconstitucion
+# Apruebo Nueva Constitucion
 
-Code for Apruebonuevaconstitucion.cl website.
-
-Comando Movimientos Sociales por el Apruebo.
+💛💙💜❤️💚
+PÁGINA HECHA CON AMOR POR EL COMANDO DE LOS MOVIMIENTOS SOCIALES POR EL APRUEBO
+💛💙💜❤️💚
 
 ![Image description](cover.png)
 
