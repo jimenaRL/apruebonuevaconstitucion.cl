@@ -1,11 +1,5 @@
 # Apruebo Nueva Constitución
                                            
- _____ _____ _____ _____ _____ _____ _____ 
-|  _  |  _  | __  |  |  |   __| __  |     |
-|     |   __|    -|  |  |   __| __ -|  |  |
-|__|__|__|  |__|__|_____|_____|_____|_____|
-
-
 💛💙💜❤️💚
 
 PÁGINA HECHA CON AMOR POR EL COMANDO DE LOS MOVIMIENTOS SOCIALES POR EL APRUEBO
@@ -26,6 +20,8 @@ Package                         Version
 @schematics/angular             14.0.1
 rxjs                            6.6.7
 typescript                      4.7.3
+---------------------------------------------------------
+
 
 ![Image description](cover.png)
 
