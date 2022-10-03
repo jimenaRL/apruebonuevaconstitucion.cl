@@ -20,6 +20,7 @@ Package                         Version
 @schematics/angular             14.0.1
 rxjs                            6.6.7
 typescript                      4.7.3
+
 ---------------------------------------------------------
 
 
